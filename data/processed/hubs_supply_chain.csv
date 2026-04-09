@@ -1,0 +1,13 @@
+Hub_ID,Type,Latitude,Longitude,Aeroport,Airport_Tier,Distance_aeroport_km
+0,Micro,6.324716,-2.542234,Kumasi,2,109.7
+1,Micro,8.257631,0.210698,Tamale,2,172.25
+2,Micro,10.072245,-2.523489,Wa,3,2.26
+3,Micro,6.160305,0.631581,Accra,1,113.95
+4,Micro,10.724329,-0.818099,Bolgatanga,3,7.57
+5,Micro,9.680425,0.086428,Tamale,2,106.35
+6,Micro,5.267772,-1.867857,Sekondi-Takoradi,3,40.06
+7,Micro,7.559133,-2.087093,Sunyani,3,36.4
+8,Micro,9.4013,-1.097049,Tamale,2,27.94
+9,Standard,6.988847,0.32721,Accra,1,169.58
+10,Micro,5.757727,-0.397387,Accra,1,31.12
+11,Micro,6.692763,-1.42495,Kumasi,2,21.92

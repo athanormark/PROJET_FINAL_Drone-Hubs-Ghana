@@ -1,0 +1,3 @@
+Scénario,N_hubs,Micro,Standard,Large,N_drones,Couverture_fac_%,Fac_couvertes,Fac_totales,Pop_couverte,CAPEX_M$,OPEX_M$/an,TCO_5ans_M$,Coût_par_facility_$,Coût_par_habitant_$
+A — Coût optimal,11,9,2,0,68,92.96,1069,1150,1422846885,10.3,1.8,19.3,18054,0.01
+B — Couverture optimale,14,13,1,0,70,97.13,1117,1150,1457753496,11.1,2.01,21.17,18953,0.01

@@ -1,0 +1,2464 @@
+Facility_Name,Latitude,Longitude,Facility_Type,Hub_ID,Dist_hub_km,Covered,Operateur
+Abotanse CHPs Compound,7.0798809,-0.0957694,CHPS,29,71.68,True,Zipline
+Adaklu Ablornu CHPs Compound,6.3488205,0.6367137,CHPS,29,54.65,True,Zipline
+Adukrom CHPs Compound,7.0140064,-0.0952629,CHPS,29,65.0,True,Zipline
+Agordeke CHPs Compound,7.0558061,0.1203525,CHPS,29,63.25,True,Zipline
+Akome CHPs Compound,6.8200771,0.4678395,CHPS,29,49.97,True,Zipline
+Alogboshie CHPS Compound,5.6266848,-0.2320251,CHPS,25,68.29,True,Zipline
+Ampeyo CHPs Compound,7.7690975,0.5600684,CHPS,30,63.16,True,Zipline
+Amuzudeue CHPs Compound,6.5037605,0.6293018,CHPS,29,51.6,True,Zipline
+Anfoeta Zongo CHPs Compound,6.7403375,0.3913102,CHPS,29,37.72,True,Zipline
+Asikasu CHPs Compound,7.0395861,-0.0821343,CHPS,29,66.97,True,Zipline
+Atidze CHPs Compound,6.713719,0.5192051,CHPS,29,46.69,True,Zipline
+Atobiata CHPs Compound,7.4075371,0.473577,CHPS,30,68.97,True,Zipline
+Atomkongu CHPS Compound,10.8351122,-1.0003225,CHPS,27,58.38,True,Zipline
+Attakorah CHPs Compound,7.046312,-0.0886518,CHPS,29,67.94,True,Zipline
+Attakrom CHPs Compound,7.47321,0.4451324,CHPS,30,62.04,True,Zipline
+Avee CHPs Compound,6.7689535,0.5408405,CHPS,29,52.14,True,Zipline
+Awudome Avenui CHPs Compound,6.6006191,0.3141154,CHPS,29,20.88,True,Zipline
+Bontibor CHPs Compound,8.0896256,0.4973144,CHPS,30,64.83,True,Zipline
+Busec CHPs Compound,7.4243914,0.462443,CHPS,30,66.83,True,Zipline
+Chuchukope CHPs Compound,6.7186375,-0.1538484,CHPS,29,43.31,True,Zipline
+Dadiase CHPs Compound,8.2335103,0.5441421,CHPS,30,78.11,True,Zipline
+Donkorkrom Central CHPs Compound,7.0473648,-0.0806923,CHPS,29,67.7,True,Zipline
+Dortorpong Sikasu CHPs Compound,6.7377159,-0.3456442,CHPS,25,60.52,True,Zipline
+Guaman CHPs Compound,7.4480408,0.4425852,CHPS,30,63.49,True,Zipline
+Gyamlome CHPs Compound,7.5811885,0.4434741,CHPS,30,55.74,True,Zipline
+Have CHPs Compound,6.527771,0.438216,CHPS,29,30.77,True,Zipline
+Hodzoka CHPs Compound,6.6701113,0.5752478,CHPS,29,49.87,True,Zipline
+Hovered CHPs Compound,6.5981169,0.4302969,CHPS,29,32.0,True,Zipline
+Kabisayor CHPs Compound,7.4146162,0.4726591,CHPS,30,68.39,True,Zipline
+Koranteng CHPs Compound,7.0584876,-0.1624817,CHPS,29,72.83,True,Zipline
+Koranteng Krachi CHPs,7.0950537,-0.1914645,CHPS,29,77.95,True,Zipline
+Kpazie Community Health Planning and Service (CHPS) Compound,10.4123906,-2.6956042,CHPS,19,23.01,True,MASA
+Kpenoe CHPs Compound,6.6314431,0.5109812,CHPS,29,41.65,True,Zipline
+Kpoeta (Kpɔ̃ta) CHPs Compound,6.9094205,0.5426818,CHPS,2,19.54,True,MASA
+Kwaekesse CHPs Compound,7.0574664,-0.1161307,CHPS,29,70.35,True,Zipline
+Kwame Dwamena CHPs Compound,6.7409956,-0.3117113,CHPS,29,59.43,True,Zipline
+Kwesi Kumah CHPs Compound,6.9705129,-0.1632476,CHPS,29,64.55,True,Zipline
+Lokoe CHPs Compound,6.5994827,0.4441626,CHPS,29,33.47,True,Zipline
+Luvudo CHPs Compound,6.8762788,0.5249901,CHPS,2,23.45,True,MASA
+Mafikope CHPs Compound,7.1693366,0.0336491,CHPS,30,70.1,True,Zipline
+Mmradan CHPs Compound,7.0208187,-0.2189973,CHPS,29,72.65,True,Zipline
+Okanease CHPs,7.742699,0.3662283,CHPS,30,42.18,True,Zipline
+Okanta CHPs Compound,7.54357,0.4871833,CHPS,30,61.91,True,Zipline
+Tapa Amanya CHPs Compound,7.4517949,0.3407377,CHPS,30,54.76,True,Zipline
+Tease Island CHPs Compound,6.7618993,-0.2323986,CHPS,29,53.17,True,Zipline
+Teteman CHPs Compound,7.3036365,0.5081259,CHPS,2,25.03,True,MASA
+Tokokoe CHPs Compound,6.718498,0.5555533,CHPS,29,50.39,True,Zipline
+kwasi Addae CHPs Compound,7.0120056,-0.231568,CHPS,29,72.68,True,Zipline
+21st Clinic,5.3030901,-1.9927007,Clinic,6,9.03,True,MASA
+Aboadze Clinic,4.9733344,-1.6500323,Clinic,3,8.29,True,MASA
+Abodom CHPS Compound,6.1642186,-0.8186405,Clinic,25,41.39,True,Zipline
+Aboso Clinic,5.3658203,-1.9409662,Clinic,6,0.0,True,MASA
+Abotoase Health Centre,7.4064593,0.3032677,Clinic,30,55.75,True,Zipline
+Abubruwa CHPS Compound,7.9330107,0.5377045,Clinic,30,62.43,True,Zipline
+Abura Clinic,5.1311773,-1.2727752,Clinic,1,25.33,True,MASA
+Accra New Town CHPS Compound,5.5830514,-0.2059619,Clinic,25,73.85,True,Zipline
+Acheampong Specialist Clinic,5.5616954,-0.1725763,Clinic,25,77.44,True,Zipline
+Achievers Medical Centre/Pharmacy,6.6252406,-1.2075522,Clinic,26,51.62,True,Zipline
+Achimfo Chips,5.7842722,-2.7227839,Clinic,28,51.48,True,Zipline
+Acolatse Clinic,6.7051444,-1.6471662,Clinic,26,48.41,True,Zipline
+Adaa CHPS Compound,7.2445264,-1.8550088,Clinic,26,55.94,True,Zipline
+Adabraka clinic,5.5662728,-0.2095995,Clinic,25,75.45,True,Zipline
+Adaklu Ahunda Health Centre,6.2884718,0.5447816,Clinic,29,47.74,True,Zipline
+Adawukwao CHIPS Compound,5.6721049,-0.5151614,Clinic,25,59.49,True,Zipline
+Addis Medical Laboratory,7.3330164,-2.3215114,Clinic,8,21.36,True,MASA
+Adeiso Polyclinic,5.7995879,-0.4906689,Clinic,25,45.09,True,Zipline
+Adenta Clinic,5.7060649,-0.1681089,Clinic,25,63.21,True,Zipline
+Adowa Boatemaa Memorial Clinic,5.5330576,-0.2373638,Clinic,25,77.96,True,Zipline
+Afenyo Memorial Hospital,5.6921057,-0.0342412,Clinic,25,72.8,True,Zipline
+Agbogba Community Clinic,5.6949529,-0.2012443,Clinic,25,62.62,True,Zipline
+Ahamasu Health Centre,7.7255265,0.5502959,Clinic,30,62.53,True,Zipline
+Ahmadiyya,6.8940491,-2.5651706,Clinic,28,79.68,True,Zipline
+Airport Clinic Limited,5.608267,-0.1709184,Clinic,25,72.77,True,Zipline
+Airport Clinic Limited,5.6074867,-0.1712902,Clinic,25,72.84,True,Zipline
+Akai House Clinic,5.5772342,-0.171563,Clinic,25,75.89,True,Zipline
+Albany Specialist Clinic,5.6701424,-0.1838431,Clinic,25,65.94,True,Zipline
+All Care Medical Center,5.7080264,-0.0149194,Clinic,25,72.81,True,Zipline
+All Faith Clinic,5.5429511,-0.3350059,Clinic,25,74.38,True,Zipline
+Amamorley Health Centre,5.6634783,-0.2968717,Clinic,25,62.19,True,Zipline
+Ameco Clinic,6.8438867,0.4380732,Clinic,2,29.91,True,MASA
+Amen Scientific Herbal Clinic,5.8038321,-2.8246973,Clinic,28,56.42,True,Zipline
+Amerilife Spine Clinic,6.693929,-1.6458691,Clinic,26,49.33,True,Zipline
+Anglican Medical Center,5.6972601,-0.2811363,Clinic,25,59.09,True,Zipline
+Ankaako CHPS Compound,5.3891941,-1.4548716,Clinic,10,14.23,True,MASA
+Anloga Avete Clinic,5.7916311,0.8825777,Clinic,-1,-1.0,False,Aucun
+Anomangye Specialist Hospital,6.7240929,-1.6399322,Clinic,26,46.25,True,Zipline
+Ansaful CHPS Compound,5.3875577,-0.648335,Clinic,4,0.0,True,MASA
+Anyinasuso Health Centre,6.9590279,-2.100323,Clinic,26,79.6,True,Zipline
+Anyirawase CHPs Compound,6.5757507,0.3122873,Clinic,29,19.18,True,Zipline
+Apenamadi chips compound,6.9264342,-2.4563998,Clinic,8,26.53,True,MASA
+Asanyansu Clinic,7.0386905,-0.5199449,Clinic,-1,-1.0,False,Aucun
+Asarekrom CHPS,6.5762288,-2.6390223,Clinic,28,47.04,True,Zipline
+Asato-Wawaso CHPS Compound,7.6545297,0.4441794,Clinic,30,52.79,True,Zipline
+Ashaiman Poly Clinic,5.6865054,-0.0397182,Clinic,25,72.91,True,Zipline
+Asiedu Memorial Clinic,6.0930368,-0.25317,Clinic,25,24.58,True,Zipline
+Asubingya chip compounds,7.7429908,-2.0629199,Clinic,-1,-1.0,False,Aucun
+Asuboi chips compound,7.2994445,-2.0487166,Clinic,5,24.61,True,MASA
+Asukawkaw Health Centre,7.6882864,0.3663789,Clinic,30,43.49,True,Zipline
+At Jude Clinic,10.8941505,-1.0885918,Clinic,27,68.35,True,Zipline
+Atekyem Medical Center,6.0785084,-0.2690214,Clinic,25,23.97,True,Zipline
+Atonkwa CHPS Compound,5.1148728,-1.3256942,Clinic,-1,-1.0,False,Aucun
+Atronie Health Center,7.1593665,-2.404393,Clinic,8,0.0,True,MASA
+Atta Mills Clinic,5.1423082,-1.244005,Clinic,1,21.91,True,MASA
+Awate Health Centre,6.8685583,0.2368739,Clinic,29,43.05,True,Zipline
+Ayeduase Health Centre,6.6757824,-1.5610142,Clinic,26,46.36,True,Zipline
+B.A. Fuseini Memorial Clinic,9.3839717,-0.8145347,Clinic,0,0.0,True,MASA
+BAMVIM CLINIC,9.363791,-0.8348829,Clinic,0,3.17,True,MASA
+BJ Medical Centre,5.6306277,-0.2609306,Clinic,25,66.83,True,Zipline
+Bagurugu Clinic,9.8885631,-0.7234993,Clinic,27,51.72,True,Zipline
+Be im Chips Compound,8.0019431,-1.4694021,Clinic,21,29.17,True,MASA
+Beijing Clinic,5.5583734,-0.1801221,Clinic,25,77.46,True,Zipline
+Bezzaleel Diagnostic Clinic,6.0926275,-0.2600396,Clinic,25,23.95,True,Zipline
+Biriwa Polyclinic,5.1620283,-1.161675,Clinic,1,12.6,True,MASA
+Bliss Eye Care,10.0535844,-2.5010303,Clinic,7,4.16,True,MASA
+Bloom physiotherapy clinic,5.5712999,-0.2365437,Clinic,25,73.94,True,Zipline
+Bodaa chips compound,7.7813696,-2.8200144,Clinic,16,22.03,True,MASA
+Bodada Health Centre,7.3578678,0.4895361,Clinic,30,73.88,True,Zipline
+Bogoso Clinic,5.5695349,-2.0195425,Clinic,6,24.26,True,MASA
+Bomso Clinic,6.6846225,-1.5789128,Clinic,26,46.34,True,Zipline
+Bonakye CHPs Compound,8.4005857,0.4033496,Clinic,13,14.46,True,MASA
+Bonna O- A Memorial Clinic,6.0944242,-0.2557173,Clinic,25,24.26,True,Zipline
+Boys Dormitory,5.9689484,-0.9933071,Clinic,25,65.84,True,Zipline
+Brahabebome Clinic,5.3100143,-1.9992819,Clinic,6,8.95,True,MASA
+Bramkurom CHPS Compound,6.515554,-0.8907326,Clinic,25,60.2,True,Zipline
+Breast Clinic,6.6957176,-1.6291948,Clinic,26,48.12,True,Zipline
+Bright ALK Herbal Clinic,5.5793247,-0.1444822,Clinic,25,76.93,True,Zipline
+Bruben Health Centre,6.8528062,-0.0194326,Clinic,29,45.22,True,Zipline
+Buipe Health Center,8.7837394,-1.4691558,Clinic,24,15.31,True,MASA
+Buoku polyclinic,7.4832239,-2.1730852,Clinic,5,0.0,True,MASA
+Busa Health Centre,10.0205722,-2.3909158,Clinic,7,16.59,True,MASA
+Bussie Health Centre,10.490573,-2.5007604,Clinic,19,0.0,True,MASA
+Busunu Health Centre,9.1649194,-1.5095539,Clinic,-1,-1.0,False,Aucun
+Buterisa CHIPS Compound,10.4813523,-1.2795267,Clinic,27,54.16,True,Zipline
+Buya Health Centre,8.3752549,-0.0509579,Clinic,30,64.32,True,Zipline
+CCTU Clinic,5.1536489,-1.2783217,Clinic,1,25.23,True,MASA
+CDC Hospital (Cosmas- Damien Clinic),6.0882694,-0.260182,Clinic,25,24.18,True,Zipline
+CHPS,10.0688655,-0.8971085,Clinic,27,32.58,True,Zipline
+CHPS Compound,6.4507913,-2.9733155,Clinic,28,61.74,True,Zipline
+CHPS Compound,6.0105292,-0.0515671,Clinic,25,48.58,True,Zipline
+CHPS Gonum,10.920852,-1.0050586,Clinic,27,67.5,True,Zipline
+Caiquo Hospital,5.6529005,-0.0224658,Clinic,25,77.03,True,Zipline
+Cathedral Clinic and Lab Limited,5.5395208,-0.2077661,Clinic,25,78.32,True,Zipline
+Celestial Medicare Clinic,5.6011106,-0.1205109,Clinic,25,75.98,True,Zipline
+Central Kasoa Clinic - Annex,5.4846975,-0.4201227,Clinic,4,27.47,True,MASA
+Champion Divine,5.6427452,-0.2494993,Clinic,25,65.96,True,Zipline
+Chansa CHPS,10.5726862,-1.192668,Clinic,27,49.4,True,Zipline
+Chiraa Health Center,7.4034605,-2.1827318,Clinic,5,8.93,True,MASA
+Chirano health center,6.272812,-2.3192901,Clinic,28,20.87,True,Zipline
+Chiropractic & Wellness Centres,5.613932,-0.2098381,Clinic,25,70.49,True,Zipline
+Christian Medical Service Clinic,5.5832145,-0.1050135,Clinic,25,78.54,True,Zipline
+Christleads Medical Center,5.6803825,-0.1762184,Clinic,25,65.31,True,Zipline
+Classic Diagnostic & Medical Clinic,5.7045526,-0.2017476,Clinic,25,61.64,True,Zipline
+Clinic,5.6835098,-1.4960854,Clinic,10,21.81,True,MASA
+Clinic,5.4908372,-1.5329901,Clinic,10,0.0,True,MASA
+Clinic,10.3842998,-2.3283965,Clinic,19,22.25,True,MASA
+Clinic,5.3385656,-0.624054,Clinic,4,6.07,True,MASA
+Clinic,8.4881281,-0.1807559,Clinic,30,78.93,True,Zipline
+Club Road Clinic,5.5444776,-0.2063852,Clinic,25,77.85,True,Zipline
+Cocoa Clinic,6.6839711,-1.6164051,Clinic,26,48.45,True,Zipline
+Codia Clinic,5.7545405,0.0469545,Clinic,25,73.88,True,Zipline
+Community Health Centre,5.6586054,-2.3353753,Clinic,28,60.49,True,Zipline
+Cosmopolitan Health,5.6445739,-0.1554561,Clinic,25,69.9,True,Zipline
+Cross Care Clinic,6.7913022,-2.5173483,Clinic,28,67.85,True,Zipline
+DIS Clinic,5.1307488,-1.2756277,Clinic,1,25.64,True,MASA
+DOORMOSH,5.9615088,-1.8845838,Clinic,28,70.72,True,Zipline
+Daboase Clinic,5.1338409,-1.6561212,Clinic,3,23.05,True,MASA
+Danfa Clinic,5.7894523,-0.1595359,Clinic,25,55.83,True,Zipline
+Dansoman polyclinic,5.5610799,-0.2600791,Clinic,25,74.26,True,Zipline
+Dantano chips compound,6.7228836,-2.4348178,Clinic,28,60.39,True,Zipline
+Daprof Clinic,5.5796794,-0.1969327,Clinic,25,74.56,True,Zipline
+Dar-bem Clinic,5.683381,-0.0362583,Clinic,25,73.42,True,Zipline
+Darpong Clinic,5.6281043,-0.0887588,Clinic,25,75.13,True,Zipline
+Dawiri CHPS Compound,7.8268181,-2.682561,Clinic,16,29.05,True,MASA
+Dawurampong Health center,5.6847182,-2.0255273,Clinic,28,75.06,True,Zipline
+Denyase CHPS Compound,5.8540204,-1.801722,Clinic,-1,-1.0,False,Aucun
+Diagnostic Centre,5.6317096,-0.1742594,Clinic,25,70.26,True,Zipline
+Diamed Diagnostical and Treatment Center,5.6390968,-0.1774079,Clinic,25,69.36,True,Zipline
+Divine Clinic,10.3115232,-0.0932731,Clinic,27,77.79,True,Zipline
+Doctors on Duty Clinic,5.559874,-0.1586122,Clinic,25,78.24,True,Zipline
+Dohamm Clinic Limited,4.9304764,-1.7802097,Clinic,3,7.35,True,MASA
+Dons Medical Services,5.5824186,-0.1983361,Clinic,25,74.22,True,Zipline
+Dr Asomani Clinic,6.0822777,-0.2607538,Clinic,25,24.49,True,Zipline
+Dr. Forkuo Herbal Clinic,5.2858419,-1.9962102,Clinic,6,10.79,True,MASA
+Dr. Mensah,6.69986,-1.6191897,Clinic,26,47.12,True,Zipline
+Dr. Mensah Herbal Clinic & Shop,5.6805873,-0.1731334,Clinic,25,65.44,True,Zipline
+Dua Clinic,5.5720758,-0.2025512,Clinic,25,75.12,True,Zipline
+Dumso Bethel CHPS,7.8937996,-1.6576387,Clinic,12,16.59,True,MASA
+Duusi CHPS Compound,10.7792563,-0.6931646,Clinic,27,49.55,True,Zipline
+EFAN VICTORY CLINIC,5.5985371,-0.1988832,Clinic,25,72.54,True,Zipline
+Eastwing Clinic,5.7563962,-0.006262,Clinic,25,69.5,True,Zipline
+Edith's Maternity Home,5.7554668,-0.328976,Clinic,25,51.39,True,Zipline
+Edward Attah Asare,5.6136103,-0.240192,Clinic,25,69.35,True,Zipline
+Efan Victory Clinic,5.6243857,-0.0909543,Clinic,25,75.36,True,Zipline
+Ekebaku Health Centre,4.9832476,-2.5690692,Clinic,17,24.27,True,MASA
+Elubo Health Center,5.2868169,-2.7713319,Clinic,11,24.93,True,MASA
+Emergency Unit,5.3411207,-0.7516456,Clinic,4,12.55,True,MASA
+Emmanuel Eye Clinic,5.6304406,-0.1744333,Clinic,25,70.37,True,Zipline
+Enape Clinic,7.6329432,-1.91397,Clinic,12,25.86,True,MASA
+Essaso CHPS compound,5.7645167,-0.6977078,Clinic,25,56.1,True,Zipline
+Essiama Community Health Centre,4.9357441,-2.3552129,Clinic,17,0.0,True,MASA
+Ewim Health Clinic,5.115015,-1.244858,Clinic,1,23.14,True,MASA
+Expert's Hand Clinic,5.677701,-0.1795796,Clinic,25,65.4,True,Zipline
+Eye Clinic,10.0576027,-2.4978621,Clinic,7,4.55,True,MASA
+Faith Maternity Clinic,7.5977703,0.5076105,Clinic,30,61.49,True,Zipline
+Fakwasi,7.7763431,-1.3342887,Clinic,21,0.0,True,MASA
+Florence Maternity Home,7.3331404,-2.3221767,Clinic,8,21.35,True,MASA
+Foresight Medical Center,6.6169434,0.4635366,Clinic,29,36.19,True,Zipline
+Forever Homeopathic Clinic,5.8157087,-2.8256604,Clinic,28,55.52,True,Zipline
+Frontier Clinic,5.2894878,-2.7748077,Clinic,11,25.23,True,MASA
+Fuo Community Hospital,9.4227462,-0.8074925,Clinic,0,4.38,True,MASA
+G.P.H.A Clinic Tema,5.6326817,-0.0065233,Clinic,25,79.89,True,Zipline
+GBC Clinic,5.5755888,-0.1941216,Clinic,25,75.1,True,Zipline
+GHS,5.3833164,-0.9250126,Clinic,1,24.62,True,MASA
+GHS (Chips Zone),5.3301088,-0.8334708,Clinic,4,21.47,True,MASA
+GMAD Clinic,5.4808556,-0.5654202,Clinic,4,13.85,True,MASA
+Ga Health Center,9.79787,-2.4957016,Clinic,7,28.64,True,MASA
+Gbalahi Health Centre,9.439149,-0.7763003,Clinic,0,7.43,True,MASA
+Gbedembilisi CHPS,10.327591,-1.2466083,Clinic,27,48.52,True,Zipline
+Gemar Hospital,4.8904665,-1.9548466,Clinic,3,27.13,True,MASA
+Geomond Eye Centre,5.6175006,-0.0787279,Clinic,25,76.72,True,Zipline
+George & Angelina,6.7433264,-1.458069,Clinic,26,35.52,True,Zipline
+Ghanuba Specialist Clinic,5.5827927,-0.2068205,Clinic,25,73.84,True,Zipline
+Givers Scientic Herbal Clinic,5.6078705,-0.1275719,Clinic,25,74.94,True,Zipline
+Global Star HealthCenter,5.6753628,-0.1818852,Clinic,25,65.52,True,Zipline
+God Cares Community Hospital,9.4039648,-0.9115151,Clinic,0,10.87,True,MASA
+Golden Jubilee Clinic,5.6621735,-0.1728161,Clinic,25,67.28,True,Zipline
+Greenfield,5.6188111,-0.0909657,Clinic,25,75.89,True,Zipline
+Gyangyazie Community clinic,5.3962889,-0.576581,Clinic,4,8.0,True,MASA
+Gyau CHPS Compound,7.8572394,-2.3531534,Clinic,-1,-1.0,False,Aucun
+HAPPY FAMILY CLINIC,7.5590959,-1.7180471,Clinic,26,67.03,True,Zipline
+HOPE Health Center,6.5837947,0.457606,Clinic,29,34.28,True,Zipline
+Habana Medical Service,9.4586403,-0.8422097,Clinic,0,8.84,True,MASA
+Hangaline- Chps Facility,9.0765569,-1.8169189,Clinic,14,0.0,True,MASA
+Hass West Africa Hearing Clinic,5.5714423,-0.2360584,Clinic,25,73.94,True,Zipline
+Have Community Clinic,6.7575549,0.3607693,Clinic,29,37.08,True,Zipline
+Health Center Annex for CWC,6.3218423,-0.5929536,Clinic,25,20.94,True,Zipline
+Health Plus Clinic,5.2852074,-2.0004705,Clinic,6,11.12,True,MASA
+Healthlane Clinic,7.3431512,-2.3274742,Clinic,8,22.13,True,MASA
+Healthnet Clinic,5.5542568,-0.1718348,Clinic,25,78.23,True,Zipline
+Hoggar Clinic Limited,6.1296038,0.7957311,Clinic,9,23.23,True,MASA
+Holy Rosary Health Centre,7.0526459,0.0323756,Clinic,29,64.35,True,Zipline
+Homeland Clinic,10.0519176,-2.5390234,Clinic,7,0.0,True,MASA
+Hon Kofi Adjei Ntim Clinic,7.53785,0.4638134,Clinic,30,59.94,True,Zipline
+Honuta CHPs Compound,6.846869,0.5186765,Clinic,2,26.79,True,MASA
+Huni- Valley Clinic,5.4720102,-1.9132848,Clinic,6,12.2,True,MASA
+Inter-Star Eye Clinic,5.6464588,-0.1550017,Clinic,25,69.73,True,Zipline
+Isaac Opuni License Chemical,5.751076,-0.1842713,Clinic,25,57.97,True,Zipline
+JAG'S Clinic & Laboratory Services LTD,9.0670837,-1.8083469,Clinic,14,1.41,True,MASA
+JUABO,6.0933179,-2.2142397,Clinic,28,31.46,True,Zipline
+James Town Usher Clinic,5.5403333,-0.2129899,Clinic,25,78.04,True,Zipline
+Janga CHPS Center,10.0282819,-0.9752669,Clinic,27,40.12,True,Zipline
+Janga Polyclinic,10.025006,-0.972556,Clinic,27,40.3,True,Zipline
+Jones Aid,5.6631695,-2.3295463,Clinic,28,60.18,True,Zipline
+Jumbo no 2 CHPs Compound,8.507275,0.4364925,Clinic,13,13.53,True,MASA
+Justab Clinic,5.5331968,-0.4290605,Clinic,4,29.18,True,MASA
+KMA Clinic,6.6850947,-1.6229761,Clinic,26,48.73,True,Zipline
+KNUST Students' Clinic,6.6802285,-1.5733119,Clinic,26,46.5,True,Zipline
+Kakumdo CHPS Compound,5.1426532,-1.2869616,Clinic,1,26.46,True,MASA
+Kama CHPS Compound,6.2933476,-2.7147583,Clinic,28,28.3,True,Zipline
+Kamgbunli Clinic,4.9771869,-2.415183,Clinic,17,8.09,True,MASA
+Kandiga Atiyorum Health Facility,10.8608087,-0.9791991,Clinic,27,60.27,True,Zipline
+Katanga CHPs Compound,7.6585713,0.3332999,Clinic,30,41.14,True,Zipline
+Kedjebi Health Centre,7.5341706,0.4742815,Clinic,30,61.15,True,Zipline
+Keri CHPS Compound,8.386458,0.5276783,Clinic,13,26.47,True,MASA
+Keri CHPS Compound,8.3863316,0.5275486,Clinic,13,26.47,True,MASA
+Klimovic Clinic,5.3660913,-0.6373014,Clinic,4,2.68,True,MASA
+Klimovic Clinic,5.3660993,-0.6373076,Clinic,4,2.68,True,MASA
+Kofiase health clinic,7.1412015,-1.4835945,Clinic,26,14.49,True,Zipline
+Koforidua Clinic,6.0884965,-0.2686479,Clinic,25,23.38,True,Zipline
+Koforidua Poly Clinic,6.0949489,-0.2579052,Clinic,25,24.02,True,Zipline
+Komenda Health Center,5.0530526,-1.4929279,Clinic,3,27.8,True,MASA
+Kotoku Clinic,5.7363698,-0.3594848,Clinic,25,52.73,True,Zipline
+Kpasinkpe Health Centre,10.4471711,-1.0469888,Clinic,27,28.87,True,Zipline
+Kpassa Health Centre,8.4959459,0.3139676,Clinic,13,0.0,True,MASA
+Kpatia,10.7619689,-0.749803,Clinic,27,46.51,True,Zipline
+Kpeve New Town Health Center,6.6781445,0.3142734,Clinic,29,26.94,True,Zipline
+Kpongka Health Centre,7.7500442,0.4515143,Clinic,30,51.4,True,Zipline
+Kpongu Health Center,9.9928674,-2.5166887,Clinic,7,7.01,True,MASA
+Kumfia Healthcare,7.779132,-1.2251245,Clinic,21,12.03,True,MASA
+Kumfia Healthcare,7.7794723,-1.2247689,Clinic,21,12.07,True,MASA
+Kunsu chip compound,8.1468817,-1.512622,Clinic,-1,-1.0,False,Aucun
+Kwabeng Health Center and Maternity,6.3213666,-0.5931871,Clinic,25,20.93,True,Zipline
+Kwamikrom Health Centre,7.2963697,0.3308271,Clinic,30,67.41,True,Zipline
+Kwapraw CHP,5.1235877,-1.2978729,Clinic,1,28.23,True,MASA
+La Medicare Ltd,5.5577702,-0.1555304,Clinic,25,78.59,True,Zipline
+Larabanga Health Clinic,9.2138807,-1.8568477,Clinic,14,15.89,True,MASA
+Layfa Clinic,5.5815693,-0.1973069,Clinic,25,74.35,True,Zipline
+Life Health Care,5.6385411,-0.2415966,Clinic,25,66.69,True,Zipline
+Lifebridge Physio Clinic,5.5568986,-0.1784063,Clinic,25,77.68,True,Zipline
+Lifeview Medical Laboratory and Ultra Scan centre,5.5916186,-0.2045513,Clinic,25,73.02,True,Zipline
+Linfam Medical Centre,4.9384975,-2.3514722,Clinic,17,0.52,True,MASA
+Loggu Clinic,9.9027218,-2.3530188,Clinic,7,26.27,True,MASA
+Lucky Herbal Center,5.1346126,-1.27704,Clinic,1,25.66,True,MASA
+MMA LUCIA'S CLINIC MATERNITY HOME (SISTER VIRGIN),9.0675932,-1.8080444,Clinic,14,1.39,True,MASA
+MMA LUCIA'S CLINIC/ MATERNITY HOME ( SISTER VIRGIN),9.0674564,-1.8080524,Clinic,14,1.4,True,MASA
+MMC Polyclinic,5.6120216,-0.1938669,Clinic,25,71.36,True,Zipline
+Maakro Clinic,6.6988856,-1.7297992,Clinic,26,54.85,True,Zipline
+Mac Hill Special Clinic,6.6732582,-1.6311486,Clinic,26,50.32,True,Zipline
+Madina Polyclinic,5.6675801,-0.1652291,Clinic,25,67.13,True,Zipline
+Magazine Clinic,6.6932749,-1.6357116,Clinic,26,48.75,True,Zipline
+Maldey Medical Centre,5.6269273,-0.0183597,Clinic,25,79.61,True,Zipline
+Manchala chip co,8.1697297,-1.8943225,Clinic,-1,-1.0,False,Aucun
+Mansie Chips Compound,7.9883297,-1.9282994,Clinic,12,22.57,True,MASA
+Mansion chips compound,7.1176474,-1.9861942,Clinic,26,66.65,True,Zipline
+Marie Stopes,5.5771803,-0.2137475,Clinic,25,74.15,True,Zipline
+Maryland Clinic,6.18275,-0.472341,Clinic,25,3.64,True,Zipline
+Massakrom CHPS,6.9216504,-3.1660639,Clinic,23,0.0,True,MASA
+Medcare Plus Clinic,5.7130107,-0.2057906,Clinic,25,60.6,True,Zipline
+Medical & Dental Clini6,5.6264187,-0.1537796,Clinic,25,71.78,True,Zipline
+Medical & Dental Council Ghana,5.5523517,-0.2112043,Clinic,25,76.84,True,Zipline
+Medlab,5.6015884,-0.1928943,Clinic,25,72.47,True,Zipline
+Medline,5.6453133,-0.2475544,Clinic,25,65.76,True,Zipline
+Mikado Herbal Clinic,5.5483425,-0.4051596,Clinic,25,72.9,True,Zipline
+Mini Clinic,5.6674754,-0.1856644,Clinic,25,66.12,True,Zipline
+Mmaa Baasa CHPS Compound,5.6520981,-1.5721956,Clinic,10,18.45,True,MASA
+Moore Health Centre,5.1364522,-1.1991666,Clinic,1,17.55,True,MASA
+Moree Health Centre,5.1415989,-1.1937171,Clinic,1,16.76,True,MASA
+Mw,7.2206418,-2.6417699,Clinic,8,27.06,True,MASA
+Naboro Health Centre,10.9323625,-0.9784818,Clinic,27,67.84,True,Zipline
+Nachanta CHPS Compound,10.0090085,-2.5555843,Clinic,7,5.1,True,MASA
+Nakite CHPS,6.6257935,-2.7639025,Clinic,28,58.21,True,Zipline
+Namaata Adam Clinic,5.6727113,-0.1461336,Clinic,25,67.63,True,Zipline
+Namolgo Clinic,10.7373492,-0.7213148,Clinic,27,44.32,True,Zipline
+Namoo Clinic,10.9686297,-0.8477577,Clinic,27,69.29,True,Zipline
+Narkwa Polyclinic,5.2076954,-0.9392389,Clinic,1,12.96,True,MASA
+Narkwa polyclnic,5.2075364,-0.9394521,Clinic,1,12.94,True,MASA
+Nat Herbal Clinic,6.6342427,-0.7403711,Clinic,25,57.96,True,Zipline
+Nature Health Care Center,5.3144182,-1.9905213,Clinic,6,7.92,True,MASA
+New Cross Clinic and Medical,5.5823822,-0.1992897,Clinic,25,74.19,True,Zipline
+New Crystal Hospital,5.6902728,-0.0343304,Clinic,25,72.95,True,Zipline
+New Life Homeopathic Clinic,5.5552272,-0.2670428,Clinic,25,74.67,True,Zipline
+Newlands Medical Centre,6.0824943,-0.2753886,Clinic,25,23.14,True,Zipline
+Ngyiresi CHPS Compound,5.3511022,-0.8436953,Clinic,4,22.0,True,MASA
+Nima Goverment Clinic,5.5775704,-0.200014,Clinic,25,74.65,True,Zipline
+Nkaseim CHPS Compound,6.85962,-2.451372,Clinic,28,75.44,True,Zipline
+Nkwaeso Health Center,7.5504484,-1.9899652,Clinic,5,21.53,True,MASA
+Nkwaeso Health Center,7.6304082,-1.86511,Clinic,12,23.88,True,MASA
+Nkwankwaa Health Centre,7.2179158,-1.79409,Clinic,26,48.61,True,Zipline
+Nkyenkyemam CHPS Compound,7.4817648,-2.7851598,Clinic,16,11.62,True,MASA
+Nogokpo CHPS Compound,6.0922432,1.0746767,Clinic,9,9.95,True,MASA
+Nsowakrom CHPS Compound,6.7743332,-3.1318173,Clinic,23,16.81,True,MASA
+Nsuakyire Community Clinic,5.3692264,-0.5845995,Clinic,4,7.34,True,MASA
+Nsuta Polyclinic,7.0083969,-1.3816722,Clinic,26,5.14,True,Zipline
+Nurse's quarters,9.2139947,-1.8563603,Clinic,14,15.88,True,MASA
+Nwawasua Chips compound,7.2923522,-2.4031177,Clinic,8,14.79,True,MASA
+Nyariga Clinic,10.8476332,-0.8823355,Clinic,27,56.33,True,Zipline
+Nyimbali CHPS,10.1636732,-2.6072024,Clinic,7,14.5,True,MASA
+Oak Tree Medical Services,5.115063,-1.2748188,Clinic,1,26.17,True,MASA
+Obanda CHPS Compound,7.9431833,0.5106067,Clinic,30,59.83,True,Zipline
+Oblogo Health Centre,5.5581729,-0.3064533,Clinic,25,73.32,True,Zipline
+Odorna Medical Center,5.5590844,-0.2156089,Clinic,25,75.98,True,Zipline
+Odumkyere Darmang Health Centre,5.8688274,-0.5422364,Clinic,25,38.61,True,Zipline
+Okanta Clinic,5.6868756,-0.0399833,Clinic,25,72.86,True,Zipline
+Okra Kwadwo Health Centre,6.1089919,-0.1057473,Clinic,25,39.05,True,Zipline
+Oman Clinic,6.0978372,-0.2608407,Clinic,25,23.58,True,Zipline
+Omari Medical Centre,5.7722671,-0.0050862,Clinic,25,68.34,True,Zipline
+Opmann Clinic,5.6081001,-0.2420194,Clinic,25,69.87,True,Zipline
+Opoku Clinic,7.3438349,-2.3286517,Clinic,8,22.15,True,MASA
+Our Lady Of Fatima Clinic,5.0224287,-2.7268847,Clinic,11,7.1,True,MASA
+Our Lady of Faith Clinic,4.9278743,-1.7689029,Clinic,3,6.13,True,MASA
+PPAG Cape Coast Clinic,5.1357195,-1.2769047,Clinic,1,25.61,True,MASA
+PPAG Suame Clinic,6.7179979,-1.6369393,Clinic,26,46.59,True,Zipline
+Pafo Nkwanta CHPS Compound,6.5106386,-2.4339787,Clinic,28,36.97,True,Zipline
+Patbrenda Clinic & Laboratory,6.1070286,-0.2476782,Clinic,25,24.39,True,Zipline
+Peace Be Clinic,5.6846467,-0.1451753,Clinic,25,66.53,True,Zipline
+Penbrose Clinic,5.6482781,-0.2283482,Clinic,25,66.19,True,Zipline
+Pentecost Clinic,8.4934042,0.3041947,Clinic,13,1.11,True,MASA
+Peposo CHPS,5.3309311,-2.1456792,Clinic,6,22.99,True,MASA
+Poase Cement Health Centre,7.6507641,0.5198688,Clinic,30,60.9,True,Zipline
+Police Clinic,5.59368458292931,-0.178396612876213,Clinic,25,73.91,True,Zipline
+Polyclinic,5.6128857,-0.0889658,Clinic,25,76.57,True,Zipline
+Pong-Tamale CHPS Clinic,9.6806869,-0.8300194,Clinic,27,74.15,True,Zipline
+Ponyentanga Clinic,9.8659241,-2.4637125,Clinic,7,22.27,True,MASA
+Port Medical Centre,5.6426385,0.0014169,Clinic,25,79.56,True,Zipline
+Presby Clinic,10.8067191,-0.8558678,Clinic,27,51.44,True,Zipline
+Presbyterian Health Service Enchi,5.808526,-2.8342435,Clinic,28,56.75,True,Zipline
+Prestea CHPS,5.4378607,-2.1439981,Clinic,6,23.86,True,MASA
+Pro-Life Medical Center,5.5851472,-0.1312636,Clinic,25,77.0,True,Zipline
+Prolife Chinese Acupuncture Clinic,5.6601658,-0.1517444,Clinic,25,68.56,True,Zipline
+Providence Health Center,6.7984821,-2.5146358,Clinic,28,68.63,True,Zipline
+Providence Medical Centre,6.0784731,-0.2713897,Clinic,25,23.76,True,Zipline
+Pusupu Health Centre,8.0520364,0.4905789,Clinic,30,62.19,True,Zipline
+Quality Care,5.6377095,-0.1619128,Clinic,25,70.25,True,Zipline
+Quantum Medical Centre and Eye Clinic,5.5674737,-0.2573862,Clinic,25,73.66,True,Zipline
+Queensville West Medical Diagnostic,4.9387659,-2.3513415,Clinic,17,0.54,True,MASA
+Rabbito Clinic,4.8976961,-1.7639354,Clinic,3,6.9,True,MASA
+Rabito Clinic,10.0742319,-2.5097067,Clinic,7,4.06,True,MASA
+Rabito Clinic,6.092113,-0.2595764,Clinic,25,24.02,True,Zipline
+Rabito Clinic,5.5656513,-0.1800662,Clinic,25,76.71,True,Zipline
+Ramona Clinic,5.5609961,-0.1824485,Clinic,25,77.09,True,Zipline
+Rehabilitation Center,5.7195382,-0.1871673,Clinic,25,60.89,True,Zipline
+Reproductive Health Centre,6.1008684,1.1481731,Clinic,9,17.93,True,MASA
+Richard Fowler Catholic Clinic,6.4679724,-1.4723001,Clinic,26,65.92,True,Zipline
+Rinat Clinic,5.6518739,-0.1312267,Clinic,25,70.46,True,Zipline
+Roman Trust Clinic,5.5049824,-0.4570707,Clinic,4,24.87,True,MASA
+Royal Medical Agency Clinic,6.6991235,-1.6131289,Clinic,26,46.83,True,Zipline
+Royal Star Clinic and Diagnostic Center,5.5904306,-0.2038729,Clinic,25,73.17,True,Zipline
+SIC Bob Freeman Clinic,5.5543241,-0.208527,Clinic,25,76.74,True,Zipline
+Safeline Medical Laboratory,6.0939689,-0.2588954,Clinic,25,23.98,True,Zipline
+Sahara Herbal clinic,5.2569192,-1.0219939,Clinic,1,6.95,True,MASA
+Salgyin Medical Center,5.1395712,-1.2818985,Clinic,1,26.01,True,MASA
+Saltpond district Hospital,5.2045994,-1.056271,Clinic,1,0.0,True,MASA
+Samsam Community Clinic,5.7775789,-0.3002303,Clinic,25,49.95,True,Zipline
+Sanford Internal Clinic,5.3390201,-0.9139165,Clinic,1,21.72,True,MASA
+Sanford clinic,5.1131333,-1.2412593,Clinic,1,22.87,True,MASA
+Sankpala Health Center,9.2645308,-1.004649,Clinic,0,24.73,True,MASA
+Save the Nation's Sight Clinic,5.6584216,-0.155802,Clinic,25,68.52,True,Zipline
+Saviefe Agorkpo R.C.H Clinic,6.7804754,0.4118171,Clinic,29,42.57,True,Zipline
+School Clinic,6.6616938,-1.6441001,Clinic,26,52.18,True,Zipline
+School Clinic,5.9697837,-0.9931264,Clinic,25,65.79,True,Zipline
+School Infirmary,5.1167955,-1.2500586,Clinic,1,23.58,True,MASA
+Sefwi Bekwai Clinic,6.1875299,-2.3258881,Clinic,28,17.54,True,Zipline
+Shalina,5.5660003,-0.2103476,Clinic,25,75.45,True,Zipline
+Sheif Deen Herbal Clinic,9.3906889,-0.8163696,Clinic,0,0.77,True,MASA
+Shia Health Centre,6.7944594,0.5618647,Clinic,29,55.71,True,Zipline
+Sibi Central CHPS Compound,8.6114246,0.2313459,Clinic,13,15.73,True,MASA
+Sick Bay,6.6928951,-1.6088423,Clinic,26,47.17,True,Zipline
+Sick Bay,4.8990928,-1.7494607,Clinic,3,5.58,True,MASA
+Sina Zuwina Herbal Center,5.5814972,-0.201922,Clinic,25,74.17,True,Zipline
+Site Clinic,5.9579531,-1.9327129,Clinic,28,65.9,True,Zipline
+Solace Hospital,5.6784823,-0.0281321,Clinic,25,74.4,True,Zipline
+Sonotech Medical Center,5.5452872,-0.3447896,Clinic,25,73.96,True,Zipline
+St Florence Clinic,5.6882259,-0.0327441,Clinic,25,73.24,True,Zipline
+St Francis Clinic,6.7784318,0.4181632,Clinic,29,42.86,True,Zipline
+St Moses Clinic,5.6886522,-0.2858896,Clinic,25,59.85,True,Zipline
+St. Edward's Clinic,6.6897916,-1.6101034,Clinic,26,47.53,True,Zipline
+"St. George Polyclinic, Liate",6.9854656,0.4895817,Clinic,2,13.43,True,MASA
+St. Joseph's Hospital,10.533558,-2.6997333,Clinic,19,22.27,True,MASA
+St. Lucy Eye Clinic,5.6345944,-0.0637832,Clinic,25,76.02,True,Zipline
+St. Mary’s Eye Clinic,7.586238,-2.7854284,Clinic,16,0.0,True,MASA
+St.florence maternal clinic,5.6060038,-1.5500687,Clinic,10,12.94,True,MASA
+Staff Clinic,6.6753287,-1.5659712,Clinic,26,46.63,True,Zipline
+Students Clinic,5.1169225,-1.2912532,Clinic,1,27.79,True,MASA
+THOMAS AND THOMAS,7.3023932,-2.2951265,Clinic,8,19.96,True,MASA
+TMA Maternity and Children's Clinic,5.6477156,-0.0026608,Clinic,25,78.83,True,Zipline
+Takoradi High Street Clinic,4.8834422,-1.7515749,Clinic,3,7.06,True,MASA
+Tanina CHPS,9.9020216,-2.4596849,Clinic,7,18.8,True,MASA
+Tanyigbe CHPS Compound,6.695584,0.5214396,Clinic,29,45.85,True,Zipline
+Tebrebe Clinic,5.2727196,-2.0358216,Clinic,6,14.75,True,MASA
+The Oak Street Clinic,5.5906987,-0.0992568,Clinic,25,78.13,True,Zipline
+The Oak Street Clinic & Laboratory,5.5908627,-0.0992313,Clinic,25,78.11,True,Zipline
+Tiadene chips compound,7.6708923,-2.4085644,Clinic,-1,-1.0,False,Aucun
+Tiawiah CHPS Compound,6.4138806,-0.8676785,Clinic,25,52.17,True,Zipline
+Tobal Clinic,9.4488207,0.4769018,Clinic,-1,-1.0,False,Aucun
+Tong Community-based Health Planning Services (CHPS),9.9415062,-0.4789688,Clinic,27,57.4,True,Zipline
+Tong Community-based Health Planning Services (CHPS),9.9415241,-0.4790423,Clinic,27,57.39,True,Zipline
+Top Herbal Clinic,5.6828351,-0.1935029,Clinic,25,64.21,True,Zipline
+Topview Diagnostic Center,6.0061958,0.6158548,Clinic,29,73.4,True,Zipline
+Torgorne Health Centre,6.1170569,0.13749,Clinic,29,41.39,True,Zipline
+Trust Clinic Dome,5.646857,-0.244899,Clinic,25,65.69,True,Zipline
+Twifo Praso Polyclinic,5.6107566,-1.5489556,Clinic,10,13.45,True,MASA
+Twin City Clinic,4.8882312,-1.7536723,Clinic,3,6.78,True,MASA
+UMaT Clinic,5.2991043,-2.0005696,Clinic,6,9.93,True,MASA
+Unity Medical Center,5.6777476,-0.1755571,Clinic,25,65.6,True,Zipline
+University Clinic,5.3693302,-0.629966,Clinic,4,2.87,True,MASA
+University Health Clinic,9.3907167,-0.8171514,Clinic,0,0.8,True,MASA
+Unnamed Clinic,5.138849,-1.6632347,Clinic,3,23.39,True,MASA
+Unnamed Clinic,7.3134112,-1.5788915,Clinic,26,35.83,True,Zipline
+Unnamed Clinic,5.3065028,-1.9913305,Clinic,6,8.64,True,MASA
+Unnamed Clinic,5.5690457,-0.1475528,Clinic,25,77.82,True,Zipline
+Unnamed Clinic,7.39112,-1.9331348,Clinic,5,28.37,True,MASA
+Unnamed Clinic,9.2067678,0.020876,Clinic,15,8.44,True,MASA
+Unnamed Clinic,9.8084411,-0.1146342,Clinic,-1,-1.0,False,Aucun
+Unnamed Clinic,9.4218691,-0.8687112,Clinic,0,7.29,True,MASA
+Unnamed Clinic,5.5541261,-0.2085015,Clinic,25,76.76,True,Zipline
+Unnamed Clinic,6.5297009,-2.4162856,Clinic,28,39.39,True,Zipline
+Unnamed Clinic,5.6720409,-0.2043342,Clinic,25,64.79,True,Zipline
+Unnamed Clinic,5.6207118,-0.2255232,Clinic,25,69.16,True,Zipline
+Unnamed Clinic,6.5527816,0.6581066,Clinic,29,55.22,True,Zipline
+Unnamed Clinic,5.6153356,-2.7332271,Clinic,28,68.75,True,Zipline
+Unnamed Clinic,5.8341252,-2.665354,Clinic,28,43.55,True,Zipline
+Unnamed Clinic,7.069111,-2.3239594,Clinic,8,13.4,True,MASA
+Unnamed Clinic,5.8275088,-2.8205674,Clinic,28,54.17,True,Zipline
+Unnamed Clinic,5.7353389,-0.2032038,Clinic,25,58.51,True,Zipline
+Unnamed Clinic,5.5467418,-1.5469131,Clinic,10,6.4,True,MASA
+Unnamed Clinic,5.6933633,-2.653375,Clinic,28,57.45,True,Zipline
+Unnamed Clinic,7.9719256,-2.6189741,Clinic,-1,-1.0,False,Aucun
+Unnamed Clinic,6.6843334,-1.5793195,Clinic,26,46.39,True,Zipline
+Unnamed Clinic,6.6845663,-1.5793378,Clinic,26,46.37,True,Zipline
+Unnamed Clinic,6.0695138,-0.2628492,Clinic,25,25.1,True,Zipline
+Unnamed Clinic,9.3196186,-0.901603,Clinic,0,11.94,True,MASA
+Unnamed Clinic,11.0469569,-0.2668807,Clinic,20,24.02,True,MASA
+Unnamed Clinic,10.044842,-2.486041,Clinic,7,5.85,True,MASA
+Unnamed Clinic,5.3459924,-0.6159612,Clinic,4,5.85,True,MASA
+Unnamed Clinic,6.740329,0.3913848,Clinic,29,37.73,True,Zipline
+Unnamed Clinic,6.6413723,0.2977219,Clinic,29,22.63,True,Zipline
+Unnamed Clinic,5.7058599,-2.3262319,Clinic,28,55.76,True,Zipline
+Unnamed Clinic,9.9019834,-2.4597359,Clinic,7,18.8,True,MASA
+Unnamed Clinic,6.0974142,-0.0182517,Clinic,29,47.86,True,Zipline
+Urban Medical Research Center,5.6812542,-0.195842,Clinic,25,64.25,True,Zipline
+Uwasa CHPS,10.480188,-1.2284805,Clinic,27,48.78,True,Zipline
+Vakpo Health Center,6.856681,0.2821167,Clinic,29,43.02,True,Zipline
+Valley View Clinic,5.6151555,-0.1982836,Clinic,25,70.85,True,Zipline
+Van J Eye Care,5.6126394,-0.1982344,Clinic,25,71.11,True,Zipline
+Vane Health Centre,6.8251661,0.4194629,Clinic,29,46.98,True,Zipline
+Victory Martenity/Clinic,6.6880015,-1.5758561,Clinic,26,45.85,True,Zipline
+Village of Hope Clinic,5.4310649,-0.4764993,Clinic,4,19.63,True,MASA
+Vision Clinic,5.5820843,-0.2012944,Clinic,25,74.14,True,Zipline
+WARA Clinic Takoradi,4.8849412,-1.7608499,Clinic,3,7.59,True,MASA
+Wassa Akropong Government Hospital,5.7815423,-2.0838859,Clinic,28,62.81,True,Zipline
+Wenchiki Clinic,10.273154,0.207796,Clinic,22,0.0,True,MASA
+Wesley Methodist Clinic,6.7310792,-1.6136463,Clinic,26,43.9,True,Zipline
+Wiesi CHPS,10.3687564,-1.3360766,Clinic,27,58.3,True,Zipline
+Yonkofa Health Center,5.7764802,-2.661228,Clinic,28,49.15,True,Zipline
+Zaclex Maternity Home,5.5285761,-0.2638759,Clinic,25,77.62,True,Zipline
+Zak-med Clinic,5.5832245,-0.2077552,Clinic,25,73.76,True,Zipline
+Zonno Chps,10.782864,-0.7817848,Clinic,27,48.52,True,Zipline
+Zuarungu Health Centre,10.7914907,-0.7938927,Clinic,27,49.44,True,Zipline
+kofiase health clinic,7.1412636,-1.4834676,Clinic,26,14.49,True,Zipline
+st joseph's clinic an maternity home,6.6519796,-0.6662393,Clinic,25,55.56,True,Zipline
+Acacia Medical Centre,5.6336142,-0.1575854,Doctor,25,70.87,True,Zipline
+Accra Physiotherapy & Sports Injury Clinic,5.6133632,-0.2153329,Doctor,25,70.33,True,Zipline
+Aesthetic Edge Dental Clinic,6.709795,-1.5255941,Doctor,26,41.33,True,Zipline
+Airport Womens Hospital,5.6176593,-0.1788767,Doctor,25,71.46,True,Zipline
+Akcess Dental,5.6698243,-0.1826317,Doctor,25,66.04,True,Zipline
+Annat Medical Diagnostics Centre,5.8014438,-0.4914678,Doctor,25,44.9,True,Zipline
+Beaver Clinic,5.6057008,-0.1789155,Doctor,25,72.67,True,Zipline
+Beaver Clinic Limited,4.8838034,-1.766589,Doctor,3,8.12,True,MASA
+Bethel Dental Clinic,5.6168026,-0.192542,Doctor,25,70.93,True,Zipline
+Better Hearing Clinic Ltd.,5.5940423,-0.2426638,Doctor,25,71.33,True,Zipline
+CITA Geakrh,5.6664108,-0.1962211,Doctor,25,65.73,True,Zipline
+COY Paediatric,5.6483736,-0.0282147,Doctor,25,77.05,True,Zipline
+Christian Medical Centre & Laboratory,5.6064835,-0.0778071,Doctor,25,77.82,True,Zipline
+Citadel Clinic,5.6041598,-0.218911,Doctor,25,71.14,True,Zipline
+Claron Health International,5.6122457,-0.1822982,Doctor,25,71.85,True,Zipline
+Consulting Room,10.0568044,-2.4974974,Doctor,7,4.58,True,MASA
+Covenant Dental Clinic,4.895134,-1.7550499,Doctor,3,6.33,True,MASA
+Crystal Eye Clinic,5.7061476,-0.1468088,Doctor,25,64.38,True,Zipline
+Dental Unit,6.5511186,0.301669,Doctor,29,16.88,True,Zipline
+Dentoc Dental Clinic,5.6590603,-0.1306055,Doctor,25,69.8,True,Zipline
+Dr. K.K. Duncan,5.5941177,-0.2320532,Doctor,25,71.7,True,Zipline
+Dr. S.B. Hantes Dental Clinic,5.5688551,-0.1690514,Doctor,25,76.86,True,Zipline
+Ebus Dental Clinic,5.6371517,-0.0766358,Doctor,25,75.0,True,Zipline
+Elite Dental Centre,5.6122195,-0.2154196,Doctor,25,70.45,True,Zipline
+Eye Link Clinic,5.6124096,-0.2220452,Doctor,25,70.16,True,Zipline
+Faith Medical Services,5.5999688,-0.2176187,Doctor,25,71.63,True,Zipline
+G2 Medical Laboratory Services,5.5902486,-0.181608,Doctor,25,74.12,True,Zipline
+Garu Health Centre,10.8494616,-0.1778384,Doctor,20,0.0,True,MASA
+Gengimed Dental Clinic,4.9159919,-1.7754635,Doctor,3,7.12,True,MASA
+Government Dentist Department,4.9234115,-1.7450345,Doctor,3,3.66,True,MASA
+Healthnet Airpoort Mediacl Centre,5.6089501,-0.186801,Doctor,25,71.99,True,Zipline
+Healthy Soul Natural Health Clinic,5.5806174,-0.2202261,Doctor,25,73.55,True,Zipline
+Hobats Clinic,5.606822,-0.2317013,Doctor,25,70.38,True,Zipline
+Iran Clinic,5.568037,-0.2124418,Doctor,25,75.16,True,Zipline
+Jacob Nelson,5.564311,-0.1770942,Doctor,25,76.97,True,Zipline
+Kad Dental Service,5.1097997,-1.2481688,Doctor,1,23.72,True,MASA
+King David Hospital,5.5927466,-0.2060338,Doctor,25,72.84,True,Zipline
+King Solomon Dental Clinic,5.6679084,-0.2044069,Doctor,25,65.2,True,Zipline
+Kings Dental Clinic,6.6762302,-1.557787,Doctor,26,46.16,True,Zipline
+Kumcji Hospital,5.5739343,-0.1823604,Doctor,25,75.76,True,Zipline
+Labone Clinic,5.568812,-0.170222,Doctor,25,76.81,True,Zipline
+Lifeview Medical Laboratory,5.6116631,-0.2335108,Doctor,25,69.8,True,Zipline
+M Pact Clinic,5.5704896,-0.2015919,Doctor,25,75.33,True,Zipline
+Madamfo Specialist Hospital,4.9639239,-1.6942652,Doctor,3,3.92,True,MASA
+Market Circle Dental Clinic,5.2984673,-1.9897441,Doctor,6,9.23,True,MASA
+Midway Clinic Ltd.,5.6174757,-0.2262614,Doctor,25,69.47,True,Zipline
+Mission Children Clinic,5.5826378,-0.2157759,Doctor,25,73.51,True,Zipline
+Mk Eye Center,5.6366935,-0.2379193,Doctor,25,67.02,True,Zipline
+New Cross Clinic,5.5824322,-0.1993236,Doctor,25,74.18,True,Zipline
+New Vision Dental,5.5773627,-0.1528478,Doctor,25,76.73,True,Zipline
+New Vision Dental Clinic Annex,5.6816091,-0.1931051,Doctor,25,64.35,True,Zipline
+New world dental clinic,5.5689934,-0.202059,Doctor,25,75.46,True,Zipline
+Nuffield Clinic Orthopaedic,5.5657782,-0.184822,Doctor,25,76.5,True,Zipline
+O.K.E Dental Clinic,5.6308634,-0.1572307,Doctor,25,71.17,True,Zipline
+OMNI Healthcare,5.6167345,-0.1923825,Doctor,25,70.95,True,Zipline
+Osino Health Centre,6.3422742,-0.4811583,Doctor,25,15.99,True,Zipline
+PEB Dental Clinic,5.6245243,-0.0761297,Doctor,25,76.21,True,Zipline
+Peace Clinic,5.6700657,-0.1600853,Doctor,25,67.15,True,Zipline
+Platinum Dendist,5.6194756,-0.1480633,Doctor,25,72.75,True,Zipline
+Presbyterian Hosptal Dental Unit,7.0490514,-0.077737,Doctor,29,67.74,True,Zipline
+Raphal Medical Center,5.6601472,-0.0207067,Doctor,25,76.51,True,Zipline
+Regional Medical Office of the Embassy of the Federal Republic of Germany,5.5636685,-0.1984106,Doctor,25,76.16,True,Zipline
+Robinson Dental Clinic,5.6510377,-0.0692578,Doctor,25,74.17,True,Zipline
+Sape Agbo Memorial Hospital,5.5922646,-0.2082311,Doctor,25,72.8,True,Zipline
+Sonrisa Dental Clinic,5.5840424,-0.1377446,Doctor,25,76.79,True,Zipline
+Spaes Dental Clinic,5.5662332,-0.1865479,Doctor,25,76.38,True,Zipline
+St. Andrews Clinic,5.608001,-0.1880233,Doctor,25,72.03,True,Zipline
+St. Bernhard Eye Clinic,5.5743634,-0.2074883,Doctor,25,74.69,True,Zipline
+St. Lukes Clinic,5.6140306,-0.1776537,Doctor,25,71.88,True,Zipline
+Trust Specialist Hospital,5.5607496,-0.1870794,Doctor,25,76.92,True,Zipline
+Tuba Community Maternity & Clinic,5.5119999,-0.3931086,Doctor,25,77.03,True,Zipline
+Unnamed Doctor,5.6364024,-0.1720217,Doctor,25,69.89,True,Zipline
+Unnamed Doctor,5.6392218,-0.2143179,Doctor,25,67.7,True,Zipline
+Unnamed Doctor,5.5751092,-0.1351977,Doctor,25,77.8,True,Zipline
+Unnamed Doctor,9.4146636,-0.9839179,Doctor,0,18.89,True,MASA
+Unnamed Doctor,5.6844419,-0.0258781,Doctor,25,74.04,True,Zipline
+Unnamed Doctor,10.8125898,-0.0847404,Doctor,20,10.96,True,MASA
+Unnamed Doctor,5.637324,-0.1046013,Doctor,25,73.35,True,Zipline
+Unnamed Doctor,5.7152542,-0.1880083,Doctor,25,61.26,True,Zipline
+Unnamed Doctor,5.6739462,-0.0260402,Doctor,25,74.94,True,Zipline
+Unnamed Doctor,5.6206964,-0.225571,Doctor,25,69.16,True,Zipline
+Unnamed Doctor,8.2013409,-0.1349584,Doctor,30,46.82,True,Zipline
+Vic Dank Health Centre,5.6404683,-0.1039068,Doctor,25,73.09,True,Zipline
+West End Clinic,4.8935537,-1.7557157,Doctor,3,6.5,True,MASA
+Abutia-Agorve Health Centre,6.5057498,0.3649699,Health_Center,29,22.45,True,Zipline
+Adaklu Sofa Health Centre,6.3837737,0.6386428,Health_Center,29,53.88,True,Zipline
+Adaklu Waya Health Centre,6.4482099,0.6239661,Health_Center,29,51.18,True,Zipline
+Adeemmra Health Centre,7.059876,-0.0556747,Health_Center,29,67.95,True,Zipline
+Adjiringanor Health Center,5.6471744,-0.1368259,Health_Center,25,70.62,True,Zipline
+Agratha Natural Herbal Center,5.5658489,-0.2402044,Health_Center,25,74.39,True,Zipline
+Akoefe Health Centre,6.6559176,0.5054395,Health_Center,29,42.21,True,Zipline
+Amedzofe Health Centre,6.8514421,0.4354234,Health_Center,2,29.3,True,MASA
+Apatrapa Health Centre,6.7098708,-1.6823913,Health_Center,26,50.43,True,Zipline
+Asumura Rural Clinic,6.7046201,-2.7640454,Health_Center,28,65.81,True,Zipline
+CHPS Compound Jambusi,10.0257225,-2.7715931,Health_Center,7,25.63,True,MASA
+Chiana Health Centre,10.8562005,-1.2782352,Health_Center,27,76.8,True,Zipline
+Dadiesoaba Health Center,6.7791589,-2.4199945,Health_Center,28,66.78,True,Zipline
+Dodome Teleafenu Health Centre,6.8033639,0.5041326,Health_Center,29,51.47,True,Zipline
+Dzolo Gborgame Health Centre,6.7753357,0.4766063,Health_Center,29,47.13,True,Zipline
+Dzolokpuita Maternity Ward,6.7844091,0.4451603,Health_Center,29,45.36,True,Zipline
+Dzolopuita Health Centre,6.7846204,0.4447783,Health_Center,29,45.35,True,Zipline
+Evangelical Presbyterian Health Centre,6.4515514,0.6112107,Health_Center,29,49.75,True,Zipline
+Fodome Ahor Health Centre,7.0843536,0.559486,Health_Center,2,0.0,True,MASA
+Fume Health Centre,6.8782089,0.4201489,Health_Center,2,27.6,True,MASA
+Hlefi Health Centre,6.7212527,0.3765891,Health_Center,29,35.06,True,Zipline
+Jumbo No.1 CHPS Compound,8.4647008,0.3361121,Health_Center,13,4.24,True,MASA
+Kasoa polyclinic,5.533813,-0.4264284,Health_Center,4,29.46,True,MASA
+Kassena-Nankana East Health Centre,10.9259781,-0.9575847,Health_Center,27,66.55,True,Zipline
+Kassena-Nankana East Health Centre,10.9260233,-0.957878,Health_Center,27,66.56,True,Zipline
+Kleefe Health Centre,6.6182909,0.4446308,Health_Center,29,34.35,True,Zipline
+Kpeve Health Center,6.6871649,0.3323027,Health_Center,29,28.98,True,Zipline
+Kukobila CHIP,10.1187404,-0.8082125,Health_Center,27,25.39,True,Zipline
+M & D Medical Center,5.7559635,-0.3337042,Health_Center,25,51.21,True,Zipline
+Mama Nyamanlobe III Maternity Block,6.775278,0.4767565,Health_Center,29,47.13,True,Zipline
+Maternity Block,10.4123325,-2.6954717,Health_Center,19,23.0,True,MASA
+Maternity Unit,6.5512064,0.301683,Health_Center,29,16.88,True,Zipline
+Mem-Chemfre Health Centre,6.9282698,-0.0259871,Health_Center,29,53.15,True,Zipline
+New Atuabo Health Centre,5.3229178,-1.9765514,Health_Center,6,6.19,True,MASA
+Nsuta Health Centre,7.5049985,0.4587568,Health_Center,30,61.31,True,Zipline
+Nutritional Rehab Center,9.8780555,-0.871762,Health_Center,27,52.68,True,Zipline
+Nyive Health Centre,6.7617096,0.5783804,Health_Center,29,55.07,True,Zipline
+Odoben Health Center,5.6331868,-0.885386,Health_Center,25,79.81,True,Zipline
+One Heart Medical Center,9.3897382,-0.8549674,Health_Center,0,4.48,True,MASA
+Samanhyia Health Centre,6.9974695,-0.1693854,Health_Center,29,67.42,True,Zipline
+Santrokofi Health Centre,7.2147318,0.4720568,Health_Center,2,17.41,True,MASA
+Tease Health Centre,6.9360659,-0.252574,Health_Center,29,67.66,True,Zipline
+Tsito Health Centre,6.5511488,0.3012765,Health_Center,29,16.84,True,Zipline
+Unilab Medical Diagnosis Center,6.7535017,-1.6434334,Health_Center,26,43.94,True,Zipline
+Unnamed Health_Center,8.656838,-1.5231321,Health_Center,24,0.0,True,MASA
+Unnamed Health_Center,9.1159569,0.0016959,Health_Center,15,18.63,True,MASA
+Unnamed Health_Center,9.5033702,-0.0252411,Health_Center,15,25.01,True,MASA
+Unnamed Health_Center,9.2421451,-2.3475498,Health_Center,-1,-1.0,False,Aucun
+Ve Ghad Health Center,6.9596075,0.4585732,Health_Center,2,17.79,True,MASA
+Wli Community Health Centre,7.1167515,0.5861925,Health_Center,2,4.65,True,MASA
+Aborlove Nolopi CHPS Compound,6.0293181,0.9257891,Health_Post,9,7.94,True,MASA
+Adabraka Health Centre,7.1640523,0.4740569,Health_Post,2,12.94,True,MASA
+Adakpo Chps Compound,6.1702103,0.6705331,Health_Post,29,66.37,True,Zipline
+Adisec Clinic,6.094146,0.5059985,Health_Post,29,58.0,True,Zipline
+Akaa CHPS Compound,7.4270167,0.4087009,Health_Post,30,62.11,True,Zipline
+Akamakope CHPS Compound,6.6671153,-0.18498,Health_Post,29,43.22,True,Zipline
+Akpafu Adokor Health Centre,7.2812816,0.5280401,Health_Post,2,22.17,True,MASA
+Akpafu Mempeasem Health Centre,7.2500382,0.4823526,Health_Post,2,20.29,True,MASA
+Akpafu Odomi Chps Compound,7.2759969,0.4774815,Health_Post,2,23.15,True,MASA
+Akukorme CHPs Compound,6.8870994,0.2771274,Health_Post,29,46.09,True,Zipline
+Alavanyo Gboegbedze Chps Compound,7.0804287,0.3534903,Health_Post,2,22.74,True,MASA
+Alavanyo Wudidi Health Centre,7.1199477,0.3579118,Health_Post,2,22.59,True,MASA
+Amankwa Tornu CHPs Compound,7.045068,0.0640418,Health_Post,29,62.84,True,Zipline
+Anidzi CHPS Compound,6.9173682,0.0848783,Health_Post,29,48.45,True,Zipline
+Asaaseboma CHPs Compound,6.7453453,-0.3607664,Health_Post,25,61.07,True,Zipline
+Asantekwaa CHPS compound,8.0771766,-1.8268874,Health_Post,12,27.29,True,MASA
+Atikpui CHPs Compound,6.7480255,0.6193947,Health_Post,29,58.13,True,Zipline
+Atiwulame CHPS Compound,6.9716922,0.0274184,Health_Post,29,55.76,True,Zipline
+Atomkongu CHPS Compound,10.8353193,-1.0003563,Health_Post,27,58.41,True,Zipline
+Aveme Danyigba Health Centre,6.9279628,0.2639057,Health_Post,29,50.13,True,Zipline
+Avetikope,7.0401898,0.2466604,Health_Post,29,62.05,True,Zipline
+Baglo Chps Compound,7.3032359,0.6378313,Health_Post,2,25.83,True,MASA
+Baika Health Centre Maternity Block,7.2346091,0.5313464,Health_Post,2,16.99,True,MASA
+Beme Chps,6.9188375,0.265465,Health_Post,29,49.18,True,Zipline
+Biheco CHPs,7.0060898,0.2850063,Health_Post,29,59.12,True,Zipline
+Botoku Health Centre,6.7597962,0.2670096,Health_Post,29,32.3,True,Zipline
+Bume-Wuve Chps Compound,6.8664989,0.2645838,Health_Post,29,43.52,True,Zipline
+Buoyem Community Health Centre,7.6660061,-1.9609524,Health_Post,12,26.08,True,MASA
+Chiaso CHPs Compound,8.1775587,0.5123996,Health_Post,30,71.56,True,Zipline
+Dafor CHPs,7.0881951,0.3063089,Health_Post,2,27.94,True,MASA
+Dagadu CHPS Compound,7.6114215,-2.3864246,Health_Post,5,27.5,True,MASA
+Dekpoe Chps Compound,6.1269822,0.4940932,Health_Post,29,54.4,True,Zipline
+Dodi-Mempeasem CHPS Compound,7.6338203,0.5161291,Health_Post,30,61.05,True,Zipline
+Emli Chps Compound,6.7943889,0.3719297,Health_Post,29,41.13,True,Zipline
+Fodome Helu Health Centre,7.074275,0.5069377,Health_Post,2,5.91,True,MASA
+Fodome Woe Chps,7.0694212,0.5170874,Health_Post,2,4.96,True,MASA
+Gbefi CHPS Compound,6.9985532,0.3829829,Health_Post,2,21.69,True,MASA
+Gbefi CHPS Maternity Ward,6.9987337,0.3830675,Health_Post,2,21.67,True,MASA
+Gbi-Akplamafu Chps Compound,7.1125559,0.4074599,Health_Post,2,17.07,True,MASA
+Gbi-Wegbe Health Centre,7.1114554,0.4590855,Health_Post,2,11.48,True,MASA
+Gbledi Gborgame Health Centre,7.032101,0.5591964,Health_Post,2,5.81,True,MASA
+Golokwati Health Centre,7.0007711,0.4374969,Health_Post,2,16.36,True,MASA
+Goviefe Todzi Chps Compound,6.6899413,0.3420069,Health_Post,29,29.91,True,Zipline
+Gradzeme CHPs Compound,6.8613088,0.4417335,Health_Post,2,28.0,True,MASA
+Hasu Community Polyclinic,6.489972,0.4875221,Health_Post,29,35.91,True,Zipline
+Hoe Klave CHPs Compound,6.7855926,0.5227361,Health_Post,29,51.71,True,Zipline
+Kanania CHPS Compound,10.8306871,-1.2241631,Health_Post,27,70.76,True,Zipline
+Kanania CHPS Compound,10.8304895,-1.2241314,Health_Post,27,70.74,True,Zipline
+Kodiabe Chps Compound,6.4899944,0.5044587,Health_Post,29,37.78,True,Zipline
+Kodzofe Chps Compound,7.1443234,0.5214457,Health_Post,2,7.88,True,MASA
+Koloenu Chps Compound,7.0403248,0.4259965,Health_Post,2,15.52,True,MASA
+Kpando Fesi CHPs,7.036299,0.3009703,Health_Post,2,29.02,True,MASA
+Kpando Gadza Centre (Clinic),7.0165343,0.3184037,Health_Post,2,27.65,True,MASA
+Kpetsu Chps Compound,6.4264214,0.5145353,Health_Post,29,39.5,True,Zipline
+Kpotame Health Centre,5.9766659,0.5257036,Health_Post,29,69.65,True,Zipline
+Kpoviadzi Health Centre,6.2028133,0.7097067,Health_Post,29,68.31,True,Zipline
+Kudzra Health Centre,6.9622533,0.3397988,Health_Post,2,27.79,True,MASA
+Kukurantumi Chps Compound,7.2619208,0.5683691,Health_Post,2,19.77,True,MASA
+Lekanti Chps Compound,7.3327939,0.5884733,Health_Post,2,27.81,True,MASA
+Leklebi Dugah Health Centre,6.9598571,0.4982659,Health_Post,2,15.4,True,MASA
+Leklebi Kame Health Centre,6.9676671,0.5159688,Health_Post,2,13.84,True,MASA
+Lemina CHPs Compound,8.5469883,0.1802583,Health_Post,13,15.76,True,MASA
+Liate Wote Chps Compound,7.021077,0.5484837,Health_Post,2,7.14,True,MASA
+Likpe Abrani Health Centre,7.2478186,0.5597641,Health_Post,2,18.18,True,MASA
+Likpe Agboxome Chps Compound,7.196096,0.5636628,Health_Post,2,12.43,True,MASA
+Likpe Bala Chps Compound,7.2029617,0.6077767,Health_Post,2,14.22,True,MASA
+Likpe Koforidua,7.2259682,0.5609731,Health_Post,2,15.75,True,MASA
+Likpe Mate Chps Compound,7.1794214,0.6071113,Health_Post,2,11.81,True,MASA
+Logba Alakpeti Chps Compound,6.8902618,0.428543,Health_Post,2,25.97,True,MASA
+Logba Vuinta Health Centre,6.9231392,0.460784,Health_Post,2,20.98,True,MASA
+Logba-Tota Health Centre,6.8902401,0.453473,Health_Post,2,24.55,True,MASA
+Lolobi Kumasi Health Centre,7.2188381,0.5287318,Health_Post,2,15.33,True,MASA
+Mafi Adalekpoe Clinic,6.2395001,0.5886726,Health_Post,29,54.63,True,Zipline
+Mafi Agoe Chps,6.26482,0.5176217,Health_Post,29,46.46,True,Zipline
+Mafi Anfoe Chps Compound,6.1484523,0.5415018,Health_Post,29,56.43,True,Zipline
+Mafi Avedo Chps Compound,6.1336766,0.6368676,Health_Post,29,65.61,True,Zipline
+Mafi Fiekpe Chps Compound,6.2571906,0.4750219,Health_Post,29,43.06,True,Zipline
+Mafi Gidikpoe Chps,6.30689,0.6466089,Health_Post,29,57.18,True,Zipline
+Mafi Kumase Health Centre,6.2754821,0.5713035,Health_Post,29,51.01,True,Zipline
+Mafi Sasekpe HC,6.2758204,0.6145731,Health_Post,29,55.27,True,Zipline
+Mafi Seva Chps Compound,6.199817,0.5036728,Health_Post,29,49.52,True,Zipline
+Mafi Tove Chps Compound,6.1092918,0.6127773,Health_Post,29,65.23,True,Zipline
+Mafi Zongo Chps Compound,6.2220006,0.5145028,Health_Post,29,48.9,True,Zipline
+Makstec Clinic,6.2791506,0.569877,Health_Post,29,50.68,True,Zipline
+Mawuekpor Chps Compound,6.1974772,0.5503533,Health_Post,29,53.71,True,Zipline
+New Ayoma Health Centre,7.2842245,0.58369,Health_Post,2,22.38,True,MASA
+New Bakpa Chps Compound,6.0510723,0.5400686,Health_Post,29,64.09,True,Zipline
+Nurifafa Health Centre,6.4977621,0.5132416,Health_Post,29,38.76,True,Zipline
+Nyagbo Gagbefe,6.8194452,0.3746088,Health_Post,29,43.62,True,Zipline
+Odumase Health Centre,8.2578695,0.4378759,Health_Post,13,29.78,True,MASA
+Old Ayoma Health Centre,7.2881148,0.6335155,Health_Post,2,24.08,True,MASA
+Patience Angels Maternity Home,7.5029469,-2.91502,Health_Post,16,17.02,True,MASA
+Planned Parenthood Association of Ghana Clinic,6.0015825,0.5975389,Health_Post,29,72.41,True,Zipline
+Roman Catholic Health Centre,7.1491788,0.4768073,Health_Post,2,11.63,True,MASA
+Sabadu Health Centre,6.9059154,0.248124,Health_Post,29,47.37,True,Zipline
+Santrokofi Health Centre,7.2146769,0.4720388,Health_Post,2,17.41,True,MASA
+Sasekope Chps Compound,6.047804,0.6044057,Health_Post,29,69.19,True,Zipline
+Sibi Hilltop CHPs Compound,8.5916139,0.237714,Health_Post,13,13.55,True,MASA
+Sogasco Sick Bay,5.9916278,0.6014647,Health_Post,29,73.53,True,Zipline
+Sokpoe Chps Compound,5.9923146,0.579853,Health_Post,29,71.92,True,Zipline
+Sovie CHPs Compound,6.9370185,0.2897266,Health_Post,29,51.81,True,Zipline
+St Patrick Hospital Administration,6.9987177,0.2877449,Health_Post,29,58.4,True,Zipline
+Supom CHPs Compound,7.1788628,0.0049842,Health_Post,30,68.88,True,Zipline
+Tafi Agome CHPS Compount,6.8485697,0.3923342,Health_Post,29,47.41,True,Zipline
+Tefle Health Centre,6.0005388,0.5707322,Health_Post,29,70.57,True,Zipline
+Tokorme Chps,6.8789961,0.2631492,Health_Post,29,44.82,True,Zipline
+Torkor Health Centre,7.0023849,0.2706564,Health_Post,29,58.38,True,Zipline
+Tsatee Chps,6.6073085,0.2462812,Health_Post,29,16.13,True,Zipline
+Tsorxor Chps Compound,6.6994586,0.2573327,Health_Post,29,25.69,True,Zipline
+Tsrefe Chps Compound,6.5154303,0.4978602,Health_Post,29,37.17,True,Zipline
+Ubunja CHPs Compound,8.5745166,0.1656577,Health_Post,13,18.5,True,MASA
+Unnamed Health_Post,5.350812,-1.6797814,Health_Post,10,22.5,True,MASA
+Unnamed Health_Post,10.9256234,-0.9574527,Health_Post,27,66.5,True,Zipline
+Wadamaxe CHPs Compound,6.8930818,0.2942218,Health_Post,29,47.28,True,Zipline
+Wiate Soba Health Centre,7.0102501,0.512713,Health_Post,2,9.72,True,MASA
+Zanlerigu Health Center,10.8063698,-0.7370119,Health_Post,27,51.59,True,Zipline
+37 Military Hospital,5.5869122,-0.1847128,Hospital,25,74.33,True,Zipline
+3BN Military Hospital,7.3419817,-2.2948458,Hospital,5,20.66,True,MASA
+AIMS Hospital,5.6060797,-0.2254035,Hospital,25,70.69,True,Zipline
+AMI Memorial Hospital,5.3009896,-1.9948526,Hospital,6,9.36,True,MASA
+Abomosu Clinic,6.3001218,-0.7342024,Hospital,25,33.63,True,Zipline
+Abomosu Hospital,6.3007816,-0.734213,Hospital,25,33.65,True,Zipline
+Abrafi Women and Children Hospital,7.5797598,-1.9447767,Hospital,5,27.36,True,MASA
+Abuakwa Health Center,6.7012439,-1.715162,Hospital,26,53.55,True,Zipline
+Aburaso Health center,6.6611852,-1.6769815,Hospital,26,54.3,True,Zipline
+Accra Medical Centre,5.5687182,-0.1860394,Hospital,25,76.14,True,Zipline
+Accra Medical Centre,5.5694068,-0.1864111,Hospital,25,76.06,True,Zipline
+Accra Psychiatric Hospital,5.5633354,-0.2045885,Hospital,25,75.95,True,Zipline
+Accra West Medical Centre,5.5463886,-0.3262091,Hospital,25,74.18,True,Zipline
+Achiase Health Centre,5.8447952,-1.0011211,Hospital,25,73.14,True,Zipline
+Achimota Hospital,5.6298307,-0.2171964,Hospital,25,68.55,True,Zipline
+Ada East District Hospital,5.8893838,0.5697255,Hospital,-1,-1.0,False,Aucun
+Adabraka Polyclinic,5.5618213,-0.2044306,Hospital,25,76.11,True,Zipline
+Adidome Hospital,6.0728658,0.4982077,Hospital,29,59.27,True,Zipline
+Adisadel Health Centre,5.1192383,-1.2678575,Hospital,1,25.28,True,MASA
+Advance Body Sculpture,5.5562003,-0.3041977,Hospital,25,73.58,True,Zipline
+Adweso Clinic,6.0634948,-0.253995,Hospital,25,26.29,True,Zipline
+Afari Military Hospital,6.6841974,-1.7886159,Hospital,26,60.63,True,Zipline
+Afienya Clinic,5.8024857,0.0059677,Hospital,25,66.94,True,Zipline
+Afrikids Clinic,10.7890849,-0.8411563,Hospital,27,49.33,True,Zipline
+Agogo Presbyterian hospital,6.7965698,-1.0855078,Hospital,26,43.81,True,Zipline
+Agyakwa Hospital,6.5383131,-0.7672648,Hospital,25,51.49,True,Zipline
+Agyei-Mensah Memorial Home,6.8020922,-2.5171237,Hospital,28,69.05,True,Zipline
+Ahmaddiyya Hospital,10.1697146,-2.5416345,Hospital,7,13.1,True,MASA
+Ahmadiyya Muslim Hospital,5.5385494,-0.699593,Hospital,4,17.72,True,MASA
+Ahodwo New Cross Hospital,6.6571085,-1.6223795,Hospital,26,51.35,True,Zipline
+Ahwenie Memorial Hospital,6.4549977,-1.5704577,Hospital,26,69.72,True,Zipline
+Ahwiaso Community Hospital,6.3157621,-2.2501706,Hospital,28,29.87,True,Zipline
+Aiyinase Clinic,5.0433587,-2.4650394,Hospital,17,17.06,True,MASA
+Akatsi District Hospital,6.1391893,0.8082299,Hospital,9,22.36,True,MASA
+Akrodie Health Centre,6.6950068,-2.5569091,Hospital,28,57.6,True,Zipline
+Akumadan health centre,7.4055884,-1.9605964,Hospital,5,24.97,True,MASA
+Akuse Government Hospital,6.0978288,0.1249559,Hospital,29,43.64,True,Zipline
+Al-Ayar Hospital,5.6138369,-0.2403674,Hospital,25,69.32,True,Zipline
+Alpha Homeopathic & Boatnic Medical Clinic,6.5558643,-0.7554059,Hospital,25,52.05,True,Zipline
+Alpha and Omega Chiropractic Health Care,5.6478002,-0.0733104,Hospital,25,74.22,True,Zipline
+Amasaman Hospital,5.7019196,-0.299348,Hospital,25,58.0,True,Zipline
+Ambulant Station Bachabordo,9.369194,-0.1574881,Hospital,15,21.58,True,MASA
+Amen Scientific Herbal and Alternative Medical Hospital,6.7030952,-1.6251046,Hospital,26,47.19,True,Zipline
+Amiah Hospital,10.8091638,-0.8507008,Hospital,27,51.65,True,Zipline
+Amoah Memorial Hospital,5.5907936,-0.2872877,Hospital,25,70.27,True,Zipline
+Amoako Health City,7.5371705,-1.9417206,Hospital,5,26.2,True,MASA
+Anfoega Catholic Hospital,6.8793803,0.2765656,Hospital,29,45.25,True,Zipline
+Angela Catholic Clinic,6.7634423,-3.1828005,Hospital,23,17.69,True,MASA
+Aniwaa Medical Center,6.664569,-1.535161,Hospital,26,46.4,True,Zipline
+Anoma Health Center,7.7836552,-1.8712659,Hospital,12,10.03,True,MASA
+Anthon Memorial Hospital,5.5937013,-0.2114515,Hospital,25,72.52,True,Zipline
+Apinto Government Hospital,5.3057494,-1.986342,Hospital,6,8.36,True,MASA
+Apradang Clinic,6.5486346,-0.8663086,Hospital,25,60.29,True,Zipline
+Armah Memorial,5.5584037,-0.2433672,Hospital,25,75.07,True,Zipline
+Asafo Agyei Hospital,6.6420241,-1.6189558,Hospital,26,52.61,True,Zipline
+Asakraka Clinic,6.6321641,-0.6845805,Hospital,25,54.54,True,Zipline
+Asamankese Government Hospital,5.8539806,-0.6786598,Hospital,25,46.52,True,Zipline
+Asesewa Government Hospital,6.4017208,-0.146631,Hospital,29,35.49,True,Zipline
+Ashaiman Community Hospital,5.7108652,-0.0370839,Hospital,25,70.98,True,Zipline
+Ashan,6.8431504,-1.6487814,Hospital,26,37.37,True,Zipline
+Ashongman Community Hospital,5.6853568,-0.2318106,Hospital,25,62.22,True,Zipline
+Asokore Ahmadiyya Hospital,6.8448217,-1.3830389,Hospital,26,23.32,True,Zipline
+Atasomanso hospital,6.6521749,-1.6332336,Hospital,26,52.43,True,Zipline
+Atibie Government Hospital,6.5807467,-0.7340057,Hospital,25,52.71,True,Zipline
+Atlantis Hospital,5.7185997,0.0087224,Hospital,25,73.68,True,Zipline
+Atorkor Clinic,5.776355,0.8217025,Hospital,-1,-1.0,False,Aucun
+Atta Mills Clinical Teaching center,5.1353499,-1.2646099,Hospital,1,24.32,True,MASA
+Atta Quarshie Merton Memorial Hospital,5.5619488,-0.2137769,Hospital,25,75.74,True,Zipline
+Atua Government Hospital,6.1196883,-0.0080317,Hospital,29,45.13,True,Zipline
+Axim Governmenr Hospital,4.8667635,-2.2378492,Hospital,17,15.1,True,MASA
+Ayiresu Chip Compound,5.6211389,-0.5218935,Hospital,4,29.5,True,MASA
+Baptist Medical Center Nalerigu,10.515869,-0.3640743,Hospital,27,51.59,True,Zipline
+Baptist Medical Centre,10.5197849,-0.3646745,Hospital,27,51.69,True,Zipline
+Barnor Hospital,5.5492639,-0.2411191,Hospital,25,76.12,True,Zipline
+Bawku Presbyterian Hospital,11.0602425,-0.2329527,Hospital,20,24.2,True,MASA
+Bechem Government Hospital,7.0875431,-2.0304926,Hospital,26,71.27,True,Zipline
+Bekwai Matenity,6.4551686,-1.5786467,Hospital,26,69.97,True,Zipline
+Bekwai Municipal Hospital,6.4560047,-1.5789526,Hospital,26,69.89,True,Zipline
+Bemuah Royal Hospital,5.6459731,-0.1568956,Hospital,25,69.69,True,Zipline
+Bemuah Royal Hospital,5.6458487,-0.1567979,Hospital,25,69.7,True,Zipline
+Bengali Hospital,5.6678409,-0.0202903,Hospital,25,75.87,True,Zipline
+Bethel Hospital,5.6720403,-0.0193171,Hospital,25,75.57,True,Zipline
+Bibiani Government Hospital,6.4564802,-2.3230746,Hospital,28,35.35,True,Zipline
+Bimbilla Hospital,8.8578116,0.0551406,Hospital,-1,-1.0,False,Aucun
+Bodomase Clinic,6.8898446,-1.2519242,Hospital,26,23.51,True,Zipline
+Bole District Hospital,9.0292647,-2.49718,Hospital,-1,-1.0,False,Aucun
+Bolgatanga Regional Hospital,10.8061543,-0.861901,Hospital,27,51.45,True,Zipline
+Bontanga hospital,9.5792913,-0.9950347,Hospital,0,29.39,True,MASA
+Breasted One Foundation,5.6319195,-0.0146647,Hospital,25,79.41,True,Zipline
+Bright Clinic,5.8245101,0.0277869,Hospital,25,67.2,True,Zipline
+Buterisa CHIPS Compound,10.4810423,-1.2772783,Hospital,27,53.92,True,Zipline
+C&J Medicare Hospital,5.5535249,-0.2100966,Hospital,25,76.76,True,Zipline
+C&J Medicare Hospital and Diagnostic Center,5.6243654,-0.0695604,Hospital,25,76.62,True,Zipline
+C4C,4.9440653,-1.7522058,Hospital,3,4.36,True,MASA
+CD SPECIALIST HOSPITAL,6.6777774,-1.6352316,Hospital,26,50.15,True,Zipline
+CHPS Compound,6.3696878,-0.5306782,Hospital,25,20.78,True,Zipline
+CITI PHYSIOTHERAPY AND REHABILITATION CENTRE,5.5374094,-0.4180654,Hospital,25,74.04,True,Zipline
+CMS,6.3754238,0.8879399,Hospital,-1,-1.0,False,Aucun
+CMS D'EDZI,6.3879481,0.870291,Hospital,29,79.0,True,Zipline
+CMS Dzolo,6.3719528,0.8888628,Hospital,-1,-1.0,False,Aucun
+CSPS,10.4972009,-2.9105334,Hospital,-1,-1.0,False,Aucun
+CWC,6.5483901,-0.8661785,Hospital,25,60.26,True,Zipline
+Cape Coast District Hospital,5.1026091,-1.2589246,Hospital,1,25.15,True,MASA
+Cape Coast Health And Wellness Center,5.1084068,-1.2472647,Hospital,1,23.7,True,MASA
+Cape Coast Teaching Hospital,5.1340712,-1.2660169,Hospital,1,24.52,True,MASA
+Catholic Family Reproductive Health Program,10.360317,-0.7959098,Hospital,27,1.7,True,Zipline
+Cedars Medical Center,5.6814361,-0.1984665,Hospital,25,64.11,True,Zipline
+Cedars Medical Center,5.6793872,-0.1926961,Hospital,25,64.59,True,Zipline
+Central Aflao Hospital,6.1152168,1.1689449,Hospital,9,20.6,True,MASA
+Charia Health Center,10.1102742,-2.5705982,Hospital,7,7.35,True,MASA
+Chereponi Hospital,10.1306476,0.2866376,Hospital,22,18.04,True,MASA
+Chrispod Hospital,5.6436094,-0.2319856,Hospital,25,66.53,True,Zipline
+Citadel Hospital,5.5964844,-0.2168298,Hospital,25,72.02,True,Zipline
+City of Hope Hospital,5.6394615,-0.0566458,Hospital,25,76.02,True,Zipline
+Civil Service Polyclinic,5.5510399,-0.1960103,Hospital,25,77.57,True,Zipline
+Clinic,9.0853077,-1.8180639,Hospital,14,0.98,True,MASA
+Clinic,9.0828765,-1.8266342,Hospital,14,1.28,True,MASA
+Cocoa Clinic,5.5717974,-0.2363327,Hospital,25,73.89,True,Zipline
+Comboni Hospital,6.0024684,0.5850068,Hospital,29,71.43,True,Zipline
+County Hospital,6.7262792,-1.6582381,Hospital,26,47.31,True,Zipline
+County Hospital,6.7265479,-1.6582299,Hospital,26,47.29,True,Zipline
+Cross Care Hospital,7.3497195,-2.3530028,Hospital,8,21.91,True,MASA
+Cross Medical Centre,7.0080504,-1.376056,Hospital,26,5.27,True,Zipline
+Cross Medical Centre,7.0083949,-1.3759923,Hospital,26,5.23,True,Zipline
+DAKS Medical Center,6.4566489,-2.3018646,Hospital,28,36.61,True,Zipline
+Damongo Health Centre,9.0822717,-1.8182024,Hospital,14,0.65,True,MASA
+Damongo Health Centre,9.0822819,-1.818583,Hospital,14,0.66,True,MASA
+Dawa CHPS compound,5.8646901,0.28651,Hospital,29,70.71,True,Zipline
+Dialysis Center,5.5422583,-0.2291881,Hospital,25,77.26,True,Zipline
+Diare Health Center,9.8775305,-0.8719139,Hospital,27,52.74,True,Zipline
+Dispensaire de Nyitoe,6.6603381,0.650374,Hospital,29,57.18,True,Zipline
+Divine Healthcare Hospital,6.7568061,-1.651579,Hospital,26,44.25,True,Zipline
+Divine Love Hospital,6.4552584,-2.3168744,Hospital,28,35.59,True,Zipline
+Donkorkrom Presbyterian Hospital,7.0486365,-0.0767851,Hospital,29,67.66,True,Zipline
+Dr Grace Momfi Eye Hospital,7.0538252,0.4268626,Hospital,2,15.02,True,MASA
+Dr. Beecham's Central Dansoman Clinic,5.552274,-0.2622264,Hospital,25,75.13,True,Zipline
+Dr. Larbi Clinic,7.4438905,-2.5935659,Hospital,16,26.42,True,MASA
+ECG Hospital,8.4572269,-0.0124025,Hospital,30,73.29,True,Zipline
+Eastern Regional Hospital,6.0977648,-0.2569788,Hospital,25,23.95,True,Zipline
+Effia Nkwanta Regional Hospital,4.9239418,-1.7442462,Hospital,3,3.56,True,MASA
+Effiduasi District Hospital,6.8472847,-1.3935446,Hospital,26,23.06,True,Zipline
+Effutu Municipal Hospital,5.3436292,-0.6226258,Hospital,4,5.65,True,MASA
+Emergency Room Holy Family Hospital,7.4449334,-2.586675,Hospital,16,26.96,True,MASA
+Emmanuel Community Hospital,5.6065334,-0.2375877,Hospital,25,70.19,True,Zipline
+Emmanuel Med Hospital,6.6290534,0.4822035,Hospital,29,38.62,True,Zipline
+Enchi Government Hospital,5.8305012,-2.8213004,Hospital,28,53.99,True,Zipline
+Esidem Hospital,5.6601762,-0.1549791,Hospital,25,68.39,True,Zipline
+Euracare,5.570436,-0.1766637,Hospital,25,76.36,True,Zipline
+Faith Evangelical Mission Hospital,5.5792819,-0.245048,Hospital,25,72.8,True,Zipline
+Family Health Hospital,5.5728629,-0.1122041,Hospital,25,79.18,True,Zipline
+Father Thomas Allan Rooney Memorial Hospital,5.801622,-2.4321471,Hospital,28,42.69,True,Zipline
+Fetteh Hope Hospital,5.431858,-0.4771433,Hospital,4,19.58,True,MASA
+Focos Orthopedic hospital,5.7274744,-0.1851059,Hospital,25,60.22,True,Zipline
+Focus Orthopedic,5.736226,-0.1761659,Hospital,25,59.85,True,Zipline
+Fountain Care Hospital,7.9544918,-2.6960758,Hospital,-1,-1.0,False,Aucun
+Fountain Medical Services,6.5959653,0.5180955,Hospital,29,41.06,True,Zipline
+Frimpong Boateng Medical Center,6.6615016,-1.8205251,Hospital,26,64.93,True,Zipline
+Fulera Maternity Clinic,9.4321907,-0.860596,Hospital,0,7.37,True,MASA
+GMC Hospital,5.2802295,-1.9822029,Hospital,6,10.56,True,MASA
+Ga North Municipal Hospital,5.6553167,-0.2778011,Hospital,25,63.65,True,Zipline
+Garden City Hospital,6.7114132,-1.56792,Hospital,26,43.14,True,Zipline
+Gary Marvin Memorial Hospital,6.604927,-1.6603731,Hospital,26,58.48,True,Zipline
+General Family Hospital,5.7243467,-0.0579181,Hospital,25,68.36,True,Zipline
+German Egon Clinic,5.6123628,-0.2143482,Hospital,25,70.47,True,Zipline
+Gewah Hospital,5.5616504,-0.3100775,Hospital,25,72.85,True,Zipline
+Ghana Atomic Energy Commission Hospital,5.6685831,-0.2315705,Hospital,25,63.96,True,Zipline
+Ghana Health Service clinic,5.8501297,0.972323,Hospital,9,23.0,True,MASA
+Ghana Police Hospital,5.5684386,-0.181711,Hospital,25,76.35,True,Zipline
+Goaso Municipal Hospital,6.8063708,-2.5212383,Hospital,28,69.55,True,Zipline
+Governmental Hospital,5.5357761,-0.6922845,Hospital,4,17.18,True,MASA
+Grace Memorial Hospital,5.5970285,-0.1123414,Hospital,25,76.81,True,Zipline
+Graceland Specialist Hospital,6.6624402,-1.5293751,Hospital,26,46.4,True,Zipline
+Greater Grace Hospital,5.7184862,-0.174098,Hospital,25,61.68,True,Zipline
+Green Shed Hospital,6.1947913,-2.3273295,Hospital,28,17.43,True,Zipline
+Greenville Hospital,5.7288187,0.0348352,Hospital,25,74.88,True,Zipline
+Gumani Clinic,9.4381682,-0.8364051,Hospital,0,6.49,True,MASA
+Gushiegu Government Hospital,9.9298768,-0.2137065,Hospital,27,79.49,True,Zipline
+HEALTH CENTER,5.9132585,-2.1250455,Hospital,28,49.73,True,Zipline
+HTU Clinic,6.5983314,0.4650151,Hospital,29,35.58,True,Zipline
+Hain Polyclinic,10.6925153,-2.4359607,Hospital,19,23.55,True,MASA
+Hajj Abdulai Yaro Memorial and Maternity Clinic,5.585305,-0.1994805,Hospital,25,73.88,True,Zipline
+Half-Assini Government Hospital,5.0536117,-2.8904725,Hospital,11,12.65,True,MASA
+Ho Municipal Hospital,6.6097972,0.4683804,Hospital,29,36.38,True,Zipline
+Ho Royal Hospital,6.6311767,0.4774661,Hospital,29,38.24,True,Zipline
+Ho Teaching Hospital,6.601217,0.4845129,Hospital,29,37.72,True,Zipline
+Hohoe Municipal Hospital,7.1576668,0.47284,Hospital,2,12.56,True,MASA
+Holy Family Hospital,7.5916248,-1.9383163,Hospital,5,28.55,True,MASA
+Holy Family Hospital,7.4444666,-2.5879689,Hospital,16,26.88,True,MASA
+Holy Family Hospital - Techiman,7.5920208,-1.9396317,Hospital,5,28.44,True,MASA
+Hospital Bungalow,6.0676308,0.4005722,Hospital,29,53.69,True,Zipline
+Hôpital de Kouma-Apéyémé,6.9771526,0.5579504,Hospital,2,11.92,True,MASA
+Inkoom Hospital,5.6337052,-0.0983326,Hospital,25,74.05,True,Zipline
+International Homeopatic Clinic,5.635602,-0.16104,Hospital,25,70.51,True,Zipline
+International Maritime Hospital Ghana Limited,5.6264872,-0.0267842,Hospital,25,79.1,True,Zipline
+International Medical & Dental Clinic,5.6371824,-0.1646518,Hospital,25,70.17,True,Zipline
+International Mission Hospital,6.0560359,0.9924101,Hospital,9,0.0,True,MASA
+Jaang Clinic,10.1975739,-2.4594702,Hospital,7,18.39,True,MASA
+Jasikan District Hospital,7.4016712,0.4638923,Hospital,30,68.56,True,Zipline
+Jubail Specialist Hospital,5.6256371,-0.052081,Hospital,25,77.57,True,Zipline
+Kabsad Scientific Hospital,9.3988903,-0.8274158,Hospital,0,2.18,True,MASA
+Kade Government Hospital,6.1007397,-0.8396296,Hospital,25,44.95,True,Zipline
+Kamina Medical Center,9.4618245,-0.8490297,Hospital,0,9.45,True,MASA
+Kaneshie Polyclinic,5.5745779,-0.2309253,Hospital,25,73.79,True,Zipline
+Karikari Brobbey Hospital,5.5310976,-0.2615955,Hospital,25,77.42,True,Zipline
+Kenop Care Hospital,6.5349856,-0.7527185,Hospital,25,50.13,True,Zipline
+Keta Municipal Hospital,5.8882846,0.9823,Hospital,9,18.69,True,MASA
+Kete Krachi Goverment Hospital,7.7943838,-0.056682,Hospital,30,4.88,True,Zipline
+Ketu South District Hospital,6.1172968,1.180022,Hospital,9,21.83,True,MASA
+Kibi Government Hospital,6.1670503,-0.5552595,Hospital,25,12.69,True,Zipline
+King Medical Consult,6.6639225,-1.6433981,Hospital,26,51.93,True,Zipline
+Kintampo District Hospital,8.051439,-1.7316744,Hospital,12,25.21,True,MASA
+Kintampo South District Hospital,7.8905503,-1.7731557,Hospital,12,6.78,True,MASA
+Kissi Health Centre,5.0871197,-1.5060483,Hospital,3,28.6,True,MASA
+Klagon Maternity Home and Clinic,5.6646743,-0.0499192,Hospital,25,74.16,True,Zipline
+Komfo Anokye Teaching Hospital,6.6967953,-1.6297951,Hospital,26,48.06,True,Zipline
+Konongo Hospital,6.6239645,-1.2172439,Hospital,26,51.35,True,Zipline
+Korle Bu Policlinic,5.537867,-0.2234721,Hospital,25,77.92,True,Zipline
+Korle Bu Teaching Hospital,5.5380807,-0.2272021,Hospital,25,77.77,True,Zipline
+Kpandai District Hospital,8.4595344,-0.0230896,Hospital,30,73.56,True,Zipline
+Kpoeta (Kpɔ̃ta) CHPs Compound,6.9095649,0.5429336,Hospital,2,19.52,True,MASA
+Kropo Charity Hospital,6.7235479,-1.6344718,Hospital,26,45.93,True,Zipline
+Kujooni CHPS,9.6699231,0.1957063,Hospital,18,0.0,True,MASA
+Kumasi South Urban Health Centre,6.6510373,-1.5859483,Hospital,26,50.02,True,Zipline
+Kwahu Afram Plains North District Helalth Directorate,7.0470736,-0.0846019,Hospital,29,67.84,True,Zipline
+La General Hospital,5.5553984,-0.1664951,Hospital,25,78.34,True,Zipline
+Landmark Medical Center,5.6535323,-0.075951,Hospital,25,73.52,True,Zipline
+Langbensi,10.4078938,-0.5608496,Hospital,27,27.39,True,Zipline
+Lapaz Community Hospital,5.6354204,-0.2153604,Hospital,25,68.05,True,Zipline
+Lapaz Community Hospital,5.6087666,-0.2537327,Hospital,25,69.39,True,Zipline
+Lawra Municipal Hospital,10.6429732,-2.887975,Hospital,-1,-1.0,False,Aucun
+Lebanon Community Hospital,5.720567,-0.0578471,Hospital,25,68.69,True,Zipline
+Lekma Hospital,5.6031207,-0.1200129,Hospital,25,75.81,True,Zipline
+Lighthouse Hospital,5.6480279,0.0243278,Hospital,-1,-1.0,False,Aucun
+Likpe Bakua Polyclinic,7.1627998,0.5824888,Hospital,2,9.08,True,MASA
+Lister Hospital,5.6193087,-0.1464704,Hospital,25,72.85,True,Zipline
+MBA Hospital,5.6013092,-0.2568138,Hospital,25,70.08,True,Zipline
+MEDIMAFO Herbal Hope,5.7180502,-0.2824956,Hospital,25,56.85,True,Zipline
+Madonna Maternity Hospital,6.7056154,-1.7207633,Hospital,26,53.62,True,Zipline
+Malikem Hospital,5.6673984,-0.1166379,Hospital,25,69.8,True,Zipline
+Mamobi General Hospital,5.5913638,-0.1990858,Hospital,25,73.27,True,Zipline
+Mampong Government Hospital,7.0423793,-1.406451,Hospital,26,2.68,True,Zipline
+Mamprobi Hospital,5.5381795,-0.2452645,Hospital,25,77.16,True,Zipline
+Manhyia District Hospital,6.702753,-1.6128358,Hospital,26,46.47,True,Zipline
+Mankranso Government Hospital,6.8210441,-1.8627434,Hospital,26,58.73,True,Zipline
+Manna Mission,5.6070963,-0.1073743,Hospital,25,76.1,True,Zipline
+Margret Marquart Catholic Hospital,6.9993371,0.3034363,Hospital,2,29.8,True,MASA
+Mater Dei Hospital,6.6737272,-1.6417885,Hospital,26,50.92,True,Zipline
+Matermity Ward,6.5483082,-0.8663937,Hospital,25,60.27,True,Zipline
+Mauplus Health Care Service,9.407349,-0.8375556,Hospital,0,3.62,True,MASA
+McHenly's Medical Centre,5.632815,-0.1669205,Hospital,25,70.5,True,Zipline
+Medical Village Mortuary,8.2595616,0.5110961,Hospital,30,77.18,True,Zipline
+Medifem Multi-Specialist Hospital & Fertility Centre,5.6585279,-0.2060705,Hospital,25,66.08,True,Zipline
+Meridian Clinic,5.6456266,-0.0072616,Hospital,25,78.7,True,Zipline
+Methodist Hospital,5.5552366,-1.5437239,Hospital,10,7.26,True,MASA
+Methodist Hospital Wenchi,7.7380768,-2.1113099,Hospital,5,29.14,True,MASA
+Metro Health Hospital,6.7088582,-1.637644,Hospital,26,47.45,True,Zipline
+Mother of God Hospital,5.7109557,-0.0501738,Hospital,25,70.06,True,Zipline
+Mother-Love Hospital,5.7165452,-0.1663593,Hospital,25,62.29,True,Zipline
+Mount Olives Hospital,7.5964225,-1.9228298,Hospital,12,29.89,True,MASA
+Mount Sinai Hospital,6.7336564,-1.7295966,Hospital,26,52.11,True,Zipline
+NEUROCARE SPECIALIST SERVICE,6.6481752,-1.6425177,Hospital,26,53.35,True,Zipline
+Nadowli Hospital,10.3635054,-2.6589413,Hospital,19,22.34,True,MASA
+Nagel Memorial Hospital,4.9016007,-1.7665727,Hospital,3,6.89,True,MASA
+Nagel Memorial Hospital Annex,4.9009369,-1.7646309,Hospital,3,6.75,True,MASA
+Nana Benie Memorial Health Centre,5.0494087,-2.4797998,Hospital,17,18.71,True,MASA
+Nandom Hospital,10.8389883,-2.7729897,Hospital,-1,-1.0,False,Aucun
+Nanton Kurug Clinic (New),9.6171526,-0.7453967,Hospital,0,27.01,True,MASA
+Narh-Bita Hospital,5.6580109,-0.0108035,Hospital,25,77.38,True,Zipline
+Neptune Medical Centre,5.6494797,-0.0748858,Hospital,25,73.96,True,Zipline
+New Crystal Hospital,5.7367339,-0.0143811,Hospital,25,70.46,True,Zipline
+New Hope Clinic,6.1092716,1.1598332,Hospital,9,19.44,True,MASA
+New Jejeti Health Centre,6.4759191,-0.6539157,Hospital,25,38.08,True,Zipline
+New Life Laboratory & Clinic,9.3937253,-0.8210051,Hospital,0,1.3,True,MASA
+New Tafo Government Hospital,6.2308156,-0.3660381,Hospital,25,9.4,True,Zipline
+New Upper West Regional Hospital Site,10.0872271,-2.5212674,Hospital,7,4.38,True,MASA
+Ngleshie Amanfro Polyclinic,5.5363505,-0.4112793,Hospital,25,74.2,True,Zipline
+Nkenkaasu Government Hospital,7.3195232,-1.9027931,Hospital,26,64.23,True,Zipline
+Nkrankwanta Government Hospital,7.0205959,-3.0532075,Hospital,23,16.62,True,MASA
+Nkwanta South Municipal Hospital,8.2581225,0.5094212,Hospital,30,76.93,True,Zipline
+North Deseret Hospital,5.6080307,-0.2787828,Hospital,25,68.67,True,Zipline
+North Legon Hospital,5.66942,-0.1824545,Hospital,25,66.08,True,Zipline
+Nova Surgery Center,5.6530951,-0.1343793,Hospital,25,70.17,True,Zipline
+Nyaho Clinic,5.6145561,-0.1849937,Hospital,25,71.5,True,Zipline
+Nyaho Medical Centre,5.5514896,-0.2039394,Hospital,25,77.21,True,Zipline
+Nyameadom Maternity Home,5.5518626,-0.2643403,Hospital,25,75.11,True,Zipline
+Nyinahin Hospital,6.6008109,-2.1097935,Hospital,28,62.32,True,Zipline
+Nzema Baptist Hospital,5.0756155,-2.5424768,Hospital,17,25.93,True,MASA
+ODUMAN POLYCLINIC,5.6421114,-0.3306611,Hospital,25,63.63,True,Zipline
+ODUMAN POLYCLINIC,5.6425277,-0.3308186,Hospital,25,63.58,True,Zipline
+Obaatan Pa Womens Hospital,5.6310246,-0.1687017,Hospital,25,70.59,True,Zipline
+Oda Government Hospital,5.9284588,-0.9857572,Hospital,25,67.0,True,Zipline
+Offinso Health Center,6.9379419,-1.6748899,Hospital,26,34.47,True,Zipline
+Opoku Agyemang Hospital,7.5625319,-1.9370078,Hospital,5,27.48,True,MASA
+Osu Maternity Home Hospital,5.553747,-0.185228,Hospital,25,77.72,True,Zipline
+Otoo Memorial Clinic,5.3544227,-0.6321839,Hospital,4,4.1,True,MASA
+Owusu Memorial Hospital,7.3271126,-2.332524,Hospital,8,20.27,True,MASA
+Paga District Hospital,10.9704923,-1.1009057,Hospital,27,76.57,True,Zipline
+Pankese Community Health Planning and Services,6.5081592,-0.8438128,Hospital,25,55.54,True,Zipline
+Pantang Hospital,5.717441,-0.1907869,Hospital,25,60.9,True,Zipline
+Peki Government Hospital,6.5342926,0.2262564,Hospital,29,8.69,True,Zipline
+Pentecost Clinic,5.95753,-1.878119,Hospital,28,71.54,True,Zipline
+Pishigu Clinic,9.966885,-0.6472076,Hospital,27,45.6,True,Zipline
+Polyclinic,7.5935608,-2.787848,Hospital,16,0.86,True,MASA
+Power House Hospital,6.7297338,-1.6202898,Hospital,26,44.45,True,Zipline
+Presbyterian Eye Clinic,7.0493041,-0.0774028,Hospital,29,67.75,True,Zipline
+Presbyterian Primary Health Center,8.5343751,-0.515382,Hospital,-1,-1.0,False,Aucun
+Princess Marie Louie Children's Hospital,5.5446455,-0.2132424,Hospital,25,77.58,True,Zipline
+Pro Vita Specialist Hospital,5.6523539,-0.0198046,Hospital,25,77.26,True,Zipline
+Provident Specialist Hospital,5.6262736,-0.2364287,Hospital,25,68.17,True,Zipline
+Rabboni Christian Hospital,5.3054494,-1.9930461,Hospital,6,8.85,True,MASA
+Redeemer Hospital,5.2842836,-2.0057638,Hospital,6,11.56,True,MASA
+Redeemer Hospital,5.2896863,-1.9856584,Hospital,6,9.81,True,MASA
+Resolve Medical Hospital,5.6355198,-0.0784421,Hospital,25,75.05,True,Zipline
+Rhema Rapha Medical Center,5.5765896,-0.1394692,Hospital,25,77.45,True,Zipline
+Ridge Hospital,5.5622992,-0.1993902,Hospital,25,76.26,True,Zipline
+Roman Catholic Hospital,6.5466382,-0.7733547,Hospital,25,52.63,True,Zipline
+Roseth community eye care,6.7176919,-1.4656783,Hospital,26,38.48,True,Zipline
+"S.D.A. Hospital, Kwadaso",6.6996795,-1.6585978,Hospital,26,49.65,True,Zipline
+SDA Hospital,6.19789,-1.63915,Hospital,-1,-1.0,False,Aucun
+SDA Hospital,9.3997276,-0.8318801,Hospital,0,2.59,True,MASA
+SICK,6.8126582,-1.4265516,Hospital,26,27.27,True,Zipline
+SICK BAY,6.8126658,-1.4265491,Hospital,26,27.27,True,Zipline
+SSNIT Hospital,5.562561,-0.1821125,Hospital,25,76.94,True,Zipline
+SSNIT Mother and Child,5.5551471,-0.1792964,Hospital,25,77.82,True,Zipline
+ST. DOMINIC CATHOLIC HOSPITAL,6.0476654,-0.7984533,Hospital,25,42.59,True,Zipline
+Saint Martin D Porres Hostital,6.1442201,0.0150767,Hospital,29,41.61,True,Zipline
+Sakumono Community Hospital,5.6224959,-0.0627493,Hospital,25,77.21,True,Zipline
+Salaga Hospital,8.5427463,-0.5042297,Hospital,-1,-1.0,False,Aucun
+Sam J Hospital,5.6773994,-0.2030279,Hospital,25,64.3,True,Zipline
+Sam Jonah Clinic,5.2450606,-2.0450918,Hospital,6,17.7,True,MASA
+Samartex Hospital,5.6158357,-2.5642588,Hospital,28,63.57,True,Zipline
+Samudure Hospital,10.8205224,-0.055953,Hospital,20,13.69,True,MASA
+Sape Agbo Memorial Hospital,6.0972708,1.142875,Hospital,9,17.26,True,MASA
+Savelugu District Hospital,9.6192341,-0.8301155,Hospital,0,26.22,True,MASA
+Sawia Health Center,6.6135698,-1.5422574,Hospital,26,51.99,True,Zipline
+Sawla-Tuna-Kalba District Hospital,9.2639724,-2.4018927,Hospital,-1,-1.0,False,Aucun
+Scanport Healthcare and Medical Imaging,5.5328819,-0.2372229,Hospital,25,77.98,True,Zipline
+Shai Osudoku New District Hospital,5.8988653,-0.0914846,Hospital,25,51.77,True,Zipline
+Shai Osudoku Old District Hospital,5.8853275,-0.0918681,Hospital,25,52.73,True,Zipline
+Shama Hospital,5.0118315,-1.6353582,Hospital,3,12.22,True,MASA
+Siloam Hospital,6.7000574,-1.6608735,Hospital,26,49.77,True,Zipline
+Soafa Scientific Herbal Hospital,6.533256,-0.7505454,Hospital,25,49.82,True,Zipline
+Sogakope District Hospital,6.0081681,0.6149822,Hospital,29,73.17,True,Zipline
+Sogakope Government Hospital,6.0013869,0.5949088,Hospital,29,72.24,True,Zipline
+Speed Hospital,5.7478647,-0.029493,Hospital,25,68.42,True,Zipline
+St Joseph's Orthopedic Hospital,6.1009555,-0.2725859,Hospital,25,22.28,True,Zipline
+St Patrick Hospital,6.9986394,0.2870534,Hospital,29,58.37,True,Zipline
+St. Andrew Catholic Hospital,5.9244617,0.0176784,Hospital,25,59.9,True,Zipline
+St. Anthony's Hospital,6.2407055,0.9890357,Hospital,9,20.54,True,MASA
+St. Elizabeth Hospital,6.9320854,-2.3580273,Hospital,8,25.79,True,MASA
+St. Gregory Catholic Hospital,5.5238733,-0.4753579,Hospital,4,24.42,True,MASA
+St. John of God Hospital,7.1762749,-2.0976539,Hospital,26,79.74,True,Zipline
+"St. Joseph Hospital, Nkwanta South District",8.2483862,0.5213683,Hospital,30,77.22,True,Zipline
+St. Kathryn's Hospital,5.5876402,-0.2314676,Hospital,25,72.4,True,Zipline
+St. Mark Hospital,5.9677775,-1.7904634,Hospital,-1,-1.0,False,Aucun
+St. Martin De Porres,4.9654539,-2.4694642,Hospital,17,13.08,True,MASA
+St. Mary Theresa Hospital,7.741993,0.5106135,Hospital,30,57.97,True,Zipline
+St. Mary’s Hospital,7.5863969,-2.7843065,Hospital,16,0.12,True,MASA
+St. Theresia Hospital,7.570285,-1.7040502,Hospital,26,67.26,True,Zipline
+Stanford Health,5.2651828,-1.0203137,Hospital,1,7.83,True,MASA
+Star of Hope Hospital,6.5054442,-2.4999113,Hospital,28,36.01,True,Zipline
+Suhum Hospital,6.0380137,-0.4446668,Hospital,25,18.31,True,Zipline
+Suntreso Government Hospital,6.7027437,-1.6420416,Hospital,26,48.29,True,Zipline
+Sunyani Municipal Hospital,7.3381182,-2.3290952,Hospital,8,21.54,True,MASA
+Sunyani Regional Hospital,7.3458253,-2.3141624,Hospital,5,21.8,True,MASA
+Sweden Ghana Medical Centre,5.7250381,-0.1148981,Hospital,25,64.53,True,Zipline
+Tafo Government Hospital,6.7246459,-1.6132878,Hospital,26,44.47,True,Zipline
+Takoradi Hospital,4.8862953,-1.7529195,Hospital,3,6.9,True,MASA
+Talensi District Hospital,10.7139887,-0.7943048,Hospital,27,40.82,True,Zipline
+Tamale Teaching Hospital,9.3913412,-0.8242204,Hospital,0,1.34,True,MASA
+Tamale West Hospital,9.4019248,-0.8508627,Hospital,0,4.46,True,MASA
+Tanoso Health Center,7.4530987,-1.973263,Hospital,5,22.28,True,MASA
+Tanoso community hospital,6.698235,-1.7004398,Hospital,26,52.71,True,Zipline
+Tantri Clinic,5.1319352,-1.2712554,Hospital,1,25.14,True,MASA
+Tarkwa Community Hospital,5.2997664,-1.9888688,Hospital,6,9.06,True,MASA
+Tarkwa Medical & Occupational Health Centre,5.3109537,-1.9918634,Hospital,6,8.31,True,MASA
+Tarkwa Mine Hospital,5.3213487,-1.9906534,Hospital,6,7.4,True,MASA
+Tarkwa Nsuaem Municipal Hospital,5.3055277,-1.9763827,Hospital,6,7.77,True,MASA
+Tech Hospital,6.6860613,-1.5737447,Hospital,26,45.94,True,Zipline
+Tema General Hospital,5.6742172,-0.0251551,Hospital,25,74.98,True,Zipline
+Tema Polyclinic,5.6356521,-0.0067991,Hospital,25,79.61,True,Zipline
+Tema Women's Hospital,5.665711,-0.0188758,Hospital,25,76.15,True,Zipline
+Tetteh Quarshie Hospital,5.9216374,-0.1323741,Hospital,25,46.7,True,Zipline
+The Bank Hospital,5.5851287,-0.162,Hospital,25,75.52,True,Zipline
+The Bank Hospital Anex,5.5833186,-0.1608329,Hospital,25,75.76,True,Zipline
+Three Stone Hospital,6.7156091,-1.6143899,Hospital,26,45.37,True,Zipline
+Tizaa Specialist Hospital,9.4488131,-0.8648842,Hospital,0,9.08,True,MASA
+Tolon District Hospital,9.4256714,-1.0510949,Hospital,0,26.36,True,MASA
+Trauma And Othopedic Hospital,5.3729463,-0.6424154,Hospital,4,1.75,True,MASA
+Tsibu Health Center,6.5785123,0.2786247,Hospital,29,16.27,True,Zipline
+Twumasiwaa Hospital,5.6595378,-0.1480889,Hospital,25,68.81,True,Zipline
+UBIDS Hospital,9.9906544,-2.4747012,Hospital,7,9.8,True,MASA
+"UEW Hospital, North Campus.",5.369996,-0.629601,Hospital,4,2.85,True,MASA
+USP Aképé,6.265095,1.03382,Hospital,9,23.69,True,MASA
+USP Boade,11.1156176,-0.0779551,Hospital,-1,-1.0,False,Aucun
+USP Nyitoe,6.6579332,0.6629,Hospital,29,58.4,True,Zipline
+USP Yakedji,9.0343381,0.4873135,Hospital,-1,-1.0,False,Aucun
+USP de Tindjassi,8.6473246,0.4539785,Hospital,13,22.81,True,MASA
+University Hospital,5.105177,-1.2828358,Hospital,1,27.42,True,MASA
+University of Ghana Hospital,5.6517246,-0.1781069,Hospital,25,68.06,True,Zipline
+University of Ghana Medical Center Limited,5.6318638,-0.1859247,Hospital,25,69.7,True,Zipline
+Unnamed Hospital,6.5178085,0.4976908,Hospital,29,37.17,True,Zipline
+Unnamed Hospital,5.561609,-0.2141144,Hospital,25,75.77,True,Zipline
+Unnamed Hospital,5.5534886,-0.3232397,Hospital,25,73.46,True,Zipline
+Unnamed Hospital,6.692788,-1.7907041,Hospital,26,60.16,True,Zipline
+Unnamed Hospital,9.8262678,-2.6839137,Hospital,7,29.69,True,MASA
+Unnamed Hospital,9.7107233,0.3199154,Hospital,18,14.35,True,MASA
+Unnamed Hospital,9.6699604,0.1956762,Hospital,18,0.01,True,MASA
+Unnamed Hospital,9.6709789,0.2478952,Hospital,18,5.72,True,MASA
+Unnamed Hospital,6.6919796,-1.7894229,Hospital,26,60.11,True,Zipline
+Unnamed Hospital,9.7082103,0.2989421,Hospital,18,12.09,True,MASA
+Unnamed Hospital,8.0451408,-1.7294138,Hospital,12,24.61,True,MASA
+Unnamed Hospital,8.0451647,-1.7294245,Hospital,12,24.61,True,MASA
+Unnamed Hospital,5.6060615,-0.225648,Hospital,25,70.69,True,Zipline
+Unnamed Hospital,6.040978,-0.4435667,Hospital,25,17.99,True,Zipline
+Unnamed Hospital,6.8328495,-1.5050376,Hospital,26,27.96,True,Zipline
+Unnamed Hospital,5.1027601,-1.2588723,Hospital,1,25.13,True,MASA
+Unnamed Hospital,6.203002,-1.6847518,Hospital,-1,-1.0,False,Aucun
+Unnamed Hospital,10.8000259,-0.8636579,Hospital,27,50.8,True,Zipline
+Unnamed Hospital,8.366408,-0.4032706,Hospital,30,76.45,True,Zipline
+Unnamed Hospital,5.6920808,0.0585794,Hospital,25,79.63,True,Zipline
+Unnamed Hospital,5.518498,-0.3876228,Hospital,25,76.36,True,Zipline
+Unnamed Hospital,6.6208128,-1.203852,Hospital,26,52.23,True,Zipline
+Unnamed Hospital,5.7726891,-0.140302,Hospital,25,58.57,True,Zipline
+Unnamed Hospital,6.7052814,-1.562733,Hospital,26,43.48,True,Zipline
+Unnamed Hospital,6.7067929,-1.5676185,Hospital,26,43.58,True,Zipline
+Unnamed Hospital,10.0836357,-2.5264358,Hospital,7,3.79,True,MASA
+Unnamed Hospital,6.6972886,-1.6344459,Hospital,26,48.3,True,Zipline
+Unnamed Hospital,6.0807323,0.0414397,Hospital,29,47.27,True,Zipline
+Unnamed Hospital,9.7105843,0.3196959,Hospital,18,14.32,True,MASA
+Unnamed Hospital,6.0014462,0.5948889,Hospital,29,72.23,True,Zipline
+Unnamed Hospital,5.3722123,-0.6415998,Hospital,4,1.86,True,MASA
+Unnamed Hospital,5.2075597,-0.939375,Hospital,1,12.95,True,MASA
+Unnamed Hospital,9.3671673,-0.7830944,Hospital,0,3.92,True,MASA
+Unnamed Hospital,10.8392307,-2.7729321,Hospital,-1,-1.0,False,Aucun
+Unnamed Hospital,10.2727642,0.2078822,Hospital,22,0.04,True,MASA
+Unnamed Hospital,10.2727759,0.2074619,Hospital,22,0.06,True,MASA
+Unnamed Hospital,10.2453859,0.4040447,Hospital,22,21.69,True,MASA
+Urology & Nephrology Centre of Excellence,5.5417511,-0.2284332,Hospital,25,77.34,True,Zipline
+VRA Hospital,6.2639983,0.0583854,Hospital,29,27.49,True,Zipline
+VRA Hospital & Pharmacy,5.553983,-0.1807477,Hospital,25,77.88,True,Zipline
+Valco Clinic,5.6524322,-0.0102335,Hospital,25,77.9,True,Zipline
+Valco Hospital,5.6689757,0.0344766,Hospital,25,79.68,True,Zipline
+Valley View Adventist Hospital,7.5746787,-1.9612904,Hospital,5,25.47,True,MASA
+Valley View Clinic,5.615057,-0.1982268,Hospital,25,70.87,True,Zipline
+Valley View University Hospital,5.7980643,-0.1259236,Hospital,25,57.26,True,Zipline
+Vamed Engineering Site office,5.5420474,-0.2291877,Hospital,25,77.28,True,Zipline
+Venyard,11.0608825,-0.2593524,Hospital,20,25.14,True,MASA
+"Vittin Health Centre, Ghana Health Service",9.3901638,-0.7932557,Hospital,0,2.43,True,MASA
+Wa Municipal Hospital,10.0561922,-2.4974151,Hospital,7,4.58,True,MASA
+War Memorial Hospital,10.8824417,-1.0856657,Hospital,27,67.05,True,Zipline
+Wassa Akropong District Hospital,5.7812109,-2.0836437,Hospital,28,62.86,True,Zipline
+Wassa Dunkwa Government Hospital,5.774364,-2.5208175,Hospital,28,45.5,True,Zipline
+Wegbe Kpalime Health Centre,6.6544992,0.3431017,Hospital,29,27.18,True,Zipline
+Weija-Gbawe Municipal Hospital,5.5651494,-0.2903532,Hospital,25,72.96,True,Zipline
+Wellmark Specialist Hospital,5.681192,-0.1933658,Hospital,25,64.38,True,Zipline
+West End Hospital,6.6834917,-1.6439443,Hospital,26,50.16,True,Zipline
+West Gonja Hospital,9.0635758,-1.7992513,Hospital,14,2.42,True,MASA
+Worawora Hospital,7.5165716,0.3723962,Hospital,30,52.72,True,Zipline
+X-Ray,5.3721123,-0.6420214,Hospital,4,1.85,True,MASA
+Yeboah Hospital,5.6322891,-0.1522568,Hospital,25,71.27,True,Zipline
+Yendi Hospital,9.4456184,-0.0037406,Hospital,15,18.28,True,MASA
+Yentumi Boaitey Memorial Hospital,6.6867985,-1.5850403,Hospital,26,46.44,True,Zipline
+Yilo Krobo District Hospital,6.0699971,-0.029313,Hospital,25,48.39,True,Zipline
+Yizura Hospital,8.0467708,-1.7276745,Hospital,12,24.84,True,MASA
+Zambrama Ghana Health Service,7.9917055,-1.3979506,Hospital,21,24.95,True,MASA
+Zebilla District Hospital,10.9368919,-0.4733207,Hospital,27,74.86,True,Zipline
+Zion Praise Hospital,6.8417548,-1.5135318,Hospital,26,27.56,True,Zipline
+divine grace hospital,6.8459841,-1.4059779,Hospital,26,23.3,True,Zipline
+hopeXchange Medical Center,6.6607855,-1.6561898,Hospital,26,53.01,True,Zipline
+hospital,10.937179,-0.471984,Hospital,27,74.96,True,Zipline
+hospital grounds,5.4807917,-0.5653234,Hospital,4,13.85,True,MASA
+matflex physiotherapy center,6.7453933,-1.6181887,Hospital,26,42.91,True,Zipline
+north campus,5.3700774,-0.6296252,Hospital,4,2.84,True,MASA
+peace And love Hospital,6.7061049,-1.5306523,Hospital,26,41.92,True,Zipline
+saboba gov't hospital,9.7077503,0.2996998,Hospital,18,12.15,True,MASA
+saboba government hospital,9.7079195,0.299158,Hospital,18,12.1,True,MASA
+Abura Medical Laboratory,5.1290163,-1.2746622,Laboratory,1,25.6,True,MASA
+BDS Laboratories Ldt.,10.783377,-0.8502096,Laboratory,27,48.79,True,Zipline
+Baika Health Centre Laboratory,7.2350735,0.5314207,Laboratory,2,17.04,True,MASA
+CHEMISTRY LAB.,9.3902914,-0.8125741,Laboratory,0,0.73,True,MASA
+Edinam Medical Center,5.7227466,-0.2209579,Laboratory,25,58.9,True,Zipline
+Gene Lab,5.6405349,-0.1453627,Laboratory,25,70.81,True,Zipline
+Global Medical Solutions,5.5558019,-0.1661602,Laboratory,25,78.32,True,Zipline
+Iqurate Laboratory Consult Limited,10.7868848,-0.8533796,Laboratory,27,49.22,True,Zipline
+Labs,10.8681197,-1.076654,Laboratory,27,65.18,True,Zipline
+Leding Medical Laboratory,5.6448208,-0.1560845,Laboratory,25,69.84,True,Zipline
+Life Sciences Medical Centre,5.1324402,-1.2665623,Laboratory,1,24.63,True,MASA
+MDS- Lancet Laboratories,6.0958048,-0.2581471,Laboratory,25,23.95,True,Zipline
+MDS-Lancet,5.5356079,-0.2284102,Laboratory,25,77.99,True,Zipline
+MDS-Lancet Laboratories,5.6383328,-0.2109724,Laboratory,25,67.93,True,Zipline
+MDS-Lancet Laboratories,5.6015111,-0.1206506,Laboratory,25,75.93,True,Zipline
+MDS-Lancet Laboratories,5.6228624,-0.073254,Laboratory,25,76.54,True,Zipline
+Nana Amoako Diagnotic Limited,6.1875114,-2.325109,Laboratory,28,17.63,True,Zipline
+Paradise Diagnostic Centre,5.6079541,-0.2535423,Laboratory,25,69.48,True,Zipline
+Quest Medical Imaging,5.6229316,-0.0731785,Laboratory,25,76.54,True,Zipline
+Raaj Specialist Scan,5.133313,-1.2641626,Laboratory,1,24.35,True,MASA
+RayBen Laboratories & Imaging,6.7033468,-1.6435151,Laboratory,26,48.33,True,Zipline
+Synlab Medical Laboratory,5.5357744,-0.2276164,Laboratory,25,78.0,True,Zipline
+Ultra Lab Diagnostic Center,5.6460848,-0.1472421,Laboratory,25,70.17,True,Zipline
+Unnamed Laboratory,6.0974595,-0.2566493,Laboratory,25,24.0,True,Zipline
+Unnamed Laboratory,5.8301622,-2.8206659,Laboratory,28,53.97,True,Zipline
+Unnamed Laboratory,5.715238,-0.187931,Laboratory,25,61.27,True,Zipline
+Unnamed Laboratory,6.6615595,-1.8205223,Laboratory,26,64.93,True,Zipline
+Unnamed Laboratory,5.5790253,-0.1997322,Laboratory,25,74.52,True,Zipline
+Unnamed Laboratory,5.5824391,-0.1967288,Laboratory,25,74.28,True,Zipline
+Unnamed Laboratory,4.9041732,-2.0664777,Laboratory,-1,-1.0,False,Aucun
+Wellnest Diagnosis Center,6.675679,-1.6038946,Laboratory,26,48.54,True,Zipline
+X-Ray Unit,5.8300308,-2.8215024,Laboratory,28,54.04,True,Zipline
+3G Medical Diagnosis,5.6051432,-0.0782133,Other,25,77.92,True,Zipline
+A.C.T. Diagnostics,5.1296588,-1.271568,Other,1,25.26,True,MASA
+Amasha Partners Ltd,6.0957094,-0.2580883,Other,25,23.96,True,Zipline
+Asato Community Centre,7.5395086,0.4394107,Other,30,57.51,True,Zipline
+Comprehensive Telemedicine Ghana,5.6456952,-0.1444839,Other,25,70.35,True,Zipline
+Cyrus Physiotherapy and Rehabilitation Centre,5.7626169,-0.192819,Other,25,56.39,True,Zipline
+Evergreen Natural Wellness Herbal Shop,5.6193383,-0.0920118,Other,25,75.78,True,Zipline
+Eye Unit,5.8301637,-2.8209346,Other,28,53.99,True,Zipline
+Global Medical Solutions,5.3449023,-0.6229792,Other,4,5.51,True,MASA
+Gulumpe CHIP Compound,8.5053029,-1.5736218,Other,24,17.74,True,MASA
+Happy Health Haven,5.6689807,-0.1865993,Other,25,65.93,True,Zipline
+JM Wadhwani( pathology department),5.58883,-0.184265,Other,25,74.15,True,Zipline
+Lotus Opticals,5.6219755,-0.056552,Other,25,77.63,True,Zipline
+Marie Stopes Ghana,4.9137369,-1.7868283,Other,3,8.4,True,MASA
+Menaba Herbal Center,5.6192469,-0.0924526,Other,25,75.76,True,Zipline
+Out Patient Department,7.5163641,0.3728615,Other,30,52.77,True,Zipline
+Out Patient Department,6.784763,0.4447492,Other,29,45.36,True,Zipline
+Saboro Vertinary Centre,10.909332,-1.0941124,Other,27,70.13,True,Zipline
+Sickbay,5.6063383,-0.0652657,Other,25,78.57,True,Zipline
+UEW Counselling Centre,5.3631152,-0.6313598,Other,4,3.3,True,MASA
+Unnamed Other,6.0973876,-0.2568887,Other,25,23.98,True,Zipline
+Unnamed Other,10.7020201,-1.2768231,Other,27,65.08,True,Zipline
+Unnamed Other,8.500009,0.2988268,Other,13,1.73,True,MASA
+Unnamed Other,8.3492081,0.0477183,Other,30,61.64,True,Zipline
+Van-J Eye Care,5.5708323,-0.2326598,Other,25,74.12,True,Zipline
+180 Plus Pharmacy,6.4589467,-2.310808,Pharmacy,28,36.29,True,Zipline
+1911 Drug Store,6.5288329,0.2343504,Pharmacy,29,9.12,True,Zipline
+1st Champions Pharmacy,5.6005147,-0.2006455,Pharmacy,25,72.26,True,Zipline
+24 Hour Pharmacy,6.6955934,-1.628804,Pharmacy,26,48.11,True,Zipline
+24hr Pharmacy,9.3956321,-0.8261994,Pharmacy,0,1.82,True,MASA
+24hrs Pharmacy,5.5654645,-0.1790649,Pharmacy,25,76.77,True,Zipline
+37 Pharmacy,5.58797,-0.183796,Pharmacy,25,74.26,True,Zipline
+3A Pharmacy,5.5950592,-0.2330656,Pharmacy,25,71.56,True,Zipline
+3rd Gate Pharmacy,5.6858028,-0.1500011,Pharmacy,25,66.16,True,Zipline
+4 Corners Herbal Centre,5.2924486,-2.7767363,Pharmacy,11,25.55,True,MASA
+7 Days pharmacy,6.7504784,-1.642154,Pharmacy,26,44.11,True,Zipline
+A & E Pharmacy,5.2671901,-1.0172193,Pharmacy,1,8.19,True,MASA
+A & E Pharmacy,5.2650332,-1.0204381,Pharmacy,1,7.8,True,MASA
+A. O. Pharmacy,5.5765281,-0.2169455,Pharmacy,25,74.1,True,Zipline
+A.B. Chemist,5.3745024,-0.6396927,Pharmacy,4,1.74,True,MASA
+ACP,6.7756912,-1.6443116,Pharmacy,26,42.16,True,Zipline
+ADD Pharma,5.576906,-0.2545548,Pharmacy,25,72.74,True,Zipline
+ATM Pharmacy,4.9170592,-1.776552,Pharmacy,3,7.2,True,MASA
+Aban Aziz,9.7968881,-2.4925249,Pharmacy,7,28.81,True,MASA
+Aboabo Drug Store,6.1177538,-0.2347289,Pharmacy,25,25.21,True,Zipline
+Abokobi Pharmacy,5.7317627,-0.2049847,Pharmacy,25,58.77,True,Zipline
+Accura Pharmacy,5.1120657,-1.2789041,Pharmacy,1,26.72,True,MASA
+Achesta Pharmaceutical,5.5481009,-0.2091823,Pharmacy,25,77.37,True,Zipline
+Acts Pharmacy,5.5986191,-0.0994175,Pharmacy,25,77.35,True,Zipline
+Adabor Liberary,9.4321795,-0.8593673,Pharmacy,0,7.27,True,MASA
+Add Pharma,5.6003506,-0.1973401,Pharmacy,25,72.41,True,Zipline
+Add Pharmacy,5.5904117,-0.2303267,Pharmacy,25,72.15,True,Zipline
+AdePharmacy,6.0064466,0.6152706,Pharmacy,29,73.33,True,Zipline
+Adenta Pharmacy,5.7014775,-0.1719907,Pharmacy,25,63.45,True,Zipline
+Adepa Pharmacy,5.5993602,-0.1878245,Pharmacy,25,72.92,True,Zipline
+Adepharma Limited - Wholesale Only,5.9991558,0.5960627,Pharmacy,29,72.51,True,Zipline
+Adniad Pharmacy,5.7134964,-0.185588,Pharmacy,25,61.56,True,Zipline
+Adom Chemical Shop,5.2969926,-2.0001702,Pharmacy,6,10.08,True,MASA
+Adonai Grace Pharmacy,5.6158448,-0.237316,Pharmacy,25,69.22,True,Zipline
+Afban Pharmacy,6.6634474,-1.5357105,Pharmacy,26,46.54,True,Zipline
+Agblor Pharmacy,5.605566,-1.5475454,Pharmacy,10,12.86,True,MASA
+Agnes Allah Pharmacy,5.2882138,-2.7717155,Pharmacy,11,25.09,True,MASA
+Agnes Boateng,6.8503377,-1.3960604,Pharmacy,26,22.73,True,Zipline
+Agnes Doris Pharmacy,5.6388504,-0.7247921,Pharmacy,4,29.2,True,MASA
+Agya Nti,7.0040968,-2.1669627,Pharmacy,-1,-1.0,False,Aucun
+Agya OSEI,6.8497107,-1.395652,Pharmacy,26,22.8,True,Zipline
+Ahmed Iddrisu Chemical Seller,9.4039954,-0.8854043,Pharmacy,0,8.09,True,MASA
+Aide Chemist Pharmacy,5.6323698,-0.0763625,Pharmacy,25,75.47,True,Zipline
+Aide Chemists,5.6788371,-0.1750694,Pharmacy,25,65.52,True,Zipline
+Aide Pharmacy,5.7028992,-0.1506608,Pharmacy,25,64.47,True,Zipline
+Aide Pharmacy,5.7472575,-0.1894062,Pharmacy,25,58.06,True,Zipline
+Aide Pharmacy,5.680831,-0.1974867,Pharmacy,25,64.22,True,Zipline
+Akpabe Pharmacy Limited,5.6703643,-0.2054169,Pharmacy,25,64.91,True,Zipline
+Al- Fridaws,5.6462763,-0.3306562,Pharmacy,25,63.18,True,Zipline
+Al-Adil Pharmacy,6.70305,-1.5991518,Pharmacy,26,45.65,True,Zipline
+Alaska Pharmacy,5.6187279,-0.0543189,Pharmacy,25,78.07,True,Zipline
+Alba,6.6757428,-1.5607304,Pharmacy,26,46.35,True,Zipline
+Albar Pharmacy,6.6976838,-1.7022028,Pharmacy,26,52.88,True,Zipline
+Albert A. Arma,5.2916319,-2.7770656,Pharmacy,11,25.46,True,MASA
+Albert Mensah Cemical store,6.1946355,-2.3231006,Pharmacy,28,17.9,True,Zipline
+Alex K. Okwaisie Pharmarcy,5.1769951,-1.1222592,Pharmacy,1,7.93,True,MASA
+Alex Tawiah Chemical Store,5.5960672,-0.2167711,Pharmacy,25,72.07,True,Zipline
+Alhaji Bisuomi,9.3636544,-0.8322349,Pharmacy,0,2.98,True,MASA
+Alhaji Chemist,9.219458,-1.8582225,Pharmacy,14,16.52,True,MASA
+Alive Pharmaceuticals (Wholesale),5.5729043,-0.2540715,Pharmacy,25,73.18,True,Zipline
+Alive Pharmacy,5.6915146,-0.0325842,Pharmacy,25,72.96,True,Zipline
+All Drugs Pharmacy,5.6089185,-0.1047896,Pharmacy,25,76.06,True,Zipline
+Alley Pharmacy,5.6676615,-0.117153,Pharmacy,25,69.74,True,Zipline
+Almas Pharmacy,5.642612,-0.0034616,Pharmacy,25,79.22,True,Zipline
+Alpat Pharmacy,5.5218887,-0.46925,Pharmacy,4,24.82,True,MASA
+Alpat Pharmacy Limited,6.1186148,1.1886932,Pharmacy,9,22.79,True,MASA
+Alpha Duo Pharma Ltd,6.6799463,-1.6040538,Pharmacy,26,48.13,True,Zipline
+Amanark Pharmacy,5.6863487,-0.0292839,Pharmacy,25,73.64,True,Zipline
+American Pharmacy,5.6449146,-0.0854334,Pharmacy,25,73.75,True,Zipline
+Ami Pharmacy,5.5933982,-0.2523777,Pharmacy,25,71.06,True,Zipline
+Amicus Pharmacy,6.0945611,-0.2564087,Pharmacy,25,24.18,True,Zipline
+Amicus Pharmacy,6.098555,-0.2628491,Pharmacy,25,23.35,True,Zipline
+Amnex,5.5880529,-0.0989871,Pharmacy,25,78.4,True,Zipline
+Ampoma,5.6679793,-0.2425542,Pharmacy,25,63.58,True,Zipline
+Anasapharma Limited,5.5611257,-0.1851768,Pharmacy,25,76.96,True,Zipline
+Angola Road Chemists Limited,5.5624183,-0.1873077,Pharmacy,25,76.74,True,Zipline
+AnsaPharma,5.5491314,-0.2298996,Pharmacy,25,76.51,True,Zipline
+Anthony Evans Nyankey,5.8226513,-2.8220206,Pharmacy,28,54.68,True,Zipline
+Apanyin Pharmacy,5.6795025,-0.1750682,Pharmacy,25,65.45,True,Zipline
+Arlin Pharmacy,5.6506956,-0.0710995,Pharmacy,25,74.09,True,Zipline
+Armstrong Ampontuah,5.2906085,-2.7775193,Pharmacy,11,25.35,True,MASA
+Asanco,5.593446,-0.0944709,Pharmacy,25,78.12,True,Zipline
+Ascot Pharmacy,5.305091,-1.9881589,Pharmacy,6,8.54,True,MASA
+"Ascot Pharmacy, Wholesale",5.6066778,-0.2479471,Pharmacy,25,69.81,True,Zipline
+Aseda Nka Nyame Pharmacy,5.548129,-0.2091956,Pharmacy,25,77.36,True,Zipline
+Aseda Pharmaceuticals ltd,5.1135097,-1.2483685,Pharmacy,1,23.56,True,MASA
+Ashaiman Pharmacy,5.6847732,-0.0387008,Pharmacy,25,73.13,True,Zipline
+Ashby's Pharmacy,6.700006,-1.7110899,Pharmacy,26,53.35,True,Zipline
+Ashgin Pharmacy,5.128735,-1.2745168,Pharmacy,1,25.6,True,MASA
+Ashgin Pharmacy,5.1038348,-1.2866986,Pharmacy,1,27.87,True,MASA
+Aslina Chemist,6.7588843,-1.6455713,Pharmacy,26,43.64,True,Zipline
+Asuo Afram Chemists Ghana Limited,5.5830917,-0.1978917,Pharmacy,25,74.17,True,Zipline
+Asylum Down Pharmacy,5.572353,-0.200136,Pharmacy,25,75.19,True,Zipline
+Atis Pharmacy,5.7486058,-0.1506539,Pharmacy,25,60.15,True,Zipline
+Ato Drugstore,5.6109061,-1.5498823,Pharmacy,10,13.48,True,MASA
+Atomic Road Pharmacy,5.6677355,-0.2077111,Pharmacy,25,65.07,True,Zipline
+Atta & Atta Pharmacy,6.4675102,-0.8914768,Pharmacy,25,57.35,True,Zipline
+Auguelix Herbal Shop,5.6124819,-0.2430863,Pharmacy,25,69.37,True,Zipline
+Augustine K.F. Allotey,5.1043748,-1.2504478,Pharmacy,1,24.22,True,MASA
+Ave Maria Pharmacy,5.1130245,-1.2535141,Pharmacy,1,24.1,True,MASA
+Avenue Chemist,5.5973645,-0.2294546,Pharmacy,25,71.45,True,Zipline
+Aviation Road Pharmacy,5.6977946,-0.1468589,Pharmacy,25,65.18,True,Zipline
+Axis Pharmacy,5.5774921,-0.181968,Pharmacy,25,75.41,True,Zipline
+Ayrton Drugs,4.8965053,-1.7572389,Pharmacy,3,6.4,True,MASA
+Aython Drugs,5.5946388,-0.2333549,Pharmacy,25,71.59,True,Zipline
+Ayurveda Pharmacy,7.0170222,0.3200009,Pharmacy,2,27.47,True,MASA
+Azater Health Services Limited,5.6451441,-0.0882547,Pharmacy,25,73.56,True,Zipline
+Azeko Sadiatu Salifu,10.809208,-0.8548218,Pharmacy,27,51.7,True,Zipline
+Azumah Pharmacy,9.3972551,-0.8223062,Pharmacy,0,1.71,True,MASA
+B.B.S Pharmacy Limited,5.6000568,-0.0831915,Pharmacy,25,78.12,True,Zipline
+B4 Pharmacy,6.0943025,-0.2584044,Pharmacy,25,24.01,True,Zipline
+Baccenta Pharmacy,5.6801082,-0.1730911,Pharmacy,25,65.49,True,Zipline
+Baka Pharmacy,9.4043346,-0.8769929,Pharmacy,0,7.22,True,MASA
+Ballis Pharmacy,5.5698955,-0.2336629,Pharmacy,25,74.19,True,Zipline
+Bankaman Pharmacy,9.3811808,-0.8487882,Pharmacy,0,3.77,True,MASA
+Barliza pharmacy,6.8041691,-2.5214984,Pharmacy,28,69.3,True,Zipline
+Bart Brown,5.7461765,-0.1785562,Pharmacy,25,58.76,True,Zipline
+Baseline,5.5518135,-0.2096227,Pharmacy,25,76.96,True,Zipline
+Baseline,5.5469989,-0.2099842,Pharmacy,25,77.45,True,Zipline
+Baseline Pharmacy,10.0554235,-2.505265,Pharmacy,7,3.72,True,MASA
+Beach Road Pharmacy,5.5806842,-0.1069705,Pharmacy,25,78.69,True,Zipline
+Beanathan Pharmacy,5.6863921,-0.1944211,Pharmacy,25,63.81,True,Zipline
+Bedita,5.6279606,-0.1693977,Pharmacy,25,70.86,True,Zipline
+Bedita Pharmacy Limited,5.6119229,-0.2032496,Pharmacy,25,70.97,True,Zipline
+Beked,6.9637589,-1.6787319,Pharmacy,26,33.9,True,Zipline
+Belah Pharmacy,5.6758218,-0.1915603,Pharmacy,25,65.0,True,Zipline
+Benalice,5.6715518,-0.1898203,Pharmacy,25,65.51,True,Zipline
+Benalice,5.6353239,-0.2407495,Pharmacy,25,67.06,True,Zipline
+Benatash Pharmacy,5.567135,-0.2135498,Pharmacy,25,75.21,True,Zipline
+Bencyn Pharmacy,10.8903945,-1.0877145,Pharmacy,27,67.94,True,Zipline
+Bencyn Pharmacy,10.7836187,-0.8495675,Pharmacy,27,48.81,True,Zipline
+Bendi Chemist Limited,5.6308156,-0.2662486,Pharmacy,25,66.63,True,Zipline
+Benedicta Twumwaa licensed shop,6.2724839,-2.3169406,Pharmacy,28,21.08,True,Zipline
+Benzu Pharmacy,10.8723152,-1.0803368,Pharmacy,27,65.78,True,Zipline
+Best Life Pharmacy,7.3443303,-2.3021697,Pharmacy,5,21.0,True,MASA
+Biakoye,5.5482459,-0.2092645,Pharmacy,25,77.35,True,Zipline
+Big Maron Pharmacy,5.6072496,-0.2569144,Pharmacy,25,69.44,True,Zipline
+Bimex,5.5981909,-0.2236812,Pharmacy,25,71.58,True,Zipline
+Biolink Pharmacy,5.9215504,-0.0517883,Pharmacy,25,53.66,True,Zipline
+Biomed Pharmacia,5.1147125,-1.2929303,Pharmacy,1,28.05,True,MASA
+Biotic Pharmacy,5.6388538,-0.1240158,Pharmacy,25,72.12,True,Zipline
+Biotic Pharmacy Limited,5.5893791,-0.0988297,Pharmacy,25,78.28,True,Zipline
+Biotic Pharmacy Limited,5.5887491,-0.0989237,Pharmacy,25,78.33,True,Zipline
+Blue Cross Pharmacy,5.1411163,-1.2828604,Pharmacy,1,26.07,True,MASA
+Blue Light Pharmacy,10.02084,-2.4874583,Pharmacy,7,6.62,True,MASA
+Boakye Ansah Pharmacy,5.1120076,-1.2455582,Pharmacy,1,23.35,True,MASA
+BrainTree,5.6323029,-0.1346255,Pharmacy,25,72.18,True,Zipline
+Brakatu Pharmacy,5.3048435,-1.9921114,Pharmacy,6,8.83,True,MASA
+Bridge View Pharmacy,5.6455651,-0.2465863,Pharmacy,25,65.77,True,Zipline
+Bridging Pharmacy,4.9041657,-1.8023824,Pharmacy,3,10.37,True,MASA
+Bright Kwasi Ameho,5.7572346,-0.1916517,Pharmacy,25,56.97,True,Zipline
+Bro.TONNY,6.850168,-1.3970805,Pharmacy,26,22.76,True,Zipline
+Brobbson Pharmacy,5.621577,-0.0710815,Pharmacy,25,76.79,True,Zipline
+Brobbson Pharmacy,5.7232451,0.0178501,Pharmacy,25,74.0,True,Zipline
+Bubune Pharmacy,5.6515134,-0.2092634,Pharmacy,25,66.66,True,Zipline
+Bucee Phamarcy,5.1109978,-1.2445477,Pharmacy,1,23.3,True,MASA
+Burma Camp Pharmacy,5.5972645,-0.1522941,Pharmacy,25,74.76,True,Zipline
+C. T. Kpabitey,5.5866884,-0.2060965,Pharmacy,25,73.47,True,Zipline
+CA Pharmacy,5.7291853,-0.3127303,Pharmacy,25,54.68,True,Zipline
+CBV,5.6319752,-0.0953125,Pharmacy,25,74.39,True,Zipline
+CEK Pharmacy,6.0743135,1.0373913,Pharmacy,9,5.37,True,MASA
+CP,6.2218955,-0.3655684,Pharmacy,25,9.17,True,Zipline
+Calmart,9.4493186,-0.8450981,Pharmacy,0,8.0,True,MASA
+Camden,5.5762134,-0.1376386,Pharmacy,25,77.57,True,Zipline
+Capa Chemist,5.6520731,-0.0640532,Pharmacy,25,74.4,True,Zipline
+Cape Coast Pharmacy,5.1107306,-1.2442697,Pharmacy,1,23.29,True,MASA
+Cape Coast Pharmacy,5.1115394,-1.2452745,Pharmacy,1,23.35,True,MASA
+Cape Pill Pharmacy,5.1370121,-1.2790489,Pharmacy,1,25.79,True,MASA
+Cardinal Mensah,5.613498,-0.2357984,Pharmacy,25,69.53,True,Zipline
+Casablanca Pharmacy,6.715766,-1.6337952,Pharmacy,26,46.58,True,Zipline
+Cecilia S. Azabu,10.78719,-0.8287724,Pharmacy,27,49.02,True,Zipline
+Cedar Chemist,5.6652651,-0.1300622,Pharmacy,25,69.24,True,Zipline
+Cel Chemist,7.1528136,0.4755858,Pharmacy,2,11.99,True,MASA
+Celtics Pharmacy,5.2866203,-1.9994694,Pharmacy,6,10.93,True,MASA
+Chamalt Pharmacy,9.3983044,-0.8436615,Pharmacy,0,3.57,True,MASA
+Chara Pharmacy,5.5836669,-0.2083915,Pharmacy,25,73.69,True,Zipline
+Charis Pharma,5.6776032,-0.0467172,Pharmacy,25,73.22,True,Zipline
+Chrismark,5.5904421,-0.2552326,Pharmacy,25,71.28,True,Zipline
+Christ is the Answer Licensed Over the Counter Medicine Seller,6.1709673,-0.4269534,Pharmacy,25,4.12,True,Zipline
+Christian Attuah Chemicals Shop,6.2168228,-0.3666606,Pharmacy,25,8.93,True,Zipline
+Christian Pharmacy,5.5829907,-0.1049628,Pharmacy,25,78.57,True,Zipline
+Citi Pharmacy,6.6102479,0.4749558,Pharmacy,29,37.08,True,Zipline
+City Chemicals,5.3482088,-0.6286506,Pharmacy,4,4.89,True,MASA
+Claks Mosk Chemist,5.5204002,-0.3279806,Pharmacy,25,76.99,True,Zipline
+Classfam Pharmacy,5.1132602,-1.2523838,Pharmacy,1,23.98,True,MASA
+Clinic Diagnostic Pharmacy,5.5580563,-0.1539527,Pharmacy,25,78.63,True,Zipline
+Cole Pharmacy,5.5221313,-0.4738164,Pharmacy,4,24.44,True,MASA
+Colliers Pharmacy,5.5733428,-0.2601958,Pharmacy,25,72.94,True,Zipline
+Collins Owusu-Ansah,10.791775,-0.7918257,Pharmacy,27,49.47,True,Zipline
+Country Pharmacy and Laboratory,5.5848113,-0.2742495,Pharmacy,25,71.29,True,Zipline
+Cramer Chemist,4.8971823,-1.7652746,Pharmacy,3,7.05,True,MASA
+CrossRoad,5.615293,-0.0735428,Pharmacy,25,77.23,True,Zipline
+Crystal,5.6609133,-0.2372601,Pharmacy,25,64.52,True,Zipline
+Crystal Tabs Pharmacy,5.6613387,-0.2371331,Pharmacy,25,64.48,True,Zipline
+CureAid,5.6924729,-0.1714043,Pharmacy,25,64.36,True,Zipline
+D. B. Twumasi Chemicals OTC Medicine,6.2132762,-1.6884994,Pharmacy,-1,-1.0,False,Aucun
+DC Pharmacy,6.2328892,0.0920081,Pharmacy,29,29.47,True,Zipline
+DE-MAKS Pharmacy,6.7006375,-1.5504453,Pharmacy,26,43.36,True,Zipline
+Dadmum Pharmacy,6.7513731,-1.642106,Pharmacy,26,44.03,True,Zipline
+Danfoss chemicals,5.2908988,-2.7772525,Pharmacy,11,25.38,True,MASA
+Daniel A. Tetteh ( Awokye Drug Store),6.0164575,-0.0778634,Pharmacy,25,45.69,True,Zipline
+Danpong Pharmacy,5.6060936,-0.0772346,Pharmacy,25,77.89,True,Zipline
+Danpong Pharmacy,7.3348348,-2.3198918,Pharmacy,8,21.62,True,MASA
+Danpong Pharmacy,6.6842228,-1.6377275,Pharmacy,26,49.7,True,Zipline
+Dans Chemist,5.5714395,-0.215788,Pharmacy,25,74.68,True,Zipline
+Danslob Pharmacy Limited,5.6494273,-0.2514864,Pharmacy,25,65.18,True,Zipline
+Davjoel Pharmacy,5.8886536,-0.0895671,Pharmacy,25,52.67,True,Zipline
+Day By Day,4.9000663,-1.7600591,Pharmacy,3,6.39,True,MASA
+Day and Night Pharmacy,5.5302943,-0.26273,Pharmacy,25,77.47,True,Zipline
+Day and Night Pharmacy,9.3988177,-0.8304451,Pharmacy,0,2.4,True,MASA
+De Georges Pharmacy,5.6358865,-0.0760935,Pharmacy,25,75.15,True,Zipline
+De Georges Pharmacy,5.6291336,-0.0763841,Pharmacy,25,75.77,True,Zipline
+De Pablo Limited,5.3457456,-0.6265315,Pharmacy,4,5.24,True,MASA
+Deccon Pharmacy,5.622686,-0.070084,Pharmacy,25,76.75,True,Zipline
+Declan Pharmacy,5.5391993,-0.3993413,Pharmacy,25,73.96,True,Zipline
+Deladem Pharmacy,6.6068841,0.4726636,Pharmacy,29,36.71,True,Zipline
+Delight Pharmacy,6.0959401,-0.2562535,Pharmacy,25,24.12,True,Zipline
+Delivery Chemist,5.5546582,-0.3082233,Pharmacy,25,73.66,True,Zipline
+Denis Donkor Chemist,5.6147579,-0.2444351,Pharmacy,25,69.08,True,Zipline
+Diplomat Pharmacy,5.5991529,-0.0811755,Pharmacy,25,78.32,True,Zipline
+Dipsy Pharmacy,6.6897665,-1.6092094,Pharmacy,26,47.48,True,Zipline
+Donatus Pharmacy,7.5851616,-1.9409952,Pharmacy,5,27.98,True,MASA
+Done Care Pharmacy,6.6979043,-1.6911193,Pharmacy,26,52.06,True,Zipline
+Dong Steven Pharmacy,6.6615485,-1.6735477,Pharmacy,26,54.04,True,Zipline
+Doram Pharmacy,9.4402302,-0.007056,Pharmacy,15,17.75,True,MASA
+Dosty pharmacy,5.734147,0.0300712,Pharmacy,25,74.09,True,Zipline
+Double Plus,5.6870009,-0.1937976,Pharmacy,25,63.78,True,Zipline
+Drag store,5.6087926,-1.549832,Pharmacy,10,13.25,True,MASA
+Drug Store,5.5349051,-0.6927307,Pharmacy,4,17.11,True,MASA
+Drug Store,5.5451393,-0.7027459,Pharmacy,4,18.53,True,MASA
+Drug Store,5.6062106,-1.5454687,Pharmacy,10,12.9,True,MASA
+Drug Store,5.6132377,-1.5501787,Pharmacy,10,13.74,True,MASA
+Drug Store,5.6137342,-1.5527295,Pharmacy,10,13.84,True,MASA
+Drug Store,5.5956625,-1.5465644,Pharmacy,10,11.75,True,MASA
+Drug Store,5.612162,-1.5422568,Pharmacy,10,13.53,True,MASA
+Drug Store,5.6176515,-1.5359549,Pharmacy,10,14.1,True,MASA
+Drug Store,5.6085744,-1.5371472,Pharmacy,10,13.1,True,MASA
+Drug Store,5.6135847,-1.5486533,Pharmacy,10,13.76,True,MASA
+Drug store,5.611875,-1.5498085,Pharmacy,10,13.59,True,MASA
+Drug store,5.6122047,-1.5487343,Pharmacy,10,13.61,True,MASA
+Drug store,5.6158203,-1.5503678,Pharmacy,10,14.03,True,MASA
+Duet Pharmacy,5.7510951,-0.0164622,Pharmacy,25,69.14,True,Zipline
+Dunamis Pharmacy Limited,6.8026789,-2.517585,Pharmacy,28,69.11,True,Zipline
+Dzigbordi Chemical Store,6.1178137,1.1806674,Pharmacy,9,21.92,True,MASA
+E. A. K pharmacy,6.6742869,-1.549379,Pharmacy,26,45.99,True,Zipline
+E.B Pharmacy,9.4012446,-0.8376991,Pharmacy,0,3.19,True,MASA
+ECP Pharmacy Wholesale,5.6691692,-0.1769998,Pharmacy,25,66.38,True,Zipline
+EDPA Pharmacy,7.1567806,0.4773173,Pharmacy,2,12.13,True,MASA
+EFS-ESS Pharmacy,4.9019648,-1.7669585,Pharmacy,3,6.91,True,MASA
+EPCL,5.6473956,-0.1497059,Pharmacy,25,69.91,True,Zipline
+EVP Pharmacy,5.6605064,-0.2062095,Pharmacy,25,65.87,True,Zipline
+East Cantoment Pharmacy,5.5842028,-0.1606429,Pharmacy,25,75.68,True,Zipline
+East Cantoments Pharmacy Retail,5.5668626,-0.2147421,Pharmacy,25,75.19,True,Zipline
+East Cantoments Pharmacy Retail,5.5707694,-0.1765967,Pharmacy,25,76.33,True,Zipline
+East Cantonments Pharmacy,4.8961496,-1.7571942,Pharmacy,3,6.43,True,MASA
+East Cantonments Pharmacy,5.6267741,-0.0852875,Pharmacy,25,75.46,True,Zipline
+"East Cantonments Pharmacy Limited, Wholesale",5.5506304,-0.3559071,Pharmacy,25,73.19,True,Zipline
+Eastern Chemists,6.0950327,-0.2608543,Pharmacy,25,23.73,True,Zipline
+Eben Kweku Newton Licensed Chemical Shop,5.7318913,-0.2033705,Pharmacy,25,58.84,True,Zipline
+Ebenezer Chemist Limited,5.5529127,-0.1995926,Pharmacy,25,77.23,True,Zipline
+Ebenezer pharmacy,5.5662908,-0.1835999,Pharmacy,25,76.49,True,Zipline
+Ecp,5.576467,-0.2745633,Pharmacy,25,72.18,True,Zipline
+Ed-Joe,5.6405047,-0.2105802,Pharmacy,25,67.73,True,Zipline
+Edd Eddy,5.6022145,-0.0802372,Pharmacy,25,78.08,True,Zipline
+Eddyamps Pharmacy,4.9107693,-1.7826115,Pharmacy,3,8.06,True,MASA
+Eden Royal,5.6029632,-0.2564775,Pharmacy,25,69.91,True,Zipline
+Edmida Pharmacy,10.7936323,-0.8468535,Pharmacy,27,49.89,True,Zipline
+Eff-Ess Pharmacy,4.9091724,-1.794923,Pharmacy,3,9.41,True,MASA
+Eleomax Pharmacy Limited,5.6271097,-0.0674082,Pharmacy,25,76.5,True,Zipline
+Elikplim Pharmacy,6.1139666,1.19486,Pharmacy,9,23.29,True,MASA
+Elite Pharmacy ltd,6.6852933,-1.5845007,Pharmacy,26,46.56,True,Zipline
+Elizabeth Oppong License Chemical Shop,5.6168827,-0.2424288,Pharmacy,25,68.93,True,Zipline
+Elizabeth Sey Pharmacy,5.6354138,-0.1874682,Pharmacy,25,69.27,True,Zipline
+Emmasel Pharmacy,5.5818167,-0.2083204,Pharmacy,25,73.88,True,Zipline
+Emporium Pharmacy,5.6413071,-0.1772622,Pharmacy,25,69.15,True,Zipline
+Enerst Chemist,5.5354565,-0.4194051,Pharmacy,25,74.25,True,Zipline
+Eno Serwaah pharmacy,6.2901832,-1.9712874,Pharmacy,28,57.99,True,Zipline
+Enuko Princella,5.8225908,-2.8264371,Pharmacy,28,55.02,True,Zipline
+Equa Chemical Shop,5.7003225,-0.1800937,Pharmacy,25,63.14,True,Zipline
+Equity pharmacy,5.6373107,-0.1502454,Pharmacy,25,70.88,True,Zipline
+Eri Pharma Ltd,5.6858032,-0.1509517,Pharmacy,25,66.1,True,Zipline
+Eribel Pharmacy,5.6276021,-0.2421981,Pharmacy,25,67.81,True,Zipline
+Eric's Chemists,6.2393408,0.0922965,Pharmacy,29,28.77,True,Zipline
+Eric's Chemists,5.6961969,-0.013351,Pharmacy,25,73.92,True,Zipline
+Erisa Pharmacy,6.7088274,-1.6372494,Pharmacy,26,47.43,True,Zipline
+Ernbrid Pharmacy,5.5634603,-0.2037071,Pharmacy,25,75.97,True,Zipline
+Ernest Chemist,5.6877696,0.000445,Pharmacy,25,75.62,True,Zipline
+Ernest Chemist,4.9030709,-1.7583276,Pharmacy,3,6.04,True,MASA
+Ernest Chemist,5.6531812,-0.1791792,Pharmacy,25,67.87,True,Zipline
+Ernest Chemist,5.5798941,-0.2663247,Pharmacy,25,72.05,True,Zipline
+Ernest Chemist,5.5701016,-0.2120427,Pharmacy,25,74.96,True,Zipline
+Ernest Chemist,6.6709824,-1.6377614,Pharmacy,26,50.93,True,Zipline
+Ernest Chemist,6.7087918,-1.6365396,Pharmacy,26,47.39,True,Zipline
+Ernest Chemist,5.5709501,-0.2116421,Pharmacy,25,74.89,True,Zipline
+Ernest Chemist,5.5656641,-0.1987869,Pharmacy,25,75.94,True,Zipline
+Ernest Chemist,6.709285,-1.635742,Pharmacy,26,47.29,True,Zipline
+Ernest Chemist Limited,5.6432464,-0.1132529,Pharmacy,25,72.29,True,Zipline
+Ernest Chemist Limited,5.566062,-0.1899149,Pharmacy,25,76.26,True,Zipline
+Ernest Chemist Limited,5.6294492,-0.0906998,Pharmacy,25,74.89,True,Zipline
+Ernest Chemist Limited,5.6225389,-0.0724747,Pharmacy,25,76.62,True,Zipline
+Ernest Chemists,5.6048663,-0.2042209,Pharmacy,25,71.66,True,Zipline
+Ernest Chemists,6.7044114,-1.6255964,Pharmacy,26,47.09,True,Zipline
+Ernest Chemists,5.6077349,-0.1851469,Pharmacy,25,72.18,True,Zipline
+Ernest Chemists East Legon Retail,5.6339009,-0.1727902,Pharmacy,25,70.1,True,Zipline
+Ernest Pharmacy,5.6404802,-0.1512114,Pharmacy,25,70.52,True,Zipline
+Ervian Pharmacy,5.7595973,-0.1927327,Pharmacy,25,56.69,True,Zipline
+Essel Pharmacy,5.6091257,-0.1079987,Pharmacy,25,75.87,True,Zipline
+Esther's Pharmacy Shop,5.6104372,-0.2379649,Pharmacy,25,69.77,True,Zipline
+Esthmark Pharmacy,6.8462455,-1.4071821,Pharmacy,26,23.28,True,Zipline
+Ethical Pharmacy,9.4445146,-0.8439082,Pharmacy,0,7.46,True,MASA
+Etornam Herbal Center,5.601424,-0.0841606,Pharmacy,25,77.93,True,Zipline
+Evanex Pharmacy,5.0019315,-2.0250769,Pharmacy,-1,-1.0,False,Aucun
+Evans Chemicals,5.6113044,-0.2374146,Pharmacy,25,69.7,True,Zipline
+Evepet Pharmacy,5.5897393,-0.1308989,Pharmacy,25,76.56,True,Zipline
+Ever Care Pharmacy,5.8102892,-0.3351267,Pharmacy,25,45.33,True,Zipline
+EverCare Pharmacy,6.1284523,-0.2123742,Pharmacy,25,27.14,True,Zipline
+Excel Pharmacy and Cosmetics,5.617625,-0.2366886,Pharmacy,25,69.06,True,Zipline
+Excora Pharmacy,6.1959393,-2.3220987,Pharmacy,28,18.02,True,Zipline
+Excora Pharmacy Limited,5.8216526,-2.8216197,Pharmacy,28,54.73,True,Zipline
+Eye Nyame,6.8037281,-2.516134,Pharmacy,28,69.22,True,Zipline
+Eye Plus Pharmacy,5.5644498,-0.1800958,Pharmacy,25,76.83,True,Zipline
+Eye of God Pharmacy,10.8040756,-0.8457493,Pharmacy,27,51.03,True,Zipline
+Faako Pharmacy,9.4044686,-0.8672766,Pharmacy,0,6.22,True,MASA
+Fabby Pharmacy,5.6087417,-0.0758663,Pharmacy,25,77.72,True,Zipline
+Family Health Pharmacy,5.1098879,-1.2481294,Pharmacy,1,23.71,True,MASA
+Familycare Pharmacy,5.6122056,-0.2008376,Pharmacy,25,71.05,True,Zipline
+Far-Habink Pharmacy,9.4384702,-0.8623109,Pharmacy,0,8.01,True,MASA
+Fast Chemical Shop,9.3934464,-0.8462911,Pharmacy,0,3.64,True,MASA
+Fausvic Pharmacy (a mutti Pharmacy),6.6881808,-1.569964,Pharmacy,26,45.54,True,Zipline
+Fernando Chemists Ltd,6.6758407,-1.5631031,Pharmacy,26,46.45,True,Zipline
+Fidelity Pharmacy,5.5577586,-0.2691806,Pharmacy,25,74.34,True,Zipline
+Firdaws Pharmacy Limited,5.6236389,-0.29822,Pharmacy,25,66.44,True,Zipline
+First Family Pharmacy,6.6012129,0.4963294,Pharmacy,29,38.95,True,Zipline
+Flexta Pharmacy,5.5746838,-0.2379998,Pharmacy,25,73.53,True,Zipline
+Floss Pharma,5.6344216,-0.1008933,Pharmacy,25,73.83,True,Zipline
+Forbiq Pharmacy,5.6862571,-0.1678208,Pharmacy,25,65.16,True,Zipline
+Fountain Spring Pharmacy,5.5384567,-0.3258978,Pharmacy,25,75.05,True,Zipline
+Framim,5.2992359,-1.9902133,Pharmacy,6,9.19,True,MASA
+Francisca Mensah,5.6125644,-0.2418511,Pharmacy,25,69.4,True,Zipline
+Franeva,5.5850293,-0.2128638,Pharmacy,25,73.37,True,Zipline
+Frankiz,5.5982131,-0.1125326,Pharmacy,25,76.68,True,Zipline
+Free Mart Pharmacy,5.5796623,-0.2283582,Pharmacy,25,73.35,True,Zipline
+Frimata Pharmacy,5.646384,-0.2268426,Pharmacy,25,66.45,True,Zipline
+Frontline Pharmacy,5.555221,-0.2114779,Pharmacy,25,76.53,True,Zipline
+G & E Health Services,5.7388639,0.1022608,Pharmacy,25,79.62,True,Zipline
+G- EME Pharmacy and Diagnostic Centre,6.8049166,-2.5141844,Pharmacy,28,69.34,True,Zipline
+GAB Pharmacy,5.5952211,-0.0860669,Pharmacy,25,78.42,True,Zipline
+GAFAT pharmacy,5.5910316,-0.2064922,Pharmacy,25,73.0,True,Zipline
+GLORIA K. TETTEH,6.7896024,-2.5103712,Pharmacy,28,67.62,True,Zipline
+GMC Pharmacy,5.2803376,-1.982073,Pharmacy,6,10.54,True,MASA
+GN Pharmacy,5.7328022,-0.1579833,Pharmacy,25,61.21,True,Zipline
+Gaataa Adams,9.9357352,-2.1985339,Pharmacy,-1,-1.0,False,Aucun
+Gabriel k Adom,6.6157845,0.4680631,Pharmacy,29,36.6,True,Zipline
+Gabson Pharmacy,6.0988795,-0.2526888,Pharmacy,25,24.31,True,Zipline
+Gabson Pharmacy,6.0924171,-0.2586159,Pharmacy,25,24.09,True,Zipline
+Gap Pharmacy,5.7046707,-0.0145108,Pharmacy,25,73.12,True,Zipline
+Gasto Pharmacy,6.6757318,-1.5537272,Pharmacy,26,46.03,True,Zipline
+Genak Pharmacy,6.5890471,-1.6249104,Pharmacy,26,58.12,True,Zipline
+GeoRuth Pharmacy,6.7843228,-1.5746085,Pharmacy,26,36.58,True,Zipline
+Geomat Pharmacy Limited,6.8008936,-2.5175025,Pharmacy,28,68.91,True,Zipline
+George Dadzie,5.8095379,-2.435719,Pharmacy,28,41.77,True,Zipline
+George kwasi Ataah over the counter chemical store,6.1945062,-2.3227125,Pharmacy,28,17.94,True,Zipline
+Getaid Pharmarcy,5.6862762,-0.168957,Pharmacy,25,65.1,True,Zipline
+Getwell Pharmacy,5.3216118,-1.9754771,Pharmacy,6,6.23,True,MASA
+Ghanima Pharmacy Limited,6.6938434,-1.636297,Pharmacy,26,48.73,True,Zipline
+Gidams Pharmacy,5.5802439,-0.1404842,Pharmacy,25,77.03,True,Zipline
+Gilter Pharmacy,6.0670738,0.8600637,Pharmacy,9,14.69,True,MASA
+Gina Pharmacy,9.456337,-0.8453479,Pharmacy,0,8.73,True,MASA
+Ginaphama Pharmacy,9.4250318,-0.856655,Pharmacy,0,6.5,True,MASA
+Ginapharma Ldt.,10.8018168,-0.8635947,Pharmacy,27,51.0,True,Zipline
+Glem Pharmacy,5.6078938,-0.0935602,Pharmacy,25,76.78,True,Zipline
+God is love Pharmacy,5.3995644,-0.6496968,Pharmacy,4,1.34,True,MASA
+God's Time Chemicals -Michael Ansah Sagu,5.2915113,-2.7759331,Pharmacy,11,25.45,True,MASA
+Godisab,7.5893462,-1.9392098,Pharmacy,5,28.35,True,MASA
+Goemat Pharmacy,6.6927098,-2.4422716,Pharmacy,28,56.98,True,Zipline
+Good Day Pharmacy,7.3345559,-2.3202491,Pharmacy,8,21.58,True,MASA
+Good Start Pharmacy Limited,5.6238995,-0.2491492,Pharmacy,25,67.95,True,Zipline
+Grammar Chemist,5.3025007,-1.9874068,Pharmacy,6,8.72,True,MASA
+Gravity Pharmacy,5.6717204,-0.1222026,Pharmacy,25,69.07,True,Zipline
+Greenlight Pharmacy,7.3362633,-2.328501,Pharmacy,8,21.38,True,MASA
+Greenlight Pharmacy Annex,7.3364162,-2.3282593,Pharmacy,8,21.4,True,MASA
+Grit Pharmacy,5.5519379,-0.203977,Pharmacy,25,77.16,True,Zipline
+Grit Pharmacy,5.6141124,-0.2284234,Pharmacy,25,69.74,True,Zipline
+Haatso Pharmacy,5.6775476,-0.2028069,Pharmacy,25,64.3,True,Zipline
+Habilat Pharmacy,10.0641156,-2.5035393,Pharmacy,7,4.11,True,MASA
+Hale,5.6309611,-0.2191243,Pharmacy,25,68.36,True,Zipline
+Hale Pharmacy,5.5952787,-0.2314234,Pharmacy,25,71.6,True,Zipline
+Hands of God (Thomas Voduh Mensah),5.290174,-2.7774759,Pharmacy,11,25.3,True,MASA
+Hannah Anderson's Licensed Chemical Store,5.1126614,-1.3238003,Pharmacy,-1,-1.0,False,Aucun
+Hapicares,6.837129,-1.650376,Pharmacy,26,37.93,True,Zipline
+Haskay Pharmacy,9.3841758,-0.8018823,Pharmacy,0,1.39,True,MASA
+Hayat Pharmacy,9.3883388,-0.8156513,Pharmacy,0,0.5,True,MASA
+Hayford Dorothy,5.2450265,-1.2480883,Pharmacy,1,21.71,True,MASA
+Health Angels Pharmaceuticals,5.626195,-0.2550769,Pharmacy,25,67.5,True,Zipline
+Health Concept,5.6094938,-0.0871886,Pharmacy,25,76.99,True,Zipline
+Health Corner,5.6009837,-0.0972924,Pharmacy,25,77.24,True,Zipline
+Health Lover,5.7188955,-0.171942,Pharmacy,25,61.76,True,Zipline
+Health Shop Mini Mart,5.6383278,-0.170889,Pharmacy,25,69.75,True,Zipline
+Health Solutions,5.5770902,-0.1735902,Pharmacy,25,75.82,True,Zipline
+Health Spring Pharmacy,5.2839934,-2.0054609,Pharmacy,6,11.57,True,MASA
+Health Style Pharmacy,5.5565194,-0.1713037,Pharmacy,25,78.02,True,Zipline
+HealthLane,5.6255447,-0.1525073,Pharmacy,25,71.93,True,Zipline
+Healthaus Pharmacy,5.5960568,-0.1018372,Pharmacy,25,77.47,True,Zipline
+Healthmark Pharmacy,5.6190924,-0.2501499,Pharmacy,25,68.42,True,Zipline
+Hebrews Pharmacy Limited,5.6162206,-0.2485636,Pharmacy,25,68.78,True,Zipline
+Helmart,5.5237971,-0.4588485,Pharmacy,4,25.87,True,MASA
+Hem Pharmacy,6.6109979,0.4708175,Pharmacy,29,36.68,True,Zipline
+Hemins Pharmacy Limited,5.5900831,-0.2519844,Pharmacy,25,71.43,True,Zipline
+Herbal,5.5392549,-0.2469824,Pharmacy,25,76.99,True,Zipline
+Herbal Pharmacy,5.5825806,-0.1054135,Pharmacy,25,78.58,True,Zipline
+Hills Pharmacy,5.5452885,-0.2125989,Pharmacy,25,77.53,True,Zipline
+Hilton Chemist Limited,5.5445586,-0.3257399,Pharmacy,25,74.39,True,Zipline
+Hobet Pharmacy,5.682959,-0.193481,Pharmacy,25,64.2,True,Zipline
+Hospital Pharmacy,10.0573584,-2.4975476,Pharmacy,7,4.58,True,MASA
+Human Pharmacy,5.6457994,-0.1462907,Pharmacy,25,70.25,True,Zipline
+Humano Pharmacy,5.6878844,-0.1148351,Pharmacy,25,67.97,True,Zipline
+Hutch,5.6423361,-0.0764919,Pharmacy,25,74.53,True,Zipline
+Hutch Pharma Limited,5.6418941,-0.0764975,Pharmacy,25,74.57,True,Zipline
+Ibrahim Adams,10.0676919,-2.4954178,Pharmacy,7,5.09,True,MASA
+Inter-Pharma Limited,6.0943768,-0.2597503,Pharmacy,25,23.87,True,Zipline
+Interbrain Pharmacy Limited,5.5864943,-0.1969385,Pharmacy,25,73.86,True,Zipline
+Ishmael Ashistey Medical Center,5.6262688,-0.0243736,Pharmacy,25,79.28,True,Zipline
+J M Addo and sons ltd.,5.5490035,-0.2088607,Pharmacy,25,77.28,True,Zipline
+J&A Pharmacy,7.3265081,-2.3327711,Pharmacy,8,20.19,True,MASA
+J. S Asamoah,4.9346937,-1.7139785,Pharmacy,3,0.0,True,MASA
+J. Y. Pharmacy,9.4074497,-0.8392358,Pharmacy,0,3.76,True,MASA
+Jag's Pharmacy,9.4183553,-0.8179933,Pharmacy,0,3.84,True,MASA
+Jak Pharmacy,5.5507729,-0.1839564,Pharmacy,25,78.08,True,Zipline
+James Bessa-Simons Pharmarcy,5.1164431,-1.255955,Pharmacy,1,24.19,True,MASA
+James Nyianle Kwaw,5.2916478,-2.7746813,Pharmacy,11,25.47,True,MASA
+Jan-Aid Pharmacy,5.6381178,-0.0765187,Pharmacy,25,74.92,True,Zipline
+Janedor,6.6651957,-1.5128103,Pharmacy,26,45.51,True,Zipline
+Jasie Pharmacy,5.6435951,-0.0684018,Pharmacy,25,74.91,True,Zipline
+Jaspers Pharmacy Limited,5.5480688,-0.2091807,Pharmacy,25,77.37,True,Zipline
+Jaysbertha Pharmacy,6.6386861,-1.6205315,Pharmacy,26,53.02,True,Zipline
+Jeb Pharmacy,5.9993222,0.597146,Pharmacy,29,72.57,True,Zipline
+Jedna Pharmacy,5.5847048,-0.1274678,Pharmacy,25,77.23,True,Zipline
+Jegafan Pharmacy,5.6743455,-0.2778477,Pharmacy,25,61.63,True,Zipline
+Jenah Philip M.,9.2170108,-1.8577395,Pharmacy,14,16.25,True,MASA
+Jephong,5.5488366,-0.3497008,Pharmacy,25,73.49,True,Zipline
+Jessumana Pharmacy,5.6951154,-0.2015071,Pharmacy,25,62.59,True,Zipline
+Jewjef Pharmacy,5.6336331,-0.0727691,Pharmacy,25,75.56,True,Zipline
+Jilak Chemists,5.5791629,-0.1093207,Pharmacy,25,78.71,True,Zipline
+Jim - Beck,5.6117163,-0.1065138,Pharmacy,25,75.7,True,Zipline
+Jim-Beck Pharmacy,5.5970292,-0.1259625,Pharmacy,25,76.09,True,Zipline
+Jinlet,5.5557694,-0.182857,Pharmacy,25,77.61,True,Zipline
+Jinlet Pharmacy,5.6166671,-0.181997,Pharmacy,25,71.42,True,Zipline
+Jinlet Pharmacy,5.5725719,-0.2224166,Pharmacy,25,74.31,True,Zipline
+Jmvic Pharmacy,6.6961836,-1.5931604,Pharmacy,26,45.97,True,Zipline
+Jodael Pharmacy,6.6256336,0.4848699,Pharmacy,29,38.74,True,Zipline
+Joe Benneth Pharmacy,7.3352424,-2.3262363,Pharmacy,8,21.37,True,MASA
+Joe Sarb Pharmacy,6.7312051,-1.6136498,Pharmacy,26,43.89,True,Zipline
+Joe-Chris Pharmacy,6.8038746,-2.5170995,Pharmacy,28,69.24,True,Zipline
+Joepharma Pharmacy,5.6504151,-0.1915174,Pharmacy,25,67.56,True,Zipline
+Jofas Pharmacy,6.4562611,-2.3147008,Pharmacy,28,35.81,True,Zipline
+John B. Bawah,5.176745,-1.1215647,Pharmacy,1,7.87,True,MASA
+Johnson Mensah Good Name,5.8215717,-2.8202937,Pharmacy,28,54.64,True,Zipline
+Joseph Amoah Pharmacy,5.2927949,-2.7772182,Pharmacy,11,25.59,True,MASA
+Josly Pharmacy Limited,5.608193,-0.2377348,Pharmacy,25,70.01,True,Zipline
+Jowis Chemicals,6.1007712,1.148001,Pharmacy,9,17.91,True,MASA
+Joy NK,5.6834885,-0.0357589,Pharmacy,25,73.44,True,Zipline
+Joyce Opoku,8.6808515,0.1837241,Pharmacy,13,25.06,True,MASA
+Jucad Pharmacy,5.5350595,-0.4225436,Pharmacy,4,29.89,True,MASA
+Juli-Dee Supermarket and Pharmacy,5.6730279,-0.1097193,Pharmacy,25,69.67,True,Zipline
+Just ask Pharmacy and Mart,5.655305,-0.2627508,Pharmacy,25,64.16,True,Zipline
+K-Lynks pharmacy,5.7435489,-0.1534856,Pharmacy,25,60.45,True,Zipline
+Kafny Pharmacy,5.5572969,-0.3058845,Pharmacy,25,73.42,True,Zipline
+Kaizen Pharma Limited,5.5526814,-0.2720462,Pharmacy,25,74.8,True,Zipline
+Kam-Aid,5.7487789,-0.1773508,Pharmacy,25,58.58,True,Zipline
+Kama Pharmacy,6.0908034,-0.2573599,Pharmacy,25,24.3,True,Zipline
+Kanbok Pharmaceuticals,5.5190092,-0.3887118,Pharmacy,25,76.29,True,Zipline
+Ke-nash Pharmacy,5.6060267,-0.2513339,Pharmacy,25,69.76,True,Zipline
+Kekule Pharmacy Limited,5.2982263,-1.9905288,Pharmacy,6,9.31,True,MASA
+Kelmed Pharmaceuticals,5.5616135,-0.2136577,Pharmacy,25,75.78,True,Zipline
+Kendicks Pharmacy Limited,5.3019674,-1.9928854,Pharmacy,6,9.14,True,MASA
+Kent Pharmacy,5.6235324,-0.2411166,Pharmacy,25,68.28,True,Zipline
+Kess Pharmacy,5.6867292,-0.1848706,Pharmacy,25,64.24,True,Zipline
+Kin-Ada,5.5876191,-0.2329546,Pharmacy,25,72.35,True,Zipline
+Kinapharma Limited,4.8963414,-1.756629,Pharmacy,3,6.36,True,MASA
+Kings pharmacy,5.3721289,-0.6389226,Pharmacy,4,2.01,True,MASA
+Kingstreet Pharmacy,5.6049051,-0.1179656,Pharmacy,25,75.74,True,Zipline
+Kingsway Pharmacy,5.1111012,-1.2562466,Pharmacy,1,24.47,True,MASA
+Kingsway Pharmacy,5.1111112,-1.256352,Pharmacy,1,24.48,True,MASA
+Kingsway Pharmacy,5.1303033,-1.2757523,Pharmacy,1,25.67,True,MASA
+Kinschem Pharmacy,5.6581155,-0.2529018,Pharmacy,25,64.22,True,Zipline
+Kissi Sarpong Pharmacy,5.5365499,-0.7015639,Pharmacy,4,17.58,True,MASA
+Kklay,5.6589785,-0.2725149,Pharmacy,25,63.44,True,Zipline
+Kofikrom,5.6246723,-0.0685842,Pharmacy,25,76.65,True,Zipline
+Kojokrom Pharmacy Limited,4.9651163,-1.7268216,Pharmacy,3,3.67,True,MASA
+Krobea Pharmacy,5.6062848,-0.2483441,Pharmacy,25,69.84,True,Zipline
+LLoylan Pharmacy Limited,5.632306,-0.0681801,Pharmacy,25,75.97,True,Zipline
+La Famille Chemist,5.7412938,-0.0134899,Pharmacy,25,70.16,True,Zipline
+Lapaz community pharmacy,5.6113187,-0.2791689,Pharmacy,25,68.3,True,Zipline
+Lashibi Chemists Limited,5.6489359,-0.0638427,Pharmacy,25,74.7,True,Zipline
+Lasta Pharmacy,6.6241131,-1.213309,Pharmacy,26,51.49,True,Zipline
+Late Night Pharmacy,5.571537,-0.1785305,Pharmacy,25,76.17,True,Zipline
+Laud K Pharmacy,6.6917774,-1.5475999,Pharmacy,26,44.12,True,Zipline
+Leeteng Pharmacy,6.6890594,-1.6072708,Pharmacy,26,47.44,True,Zipline
+Lemon,5.6390055,-0.0613318,Pharmacy,25,75.77,True,Zipline
+Lena Pharmacy,6.6022801,0.463824,Pharmacy,29,35.61,True,Zipline
+Lena Pharmacy,5.6861919,-0.0286489,Pharmacy,25,73.7,True,Zipline
+Lesson Pharmacy,5.5820876,-0.1984631,Pharmacy,25,74.25,True,Zipline
+Lesson Pharmacy,5.5821056,-0.1984727,Pharmacy,25,74.25,True,Zipline
+Letap pharmacy,5.5570022,-0.2194593,Pharmacy,25,76.05,True,Zipline
+Lexley Pharmacy,5.7041125,-0.0295113,Pharmacy,25,72.09,True,Zipline
+Liberty pharmacy,6.6042279,0.4752645,Pharmacy,29,36.87,True,Zipline
+Licensed Over the Counter,5.5110248,-0.3352112,Pharmacy,25,77.88,True,Zipline
+Licensed Over-the-Counter Medicine Seller,6.1717203,-0.42519,Pharmacy,25,4.15,True,Zipline
+Life Aid Pharmacy,5.6022107,-0.2562462,Pharmacy,25,70.0,True,Zipline
+Life Health Care,5.6389363,-0.2412727,Pharmacy,25,66.66,True,Zipline
+Life Pharmacy,5.6838365,-0.2829811,Pharmacy,25,60.45,True,Zipline
+Life aid Pharmacy,5.6350575,-0.0911859,Pharmacy,25,74.34,True,Zipline
+Lightway,7.5908672,-1.9387535,Pharmacy,5,28.47,True,MASA
+Linah Asante,5.6080128,-0.1300807,Pharmacy,25,74.8,True,Zipline
+Liniven Pharmacy,5.6757392,-0.1913681,Pharmacy,25,65.02,True,Zipline
+Link 12 Pharmacy,5.6335449,-0.0763459,Pharmacy,25,75.36,True,Zipline
+Listings,5.6310138,-0.2851147,Pharmacy,25,66.02,True,Zipline
+Lloyd's Pharmacy,5.5573446,-0.1753128,Pharmacy,25,77.76,True,Zipline
+Lobing Pharmacy,5.7501659,-0.0860068,Pharmacy,25,64.18,True,Zipline
+Losab Pharmacy,5.8101264,-0.3436711,Pharmacy,25,45.1,True,Zipline
+Love pharmacy,5.6600195,-0.2547704,Pharmacy,25,63.95,True,Zipline
+Luckies Pharmacy,5.611363,-0.2373339,Pharmacy,25,69.69,True,Zipline
+M & N Pharmacy,9.3827362,-0.7979341,Pharmacy,0,1.83,True,MASA
+M&G Pharmaceuticals,5.5348169,-0.2113248,Pharmacy,25,78.68,True,Zipline
+M&G whole sale division,5.5351294,-0.2111438,Pharmacy,25,78.65,True,Zipline
+M.T Azango chemical shop,9.4324262,-0.8607609,Pharmacy,0,7.4,True,MASA
+MAG Pharmacy,6.6879024,-1.5837745,Pharmacy,26,46.27,True,Zipline
+MBC Pharmacy,5.7826082,-0.1775058,Pharmacy,25,55.36,True,Zipline
+MEG Pharmacy,5.142014,-1.2444104,Pharmacy,1,21.97,True,MASA
+MEK Pharmacy Limited,6.5962567,0.4438654,Pharmacy,29,33.31,True,Zipline
+Mabel Akyaa Waye,6.8050232,-2.5175124,Pharmacy,28,69.37,True,Zipline
+Madam Marry Adekurah,10.7915153,-0.791633,Pharmacy,27,49.44,True,Zipline
+Madibra Pharmacy,5.2689584,-2.0065884,Pharmacy,6,12.99,True,MASA
+Madibra Pharmacy,5.8069297,-2.433751,Pharmacy,28,42.08,True,Zipline
+Magic Mitch,5.5881857,-0.1969695,Pharmacy,25,73.68,True,Zipline
+Magmitch Pharmacy,5.5881507,-0.1971383,Pharmacy,25,73.68,True,Zipline
+Magpat Pharmacy,5.6763602,-0.1509529,Pharmacy,25,67.02,True,Zipline
+Maidaal Pharmacy,5.6792722,-0.1919924,Pharmacy,25,64.64,True,Zipline
+Mainstreet Pharmacy,9.3940393,-0.8221263,Pharmacy,0,1.4,True,MASA
+Makay Pharmacy Limited,5.6273966,-0.067892,Pharmacy,25,76.44,True,Zipline
+Malakai Chemist,5.1141672,-1.2603301,Pharmacy,1,24.73,True,MASA
+Manu Yaa pharmacy,7.5610717,-1.9850817,Pharmacy,5,22.46,True,MASA
+Manu Yaa pharmacy,7.6410295,-1.8602265,Pharmacy,12,22.59,True,MASA
+Mapok,5.5883409,-0.0976198,Pharmacy,25,78.44,True,Zipline
+Marisa & May Pharmacy,5.617831,-0.0926678,Pharmacy,25,75.88,True,Zipline
+Marpe Pharmacy,5.5651715,-0.2136364,Pharmacy,25,75.41,True,Zipline
+Mary de Rose Pharmacy,5.579535,-0.247275,Pharmacy,25,72.7,True,Zipline
+Marygold Pharmacy Limited,5.1484518,-1.2788072,Pharmacy,1,25.42,True,MASA
+Matcare Pharmacy,5.6313147,-0.0900415,Pharmacy,25,74.76,True,Zipline
+Mawuena Pharmacy,5.7818376,-0.1753526,Pharmacy,25,55.56,True,Zipline
+Max-Health Pharmacy,5.7002563,-0.2027244,Pharmacy,25,62.02,True,Zipline
+Maxkins Pharmacy,5.5729583,-0.2310625,Pharmacy,25,73.96,True,Zipline
+Maxwell Akoto-Mireku,5.6046972,-0.0880143,Pharmacy,25,77.4,True,Zipline
+MayDay Pharmacy,5.5856717,-0.175929,Pharmacy,25,74.84,True,Zipline
+McCarthy Hill Pharmacy,5.5235273,-0.326914,Pharmacy,25,76.66,True,Zipline
+Mcaliz Pharmacy,5.7109887,-0.1934295,Pharmacy,25,61.41,True,Zipline
+Med Aid Pharmacy,5.6464443,-0.1550248,Pharmacy,25,69.73,True,Zipline
+Med Court,7.3302991,-2.3193053,Pharmacy,8,21.2,True,MASA
+Med-touch pharmacy,5.5715443,-0.2380905,Pharmacy,25,73.86,True,Zipline
+MedAid Pharmacy,5.6458863,-0.14367,Pharmacy,25,70.38,True,Zipline
+Medcourt Pharmacy,7.3468941,-2.271949,Pharmacy,5,18.67,True,MASA
+Medcourt Pharmacy,7.3604253,-2.3472325,Pharmacy,8,23.23,True,MASA
+MediTab,5.67393,-0.1937353,Pharmacy,25,65.09,True,Zipline
+Media Pharmacy,5.6326336,-0.1397974,Pharmacy,25,71.88,True,Zipline
+Medical Lab Pharmacy,9.4036343,-0.851353,Pharmacy,0,4.59,True,MASA
+Medicap Pharmacy,7.3983294,-1.9555984,Pharmacy,5,25.77,True,MASA
+Medicap Pharmacy,6.8189792,-1.8612681,Pharmacy,26,58.68,True,Zipline
+Medicines Plus Pharmacy,5.5732555,-0.1979428,Pharmacy,25,75.18,True,Zipline
+Medimart,5.6279561,-0.1511863,Pharmacy,25,71.76,True,Zipline
+Medimart,5.6028695,-0.1762717,Pharmacy,25,73.08,True,Zipline
+Medipoint,5.5684141,-0.1743606,Pharmacy,25,76.67,True,Zipline
+Meditab Pharmacy,5.6597419,-0.1511167,Pharmacy,25,68.63,True,Zipline
+Medmina Pharmacy,5.6838704,-0.1657428,Pharmacy,25,65.5,True,Zipline
+Menri Pharmacy,6.6939109,-1.6292994,Pharmacy,26,48.29,True,Zipline
+Meprio Pharmacy,6.6613061,-1.5632219,Pharmacy,26,47.92,True,Zipline
+Messiah Pharmacy,5.6100976,-0.234288,Pharmacy,25,69.94,True,Zipline
+Mgl,4.9647623,-1.6932361,Pharmacy,3,4.06,True,MASA
+Micheal Quaique Otc Medicine Seller,5.6430415,-0.2351851,Pharmacy,25,66.46,True,Zipline
+Michrisma,5.6274826,-0.0926033,Pharmacy,25,74.97,True,Zipline
+Midpoint Pharmacy,5.6375719,-0.2171055,Pharmacy,25,67.76,True,Zipline
+Mikaddo Pharmacy Limited,6.697131,-1.6225313,Pharmacy,26,47.58,True,Zipline
+Mile Seven pharmacy,5.6309957,-0.2437834,Pharmacy,25,67.4,True,Zipline
+Millan Elements,5.6179407,-0.0717734,Pharmacy,25,77.09,True,Zipline
+Millennium Pharmacy,4.9350361,-1.7138103,Pharmacy,3,0.04,True,MASA
+Miney Pharmacy,7.3339371,-2.3206856,Pharmacy,8,21.5,True,MASA
+MiniMax Pharmacy,5.697003,-0.2034261,Pharmacy,25,62.31,True,Zipline
+Mizfred Pharmacy,5.7148579,-0.1832644,Pharmacy,25,61.55,True,Zipline
+Mobimed Pharmacy,5.5930445,-0.0907846,Pharmacy,25,78.36,True,Zipline
+Mocel Pharmacy,5.775165,-0.0014061,Pharmacy,25,68.41,True,Zipline
+Modem Pharmacy Limited,5.7433611,-0.1770306,Pharmacy,25,59.12,True,Zipline
+Mohammad Pharmacy,9.2191345,-1.8579042,Pharmacy,14,16.48,True,MASA
+Mohammed Alidu Chemicals,9.4224053,-0.8110579,Pharmacy,0,4.29,True,MASA
+Mohammed Issah,9.8991768,-2.3544997,Pharmacy,7,26.4,True,MASA
+Mosan Frontline Pharmacy,4.9091566,-1.7700236,Pharmacy,3,6.83,True,MASA
+Mosmay Pharmacy,5.1344727,-1.2776064,Pharmacy,1,25.72,True,MASA
+Mossay Pharmacy,7.3359665,-2.3271877,Pharmacy,8,21.4,True,MASA
+Mrs Rose Pharmacy,5.1258601,-1.2773846,Pharmacy,1,26.01,True,MASA
+Multi Pavum,9.3956423,-0.8247706,Pharmacy,0,1.72,True,MASA
+Mutaru Chemist,9.2193258,-1.859255,Pharmacy,14,16.54,True,MASA
+Mutti Pharmacy,5.6076574,-0.1259632,Pharmacy,25,75.05,True,Zipline
+Muzey Drug Store,6.804121,-2.5193234,Pharmacy,28,69.28,True,Zipline
+MycroChemist Pharmacy,5.6477194,-0.1515105,Pharmacy,25,69.79,True,Zipline
+N. O. Armah - Agyemang chemical store,5.1131129,-1.2467291,Pharmacy,1,23.42,True,MASA
+NEA Pharmacy,5.6027124,-0.2363711,Pharmacy,25,70.64,True,Zipline
+NGPACK Pharmacy,5.7046943,-0.1711167,Pharmacy,25,63.18,True,Zipline
+Naayas Medical Centre,9.4236847,-0.8080372,Pharmacy,0,4.47,True,MASA
+Nadorg,5.6045811,-0.2021378,Pharmacy,25,71.78,True,Zipline
+Nako,6.7003567,-1.5949466,Pharmacy,26,45.67,True,Zipline
+Nakopat Pharmacy,5.56492,-0.2345585,Pharmacy,25,74.68,True,Zipline
+Nana Panin Herbal And Research Centre,5.578977,-0.2002323,Pharmacy,25,74.5,True,Zipline
+Nardorg Pharmacy,5.6051659,-0.2030474,Pharmacy,25,71.68,True,Zipline
+Nascata Pharmacy Limited,5.6758049,-0.1734678,Pharmacy,25,65.9,True,Zipline
+Nat & Sons,5.6106418,-1.5499547,Pharmacy,10,13.45,True,MASA
+Nat & Sons Pharmacy,5.1318509,-1.2758096,Pharmacy,1,25.62,True,MASA
+Ndeogo Regina,10.7912035,-0.8455273,Pharmacy,27,49.61,True,Zipline
+Nectar Pharmacy,5.5678949,-0.2430072,Pharmacy,25,74.08,True,Zipline
+Nesta,5.6028609,-0.2419394,Pharmacy,25,70.42,True,Zipline
+Nesta Pharmacy,5.5969414,-0.2310061,Pharmacy,25,71.44,True,Zipline
+New Discovery Pharmacy,5.6047937,-0.2586139,Pharmacy,25,69.65,True,Zipline
+New Discovery Pharmacy,5.641063,-0.2401852,Pharmacy,25,66.48,True,Zipline
+New Site,5.7131306,-0.1720332,Pharmacy,25,62.31,True,Zipline
+NexrCap,5.6754143,-0.1232118,Pharmacy,25,68.66,True,Zipline
+Next Care,5.6756494,-0.1228576,Pharmacy,25,68.65,True,Zipline
+Nhyira Pharmacy,5.5334698,-0.4295575,Pharmacy,4,29.15,True,MASA
+Nikos Pharmacy,5.6090016,-0.2444046,Pharmacy,25,69.69,True,Zipline
+Nima Highway Pharmacy,5.5789653,-0.1999309,Pharmacy,25,74.51,True,Zipline
+Nissi Pharmacy,5.6858772,-0.1657648,Pharmacy,25,65.3,True,Zipline
+Nock Chemists Limited,4.9001208,-1.7640048,Pharmacy,3,6.74,True,MASA
+Nola,5.6411278,-0.1190853,Pharmacy,25,72.17,True,Zipline
+Nolan Ghana,5.6953761,-0.1102455,Pharmacy,25,67.55,True,Zipline
+Nolan Group Pharmacy,5.647088,-0.0764485,Pharmacy,25,74.09,True,Zipline
+Norkids,5.6166186,-0.0623156,Pharmacy,25,77.78,True,Zipline
+Novomed,5.6227053,-0.3018546,Pharmacy,25,66.44,True,Zipline
+Nuhu Hawa Jimba,10.1373341,-2.3558967,Pharmacy,7,22.18,True,MASA
+Nyaah Pharmacy,5.6273579,-0.1462456,Pharmacy,25,72.07,True,Zipline
+Nyala Phamacy,5.5831267,-0.1944032,Pharmacy,25,74.31,True,Zipline
+Nyame Na Aye Medicines License Over The Counter Medical Shop,6.4226642,-0.8700252,Pharmacy,25,52.84,True,Zipline
+Nyame ne Hene Herbal,5.6157189,-0.2439415,Pharmacy,25,69.0,True,Zipline
+Nyankson Amihere,5.2907287,-2.7773463,Pharmacy,11,25.36,True,MASA
+O'Nart Pharmacy,4.9126548,-1.7866416,Pharmacy,3,8.41,True,MASA
+O. K Pharmacy,7.352377,-2.3450168,Pharmacy,8,22.44,True,MASA
+O.K Honesty Pharmacy,6.6842652,-1.5782163,Pharmacy,26,46.34,True,Zipline
+OBM Pharmacy,5.7364094,-0.014269,Pharmacy,25,70.5,True,Zipline
+Oakridge Pharmacy - Ayigya,6.6950026,-1.5684444,Pharmacy,26,44.79,True,Zipline
+Obaapa OTC,6.6583093,-1.5120207,Pharmacy,26,46.22,True,Zipline
+Obarsi Pharmacy,9.3991278,-0.8322506,Pharmacy,0,2.57,True,MASA
+Offshore Pharmacy,5.6766737,-0.1764381,Pharmacy,25,65.66,True,Zipline
+Offshore Pharmacy,5.6788504,-0.179026,Pharmacy,25,65.32,True,Zipline
+Ofoe's Pharmacy,6.0997977,0.1262578,Pharmacy,29,43.41,True,Zipline
+Oguaaman Pharmacy,5.1110396,-1.2413359,Pharmacy,1,22.98,True,MASA
+Oheneba Pharmacy,6.6228188,-1.2169826,Pharmacy,26,51.48,True,Zipline
+Okam,10.9795656,-1.1057123,Pharmacy,27,77.7,True,Zipline
+Okofoni Pharmacy,7.3428112,-2.2626999,Pharmacy,5,18.48,True,MASA
+Op Pharmacy,5.607446,-0.2460546,Pharmacy,25,69.79,True,Zipline
+Opac Pharmacy,9.3996766,-0.8507399,Pharmacy,0,4.34,True,MASA
+Origin Chemist,5.7793367,-0.0002877,Pharmacy,25,68.18,True,Zipline
+Origin Chemist,5.6393768,-0.1069242,Pharmacy,25,73.02,True,Zipline
+Origin Chemist,5.6161822,-0.0920026,Pharmacy,25,76.08,True,Zipline
+Origin Chemist,5.7112465,-0.014896,Pharmacy,25,72.54,True,Zipline
+Osbon Pharmacy,5.67757,-0.1813994,Pharmacy,25,65.32,True,Zipline
+Osons Chemist,5.5601699,-0.2129584,Pharmacy,25,75.96,True,Zipline
+Otonya Pharmacy,5.3285885,-1.9810556,Pharmacy,6,6.07,True,MASA
+Outbox Pharmacy,5.7836454,-0.1687572,Pharmacy,25,55.79,True,Zipline
+Over Flowing Grace,5.6163813,-0.1250078,Pharmacy,25,74.25,True,Zipline
+Over the Counter,5.5921219,-0.4063928,Pharmacy,25,68.04,True,Zipline
+Owass Pharmacy,5.2820633,-2.0016527,Pharmacy,6,11.48,True,MASA
+P.A. Mamattah Chemical Licensed Chemical Seller,5.7745475,0.0013797,Pharmacy,25,68.68,True,Zipline
+PANCEA PHARMACY,6.6529401,-1.6424339,Pharmacy,26,52.9,True,Zipline
+PNT Pharmacy,5.5842416,-0.2312334,Pharmacy,25,72.76,True,Zipline
+Pakscare Pharmacy,5.6806331,-0.1833093,Pharmacy,25,64.93,True,Zipline
+Palace Pharmaceuticals,5.5660248,-0.1789112,Pharmacy,25,76.72,True,Zipline
+Palace Pharmacy,5.5843844,-0.1625714,Pharmacy,25,75.57,True,Zipline
+PalmAid Pharmacy,5.5735786,-0.1592984,Pharmacy,25,76.82,True,Zipline
+Panacea,5.6346457,-0.1350806,Pharmacy,25,71.93,True,Zipline
+Panacea Pharmacy,6.7165468,-1.6300219,Pharmacy,26,46.27,True,Zipline
+Panacea Pharmacy,6.7157419,-1.5045239,Pharmacy,26,39.89,True,Zipline
+Panacea Pharmacy,5.6577641,-0.2075202,Pharmacy,25,66.09,True,Zipline
+Parker Pharmacy,5.6021472,-0.1209413,Pharmacy,25,75.85,True,Zipline
+Paul Opoku,5.5815057,-0.2015879,Pharmacy,25,74.18,True,Zipline
+Peace Pharmacy,6.6911965,-1.65929,Pharmacy,26,50.45,True,Zipline
+Pearllane Pharmacy Ltd.,6.7459266,-1.7404031,Pharmacy,26,52.08,True,Zipline
+Pebs Pharmacy Limited,5.6781119,-0.1224695,Pharmacy,25,68.44,True,Zipline
+Penak,6.8173164,-1.6478957,Pharmacy,26,39.17,True,Zipline
+Pepmay,5.6132326,-0.073848,Pharmacy,25,77.41,True,Zipline
+Pharma George,5.6302406,-0.2467304,Pharmacy,25,67.37,True,Zipline
+Pharma Solutions,5.537693,-0.4017566,Pharmacy,25,74.11,True,Zipline
+Pharma Solutions,5.5990814,-0.235073,Pharmacy,25,71.07,True,Zipline
+Pharmaceuticals Ghana Limited,10.0574927,-2.5072258,Pharmacy,7,3.54,True,MASA
+Pharmacy Council &National Drug,5.55204,-0.2111612,Pharmacy,25,76.88,True,Zipline
+Pharmacy Healthline & Mart Retail,6.3494602,-0.4862524,Pharmacy,25,16.91,True,Zipline
+Pharmacy Relics,6.0918788,-0.255391,Pharmacy,25,24.43,True,Zipline
+Pharmacy Royale,5.5771907,-0.1654655,Pharmacy,25,76.17,True,Zipline
+Pharmacy Shop,6.6812314,-1.5736918,Pharmacy,26,46.41,True,Zipline
+Pharmancy,6.1008159,0.1273023,Pharmacy,29,43.28,True,Zipline
+Pharmancy,6.1024164,0.1273096,Pharmacy,29,43.11,True,Zipline
+Pharmatrust,5.6085904,-0.2449676,Pharmacy,25,69.71,True,Zipline
+Pharmatrust,5.6054701,-0.2529806,Pharmacy,25,69.76,True,Zipline
+Pharmatrust Pharmacy,5.6161888,-0.2290357,Pharmacy,25,69.5,True,Zipline
+Pharmatrust Professional college,5.552842,-0.3430429,Pharmacy,25,73.16,True,Zipline
+Phersons Pharmacy,5.6216908,-0.2307753,Pharmacy,25,68.86,True,Zipline
+Phillis Oduro Sarah Pharmarcy,5.1746706,-1.120458,Pharmacy,1,7.85,True,MASA
+Phimed,6.6822417,-1.6568141,Pharmacy,26,51.09,True,Zipline
+Phinas Pharmacy,5.2897445,-2.7786723,Pharmacy,11,25.25,True,MASA
+Phinas Pharmacy,5.624524,-0.0759671,Pharmacy,25,76.22,True,Zipline
+Pida Chemist Limited,6.6992648,-1.6305847,Pharmacy,26,47.88,True,Zipline
+Pill Point,5.5983927,-0.0812179,Pharmacy,25,78.39,True,Zipline
+Pill Point,5.6678356,-0.1774716,Pharmacy,25,66.49,True,Zipline
+Pill Point Pharmacy,5.646892,-0.060537,Pharmacy,25,75.09,True,Zipline
+Pill Point Pharmacy,5.5687083,-0.2867084,Pharmacy,25,72.67,True,Zipline
+PillBox Phamacy,5.6784112,-0.1741713,Pharmacy,25,65.6,True,Zipline
+Pillpoint,5.6362297,-0.1035126,Pharmacy,25,73.51,True,Zipline
+Pillpoint Pharmacy,5.6316754,-0.2520716,Pharmacy,25,67.03,True,Zipline
+Pillpoint Pharmacy (Retail),5.6470772,-0.1689755,Pharmacy,25,68.97,True,Zipline
+Platinum P-Care,5.2776429,-1.9949705,Pharmacy,6,11.48,True,MASA
+Pokuase Pharmacy,5.6728171,-0.2915176,Pharmacy,25,61.35,True,Zipline
+Poll Point Pharmacy,5.5851971,-0.1002885,Pharmacy,25,78.6,True,Zipline
+Power Shower Pharmacy,5.648972,-0.0764754,Pharmacy,25,73.91,True,Zipline
+Praso Pharmacy,5.6111249,-1.5487222,Pharmacy,10,13.49,True,MASA
+Premium Pharmacy and Mart,5.5524154,-0.1783399,Pharmacy,25,78.14,True,Zipline
+Presben Pharmacy Limited,7.0886248,-2.0267916,Pharmacy,26,70.87,True,Zipline
+Priceline Pharmacy,6.8715388,-1.5099093,Pharmacy,26,24.54,True,Zipline
+PrijoPharma,5.6424691,-0.2497405,Pharmacy,25,65.98,True,Zipline
+Prime,5.6388459,-0.1230814,Pharmacy,25,72.17,True,Zipline
+Prime,5.6043836,-0.1752295,Pharmacy,25,72.97,True,Zipline
+Prime Pharmacy,5.6007128,-0.2252321,Pharmacy,25,71.26,True,Zipline
+Prince Obour Mintah Pharmacy,5.8215851,-2.8225803,Pharmacy,28,54.81,True,Zipline
+Pro-Life Pharmacy,5.6010349,-0.1198714,Pharmacy,25,76.02,True,Zipline
+Provider Pharmacy,5.8089251,-2.4368761,Pharmacy,28,41.82,True,Zipline
+QP Pharmacy,5.6735972,-0.1146084,Pharmacy,25,69.33,True,Zipline
+QuasiPharma,5.5526358,-0.1842526,Pharmacy,25,77.87,True,Zipline
+RX Pharmacy,5.7496538,-0.1825066,Pharmacy,25,58.21,True,Zipline
+Rabille Pharmacy,5.6059247,-0.2470625,Pharmacy,25,69.92,True,Zipline
+Rabito Pharmacy,6.2910843,-0.4746788,Pharmacy,25,10.32,True,Zipline
+Rabitto Pharmacy,6.2913819,-0.4743928,Pharmacy,25,10.34,True,Zipline
+Radiance Pharmacy,5.6686491,-0.1880574,Pharmacy,25,65.89,True,Zipline
+"Rahma Pharmacy Limited, Yeji",8.22882,-0.6501933,Pharmacy,-1,-1.0,False,Aucun
+Raise chemist,5.6526296,-0.2506619,Pharmacy,25,64.88,True,Zipline
+Range Pharmacy,6.6812402,-1.6339319,Pharmacy,26,49.75,True,Zipline
+Ranstell Pharmacy,5.898781,0.5225453,Pharmacy,29,76.71,True,Zipline
+Reanie Chemist Limited,5.6097826,-0.1804577,Pharmacy,25,72.18,True,Zipline
+Rebeacon Chemists Limited,5.6659402,-0.2042964,Pharmacy,25,65.41,True,Zipline
+Regent Pharmacy,5.5661853,-0.2335634,Pharmacy,25,74.58,True,Zipline
+Regiben Pharmacy,5.358401,-0.6330962,Pharmacy,4,3.65,True,MASA
+Reinna Pharmacy,5.6750445,-0.1209314,Pharmacy,25,68.82,True,Zipline
+Rejoice Sename,5.5086452,-0.3366135,Pharmacy,25,78.12,True,Zipline
+Relish/Akai,5.5663633,-0.1829188,Pharmacy,25,76.52,True,Zipline
+Retina Pharmacy,5.6424756,-0.1096018,Pharmacy,25,72.57,True,Zipline
+Revman Pharmacy,5.609216,-0.2457014,Pharmacy,25,69.62,True,Zipline
+Rhamshiv Pharmacy,5.6412601,-0.1739646,Pharmacy,25,69.31,True,Zipline
+Rhino Pharmacy,5.6537763,-0.0641564,Pharmacy,25,74.24,True,Zipline
+Riad,5.902439,0.9889165,Pharmacy,9,17.08,True,MASA
+Rich Pharmacy,5.6113988,-0.2439209,Pharmacy,25,69.45,True,Zipline
+Richard Kokah Pharmacy,5.8226662,-2.8213036,Pharmacy,28,54.62,True,Zipline
+Richben Pharmacy Limited,5.5905479,-0.1814424,Pharmacy,25,74.1,True,Zipline
+Riky Pharmacy,9.4054438,-0.8414646,Pharmacy,0,3.8,True,MASA
+Rima-Riva,6.6957486,-1.6563211,Pharmacy,26,49.85,True,Zipline
+Robbie's Chemist,5.6009615,-0.2307241,Pharmacy,25,71.03,True,Zipline
+Robert Gyedu Pharmacy,4.9113515,-1.777753,Pharmacy,3,7.53,True,MASA
+Rock Chemist,5.6305756,-0.2350594,Pharmacy,25,67.77,True,Zipline
+Rockwell Pharmacy And Mart,5.730797,0.0277715,Pharmacy,25,74.17,True,Zipline
+Rokdel,6.6751253,-1.5587101,Pharmacy,26,46.32,True,Zipline
+Roman Pharmacy Limited,6.1029224,-0.2664831,Pharmacy,25,22.76,True,Zipline
+Rose Arthur Pharmacy,5.8229612,-2.8240147,Pharmacy,28,54.8,True,Zipline
+Rose Aryiretey Licenced Chemical Seller,9.4274108,-0.857189,Pharmacy,0,6.72,True,MASA
+Rosmond Pharmacy,5.6093419,-0.1120154,Pharmacy,25,75.63,True,Zipline
+Ryt Pharmacy Ho,6.6200096,0.4712475,Pharmacy,29,37.11,True,Zipline
+S Fuseini OTC,5.6718965,-0.1225815,Pharmacy,25,69.03,True,Zipline
+S.A Abande Medical Store,5.1400038,-1.2451388,Pharmacy,1,22.11,True,MASA
+S.K Agyapong Over the Canter,5.6048372,-0.0805365,Pharmacy,25,77.82,True,Zipline
+S.K Nsiah,6.8040709,-2.516032,Pharmacy,28,69.26,True,Zipline
+SDA Hospital Pharmacy,6.6995571,-1.6598347,Pharmacy,26,49.75,True,Zipline
+SDG P-Mocent Pharmacy Ltd.,6.6599124,-1.5287746,Pharmacy,26,46.64,True,Zipline
+Saaka Saeed,9.9944517,-2.5150058,Pharmacy,7,6.91,True,MASA
+Sadas Chemists,5.5670145,-0.162997,Pharmacy,25,77.31,True,Zipline
+Safe life Pharmacy,5.107106,-1.2524163,Pharmacy,1,24.28,True,MASA
+Sakeena Ofosu,5.6583712,-0.2536678,Pharmacy,25,64.16,True,Zipline
+Salbelia Licenced Chemical Store,9.4529281,-0.844909,Pharmacy,0,8.36,True,MASA
+Samsel,5.6062227,-0.115103,Pharmacy,25,75.76,True,Zipline
+Samuel Ntifful Pharmarcy,5.1741366,-1.1216926,Pharmacy,1,8.0,True,MASA
+Sancotex Pharmacy,5.111872,-1.2453892,Pharmacy,1,23.34,True,MASA
+Santa,5.6817878,-0.0501367,Pharmacy,25,72.62,True,Zipline
+Santa Theres Pharmacy,5.628528,-0.0839941,Pharmacy,25,75.37,True,Zipline
+Sapphire Pharmacy,5.6918317,-0.0234565,Pharmacy,25,73.57,True,Zipline
+Saqs Pharmacy,6.6717718,-1.6051833,Pharmacy,26,48.98,True,Zipline
+Sarps Pharmacy,6.6890214,-1.6135559,Pharmacy,26,47.81,True,Zipline
+Scab,7.5931823,-1.9360394,Pharmacy,5,28.85,True,MASA
+Sebatos,5.6037136,-0.086643,Pharmacy,25,77.57,True,Zipline
+Seed Pharmacy,5.6824012,-0.1203462,Pharmacy,25,68.16,True,Zipline
+Selack Pharmacy,6.1292114,0.7952012,Pharmacy,9,23.27,True,MASA
+Select,5.5516399,-0.3294584,Pharmacy,25,73.54,True,Zipline
+Senes Pharmacy,5.7728011,-0.0012935,Pharmacy,25,68.6,True,Zipline
+Senes Pharmacy,5.6975559,-0.037444,Pharmacy,25,72.1,True,Zipline
+Senes Pharmacy,5.6220342,-0.0565894,Pharmacy,25,77.63,True,Zipline
+Septal,5.6005416,-0.2389855,Pharmacy,25,70.77,True,Zipline
+Sergen,5.5999959,-0.2550004,Pharmacy,25,70.28,True,Zipline
+Seven Stars Chemist Limited,6.7472086,-1.6397916,Pharmacy,26,44.22,True,Zipline
+Seyama Pharmaceuticals,5.5819067,-0.2302298,Pharmacy,25,73.05,True,Zipline
+Shapelife Pharmacy,6.1878525,-0.3640493,Pharmacy,25,9.23,True,Zipline
+Shekiel Pharmacy,7.3330768,-2.3261551,Pharmacy,8,21.16,True,MASA
+Sibs Pharmacy Limited,5.55949,-0.1595029,Pharmacy,25,78.24,True,Zipline
+Sievako Pharmacy Limited,5.5916097,-0.2045251,Pharmacy,25,73.02,True,Zipline
+Sing Praises,5.6064469,-0.0861401,Pharmacy,25,77.34,True,Zipline
+Sir Swanzy Chemicals,5.5896952,-0.2583591,Pharmacy,25,71.26,True,Zipline
+Six Stars Pharmacy,7.3287889,-2.3224953,Pharmacy,8,20.89,True,MASA
+Skycare Pharmacy,6.1060628,-0.2476063,Pharmacy,25,24.44,True,Zipline
+Slava Pharmacy,9.427893,-0.8421459,Pharmacy,0,5.75,True,MASA
+Solutions Pharmaceuticals Limited,5.6409902,-0.1774232,Pharmacy,25,69.17,True,Zipline
+Speed Pharmacy,5.5955838,-0.1336578,Pharmacy,25,75.84,True,Zipline
+St Kem Pharmacy,5.6680847,-0.1818992,Pharmacy,25,66.24,True,Zipline
+St. Martin's Chemists,5.289648,-2.7782106,Pharmacy,11,25.24,True,MASA
+St.DOMINIC,6.8496529,-1.3971473,Pharmacy,26,22.81,True,Zipline
+Stadium Pharmacy Limited,9.4077224,-0.8622684,Pharmacy,0,5.86,True,MASA
+Star Med,5.5854364,-0.1022472,Pharmacy,25,78.47,True,Zipline
+Starwin Products Ltd,5.5589459,-0.2227967,Pharmacy,25,75.73,True,Zipline
+Stellex Pharmacy,6.6247696,-1.2112917,Pharmacy,26,51.51,True,Zipline
+Sterada Pharmacy Limited,5.5757875,-0.188781,Pharmacy,25,75.3,True,Zipline
+Stramark Pharmacy,6.584648,0.4623838,Pharmacy,29,34.81,True,Zipline
+Strong Pharmacy,5.6451368,-0.0941693,Pharmacy,25,73.21,True,Zipline
+Success Key Pharmacy and Mini Mart,5.6037671,-0.2434982,Pharmacy,25,70.27,True,Zipline
+Success Pharmacy,5.7507063,-0.1848405,Pharmacy,25,57.98,True,Zipline
+Sunday Medicine,9.3856902,-0.8557914,Pharmacy,0,4.53,True,MASA
+Supreme Total Care;ECG Sales Point,5.7669219,0.0088949,Pharmacy,25,69.86,True,Zipline
+Swanlake Pharmacy,5.6564277,-0.2521363,Pharmacy,25,64.42,True,Zipline
+Syrene Health Services,5.5446575,-0.213842,Pharmacy,25,77.55,True,Zipline
+T T medicine shop,7.7931639,-0.060264,Pharmacy,30,5.29,True,Zipline
+T.M Pharmacy,6.7820006,-1.5780984,Pharmacy,26,37.02,True,Zipline
+TC Pharmacy,6.0953855,-0.256408,Pharmacy,25,24.14,True,Zipline
+TJ Nhyira Herbal Home,5.5969511,-0.1185132,Pharmacy,25,76.49,True,Zipline
+TTL Pharmacy,7.3648414,-2.3154087,Pharmacy,5,20.48,True,MASA
+Tap Pharmacy,5.6902692,-0.1969148,Pharmacy,25,63.3,True,Zipline
+Tedgin Services,5.1281188,-1.2741336,Pharmacy,1,25.58,True,MASA
+Tedolex Pharmacy,5.6080762,-0.2422966,Pharmacy,25,69.86,True,Zipline
+Telad Pharmacy,5.6927425,-0.1721517,Pharmacy,25,64.3,True,Zipline
+Telad Pharmay,5.6833155,-0.132243,Pharmacy,25,67.39,True,Zipline
+The Mall Pharmacy,5.6130891,-0.0720014,Pharmacy,25,77.53,True,Zipline
+The Medipoint,5.6326678,-0.1396273,Pharmacy,25,71.88,True,Zipline
+Theodore Semey Kwaku,5.9109714,0.9906113,Pharmacy,9,16.13,True,MASA
+Theonic Pharmacy,5.7086378,-0.0160686,Pharmacy,25,72.67,True,Zipline
+Thomas Amonle Pharmacy,5.2919803,-2.7712444,Pharmacy,11,25.51,True,MASA
+Three Ace Pharmacy,5.5900471,-0.1114176,Pharmacy,25,77.54,True,Zipline
+Tifere Abdullai,9.8671914,-2.4390963,Pharmacy,7,23.27,True,MASA
+Timeless Pharmacy,7.397837,-2.1832994,Pharmacy,5,9.56,True,MASA
+Tinattet Herbal Centre,5.5875704,-0.0989921,Pharmacy,25,78.44,True,Zipline
+Tobinco,4.8963519,-1.7636828,Pharmacy,3,6.96,True,MASA
+Tobinco,5.5794498,-0.2653315,Pharmacy,25,72.13,True,Zipline
+Tobinco Pharmaceuticals Limited,5.593222,-0.2065569,Pharmacy,25,72.77,True,Zipline
+Tobinco Pharmacy,4.9086545,-1.7698019,Pharmacy,3,6.83,True,MASA
+Tobinco Pharmacy,5.5508326,-0.2076851,Pharmacy,25,77.14,True,Zipline
+Tofeefy Pharmacy,5.6524842,-0.2469216,Pharmacy,25,65.03,True,Zipline
+Tohaba Pharmacy,5.6222037,-0.1242919,Pharmacy,25,73.72,True,Zipline
+Tony Joyce Pharmacy,5.6011009,-0.1203926,Pharmacy,25,75.98,True,Zipline
+Tonya,5.276609,-2.0040279,Pharmacy,6,12.13,True,MASA
+Tonya Pharmacy,5.3110481,-1.9924771,Pharmacy,6,8.34,True,MASA
+Top Pill,5.6515282,-0.0071048,Pharmacy,25,78.2,True,Zipline
+Top Pill Pharmacy,5.6725626,-0.0148422,Pharmacy,25,75.83,True,Zipline
+Top in Town Pharmacy and Mart,5.6448412,-0.0923298,Pharmacy,25,73.35,True,Zipline
+Top up pharmacy,5.6325774,-0.0132763,Pharmacy,25,79.45,True,Zipline
+Top-Up Pharmacy,5.5646008,-0.1811741,Pharmacy,25,76.77,True,Zipline
+Top-Up Pharmacy,5.6255176,-0.0778727,Pharmacy,25,76.02,True,Zipline
+Top-up,5.7513455,-0.0089373,Pharmacy,25,69.69,True,Zipline
+Topmed Pharmacy,5.7573286,-0.3311414,Pharmacy,25,51.13,True,Zipline
+Trafalgar Gate Pharmacy,6.6037836,0.4832234,Pharmacy,29,37.68,True,Zipline
+Treasure Image Pharmacy,5.5279801,-0.3871832,Pharmacy,25,75.31,True,Zipline
+Trekanet Pharmacy,6.7289428,-1.6438374,Pharmacy,26,46.08,True,Zipline
+Trust Aid Pharmacy,5.6914012,-0.0330293,Pharmacy,25,72.94,True,Zipline
+Trust Care Pharmacy,9.459276,-0.8456562,Pharmacy,0,9.04,True,MASA
+Tudu Pharmacy,5.5530775,-0.2082687,Pharmacy,25,76.88,True,Zipline
+UB Pharmacy,9.39557,-0.8479453,Pharmacy,0,3.89,True,MASA
+"Unicaom Chemist Limited, Wholesale",5.6066931,-0.2479243,Pharmacy,25,69.81,True,Zipline
+Unicom,5.6678207,-0.1885677,Pharmacy,25,65.95,True,Zipline
+Unicom,5.6680965,-0.2397791,Pharmacy,25,63.68,True,Zipline
+Unicom Chemist,5.687461,-0.1153529,Pharmacy,25,67.98,True,Zipline
+Unicom Chemist Limited,5.5592037,-0.2652905,Pharmacy,25,74.3,True,Zipline
+Unicom Pharmacy,5.5615008,-0.1820782,Pharmacy,25,77.05,True,Zipline
+Unicorn Chemist Limited,5.5715983,-0.2331402,Pharmacy,25,74.03,True,Zipline
+Union Square Pharmacy,5.1368021,-1.2718076,Pharmacy,1,25.03,True,MASA
+Unnamed Pharmacy,5.0964895,-1.3366499,Pharmacy,-1,-1.0,False,Aucun
+Unnamed Pharmacy,5.6136399,-0.1959567,Pharmacy,25,71.11,True,Zipline
+Unnamed Pharmacy,5.613723,-0.1970549,Pharmacy,25,71.05,True,Zipline
+Unnamed Pharmacy,9.4070156,-0.8413305,Pharmacy,0,3.9,True,MASA
+Unnamed Pharmacy,9.4549391,-0.8618576,Pharmacy,0,9.45,True,MASA
+Unnamed Pharmacy,6.9822811,-2.38736,Pharmacy,8,19.78,True,MASA
+Unnamed Pharmacy,6.1301195,0.7902956,Pharmacy,9,23.82,True,MASA
+Unnamed Pharmacy,5.5698108,-0.2393468,Pharmacy,25,74.0,True,Zipline
+Unnamed Pharmacy,5.566578,-0.2150059,Pharmacy,25,75.21,True,Zipline
+Unnamed Pharmacy,6.7121104,-1.522454,Pharmacy,26,40.96,True,Zipline
+Unnamed Pharmacy,5.6238756,-0.2406312,Pharmacy,25,68.26,True,Zipline
+Unnamed Pharmacy,5.498851,-0.3669524,Pharmacy,25,78.75,True,Zipline
+Unnamed Pharmacy,6.6871482,-1.573681,Pharmacy,26,45.83,True,Zipline
+Unnamed Pharmacy,5.5695016,-0.1684745,Pharmacy,25,76.82,True,Zipline
+Unnamed Pharmacy,5.9986489,0.5951591,Pharmacy,29,72.48,True,Zipline
+Unnamed Pharmacy,5.652991,-0.1300362,Pharmacy,25,70.42,True,Zipline
+Unnamed Pharmacy,5.6828539,-0.1361645,Pharmacy,25,67.21,True,Zipline
+Unnamed Pharmacy,5.5593212,-0.2226058,Pharmacy,25,75.69,True,Zipline
+Unnamed Pharmacy,4.9206948,-1.7667953,Pharmacy,3,6.05,True,MASA
+Unnamed Pharmacy,5.3094326,-1.996409,Pharmacy,6,8.77,True,MASA
+Unnamed Pharmacy,6.1013264,1.1474524,Pharmacy,9,17.87,True,MASA
+Unnamed Pharmacy,5.5316828,-0.7004953,Pharmacy,4,17.03,True,MASA
+Unnamed Pharmacy,5.5835083,-0.1420238,Pharmacy,25,76.63,True,Zipline
+Unnamed Pharmacy,5.0162252,-1.6646342,Pharmacy,3,10.59,True,MASA
+Unnamed Pharmacy,6.0269096,0.3754811,Pharmacy,29,56.47,True,Zipline
+Unnamed Pharmacy,5.6480385,-0.179018,Pharmacy,25,68.39,True,Zipline
+Unnamed Pharmacy,5.5823037,-0.2165687,Pharmacy,25,73.51,True,Zipline
+Unnamed Pharmacy,5.5477393,-0.3390086,Pharmacy,25,73.79,True,Zipline
+Unnamed Pharmacy,5.5555436,-0.3400994,Pharmacy,25,72.91,True,Zipline
+Unnamed Pharmacy,5.5372239,-0.4061125,Pharmacy,25,74.13,True,Zipline
+Unnamed Pharmacy,5.5396332,-0.4032044,Pharmacy,25,73.88,True,Zipline
+Unnamed Pharmacy,5.5709345,-0.2325917,Pharmacy,25,74.12,True,Zipline
+Unnamed Pharmacy,5.5875796,-0.2354186,Pharmacy,25,72.26,True,Zipline
+Unnamed Pharmacy,5.7907414,0.0027746,Pharmacy,25,67.55,True,Zipline
+Unnamed Pharmacy,5.8930467,0.985625,Pharmacy,9,18.14,True,MASA
+Unnamed Pharmacy,5.6503333,-0.1503631,Pharmacy,25,69.59,True,Zipline
+Unnamed Pharmacy,5.5759148,-0.2086516,Pharmacy,25,74.48,True,Zipline
+Unnamed Pharmacy,5.6102627,-0.242815,Pharmacy,25,69.61,True,Zipline
+Unnamed Pharmacy,5.4282328,-0.958741,Pharmacy,1,27.11,True,MASA
+Unnamed Pharmacy,6.456391,-2.3224632,Pharmacy,28,35.38,True,Zipline
+Unnamed Pharmacy,6.8636138,-2.4477957,Pharmacy,28,75.9,True,Zipline
+Unnamed Pharmacy,5.5364635,-0.2213445,Pharmacy,25,78.15,True,Zipline
+Unnamed Pharmacy,6.1083771,-0.0110179,Pharmacy,29,46.41,True,Zipline
+Unnamed Pharmacy,6.1209826,-0.0028942,Pharmacy,29,44.77,True,Zipline
+Unnamed Pharmacy,6.14357,0.0083981,Pharmacy,29,41.97,True,Zipline
+Unnamed Pharmacy,5.6170947,-0.0945573,Pharmacy,25,75.85,True,Zipline
+Unnamed Pharmacy,5.607243,-0.249139,Pharmacy,25,69.71,True,Zipline
+Unnamed Pharmacy,5.750034,-0.1827257,Pharmacy,25,58.16,True,Zipline
+Unnamed Pharmacy,6.0975596,-0.2561659,Pharmacy,25,24.04,True,Zipline
+Unnamed Pharmacy,5.6045211,-0.2448186,Pharmacy,25,70.14,True,Zipline
+Unnamed Pharmacy,6.7724299,-1.6459341,Pharmacy,26,42.55,True,Zipline
+Unnamed Pharmacy,7.8337554,-1.7955021,Pharmacy,12,0.0,True,MASA
+Unnamed Pharmacy,8.6646154,-1.5197944,Pharmacy,24,0.94,True,MASA
+Unnamed Pharmacy,8.0533061,-1.7270297,Pharmacy,12,25.55,True,MASA
+Unnamed Pharmacy,10.9043434,-1.091216,Pharmacy,27,69.49,True,Zipline
+Unnamed Pharmacy,9.500901,-0.0239287,Pharmacy,15,24.71,True,MASA
+Unnamed Pharmacy,9.037465,-0.0120927,Pharmacy,15,27.47,True,MASA
+Unnamed Pharmacy,8.5873985,0.2390698,Pharmacy,13,13.09,True,MASA
+Unnamed Pharmacy,9.21908,0.0218496,Pharmacy,15,7.08,True,MASA
+Unnamed Pharmacy,8.8582192,0.05635,Pharmacy,-1,-1.0,False,Aucun
+Unnamed Pharmacy,8.8558351,0.0578184,Pharmacy,-1,-1.0,False,Aucun
+Unnamed Pharmacy,8.7950798,0.0600275,Pharmacy,-1,-1.0,False,Aucun
+Unnamed Pharmacy,9.2826508,0.0185152,Pharmacy,15,0.0,True,MASA
+Unnamed Pharmacy,8.2603024,0.5222614,Pharmacy,30,78.16,True,Zipline
+Unnamed Pharmacy,5.7148515,-0.0144732,Pharmacy,25,72.27,True,Zipline
+Unnamed Pharmacy,6.8446732,0.4353927,Pharmacy,2,29.96,True,MASA
+Unnamed Pharmacy,5.7194571,-0.0132306,Pharmacy,25,71.97,True,Zipline
+Unnamed Pharmacy,5.6889911,-0.0132154,Pharmacy,25,74.54,True,Zipline
+Unnamed Pharmacy,6.3663386,0.1838588,Pharmacy,29,13.79,True,Zipline
+Unnamed Pharmacy,5.1050349,-1.2758382,Pharmacy,1,26.72,True,MASA
+Unnamed Pharmacy,5.7059529,-0.1493247,Pharmacy,25,64.26,True,Zipline
+Unnamed Pharmacy,5.7135972,-0.1508882,Pharmacy,25,63.44,True,Zipline
+Unnamed Pharmacy,5.6401013,-0.0923327,Pharmacy,25,73.79,True,Zipline
+Unnamed Pharmacy,6.8052517,-2.5162067,Pharmacy,28,69.39,True,Zipline
+Unnamed Pharmacy,9.4391843,-0.8806631,Pharmacy,0,9.5,True,MASA
+Unnamed Pharmacy,9.4341994,-0.8688936,Pharmacy,0,8.17,True,MASA
+Unnamed Pharmacy,9.3758348,-0.8787825,Pharmacy,0,7.11,True,MASA
+Unnamed Pharmacy,9.4040771,-0.9008554,Pharmacy,0,9.73,True,MASA
+Unnamed Pharmacy,9.381112,-0.8486031,Pharmacy,0,3.75,True,MASA
+Unnamed Pharmacy,9.3571382,-0.8520256,Pharmacy,0,5.08,True,MASA
+Unnamed Pharmacy,9.3387742,-0.8190727,Pharmacy,0,5.05,True,MASA
+Unnamed Pharmacy,9.4262996,-0.8340562,Pharmacy,0,5.17,True,MASA
+Unnamed Pharmacy,9.4342524,-0.7720172,Pharmacy,0,7.28,True,MASA
+Unnamed Pharmacy,9.4699444,-0.8192707,Pharmacy,0,9.57,True,MASA
+Unnamed Pharmacy,9.4641496,-0.8264251,Pharmacy,0,9.01,True,MASA
+Unnamed Pharmacy,9.4625373,-0.8290497,Pharmacy,0,8.88,True,MASA
+Unnamed Pharmacy,6.8019152,-2.5134033,Pharmacy,28,69.01,True,Zipline
+Unnamed Pharmacy,5.6030406,-0.0925735,Pharmacy,25,77.3,True,Zipline
+Unnamed Pharmacy,6.8032819,-2.5146278,Pharmacy,28,69.16,True,Zipline
+Unnamed Pharmacy,6.8037647,-2.5148652,Pharmacy,28,69.22,True,Zipline
+Unnamed Pharmacy,5.6229952,-0.0862296,Pharmacy,25,75.76,True,Zipline
+Unnamed Pharmacy,6.8047438,-2.5158703,Pharmacy,28,69.33,True,Zipline
+Unnamed Pharmacy,7.3376557,-2.320804,Pharmacy,8,21.86,True,MASA
+Unnamed Pharmacy,5.6201169,-0.1078615,Pharmacy,25,74.81,True,Zipline
+Unnamed Pharmacy,9.4610914,-0.8680281,Pharmacy,0,10.39,True,MASA
+Unnamed Pharmacy,8.144827,-0.1540547,Pharmacy,30,41.59,True,Zipline
+Unnamed Pharmacy,6.6900562,-1.6073444,Pharmacy,26,47.35,True,Zipline
+Unnamed Pharmacy,5.5874926,-0.1065635,Pharmacy,25,78.04,True,Zipline
+Unnamed Pharmacy,10.776952,-0.8682704,Pharmacy,27,48.33,True,Zipline
+Unnamed Pharmacy,9.4142493,-0.8631999,Pharmacy,0,6.31,True,MASA
+Unnamed Pharmacy,9.4043446,-0.9106317,Pharmacy,0,10.78,True,MASA
+Unnamed Pharmacy,9.4290365,-0.9156432,Pharmacy,0,12.17,True,MASA
+Unnamed Pharmacy,9.4132945,-0.8469236,Pharmacy,0,4.82,True,MASA
+Unnamed Pharmacy,5.7530506,0.0457586,Pharmacy,25,73.89,True,Zipline
+Unnamed Pharmacy,5.7570049,0.0491561,Pharmacy,25,73.87,True,Zipline
+Unnamed Pharmacy,9.7446283,-0.8237217,Pharmacy,27,67.02,True,Zipline
+Unnamed Pharmacy,9.8625151,-0.870556,Pharmacy,27,54.37,True,Zipline
+Unnamed Pharmacy,9.4030849,-0.8410064,Pharmacy,0,3.6,True,MASA
+Unnamed Pharmacy,9.4626361,-0.8461139,Pharmacy,0,9.41,True,MASA
+Unnamed Pharmacy,10.3975025,-0.7858905,Pharmacy,27,5.94,True,Zipline
+Unnamed Pharmacy,10.4730388,-0.7936904,Pharmacy,27,14.06,True,Zipline
+Unnamed Pharmacy,10.527837,-0.3701711,Pharmacy,27,51.48,True,Zipline
+Unnamed Pharmacy,5.6283169,-0.2510541,Pharmacy,25,67.42,True,Zipline
+Unnamed Pharmacy,10.7174307,-0.8662153,Pharmacy,27,41.76,True,Zipline
+Unnamed Pharmacy,10.726383,-0.8657816,Pharmacy,27,42.73,True,Zipline
+Unnamed Pharmacy,5.58673,-0.2515522,Pharmacy,25,71.8,True,Zipline
+Unnamed Pharmacy,5.631006,-0.0900403,Pharmacy,25,74.79,True,Zipline
+Unnamed Pharmacy,5.591326,-0.1804885,Pharmacy,25,74.06,True,Zipline
+Unnamed Pharmacy,5.6039146,-1.5470374,Pharmacy,10,12.67,True,MASA
+Unnamed Pharmacy,5.6643066,-0.204411,Pharmacy,25,65.57,True,Zipline
+Unnamed Pharmacy,5.6862912,-0.1693591,Pharmacy,25,65.07,True,Zipline
+Unnamed Pharmacy,5.6512174,-0.2372205,Pharmacy,25,65.53,True,Zipline
+Unnamed Pharmacy,5.0626406,-2.7766584,Pharmacy,11,0.0,True,MASA
+Unnamed Pharmacy,5.0629333,-2.7771963,Pharmacy,11,0.07,True,MASA
+Unnamed Pharmacy,5.5356032,-0.2284627,Pharmacy,25,77.99,True,Zipline
+Unnamed Pharmacy,5.5314928,-0.3245533,Pharmacy,25,75.84,True,Zipline
+Unnamed Pharmacy,5.6572599,-0.3030799,Pharmacy,25,62.68,True,Zipline
+Unnamed Pharmacy,5.7176285,0.126152,Pharmacy,-1,-1.0,False,Aucun
+Unnamed Pharmacy,5.5882313,-0.2076246,Pharmacy,25,73.24,True,Zipline
+Unnamed Pharmacy,5.6252278,-0.1348684,Pharmacy,25,72.86,True,Zipline
+Unnamed Pharmacy,5.6866721,-0.1760895,Pharmacy,25,64.69,True,Zipline
+Unnamed Pharmacy,5.6373201,-0.2139386,Pharmacy,25,67.91,True,Zipline
+Unnamed Pharmacy,5.6433513,-0.2232717,Pharmacy,25,66.91,True,Zipline
+Unnamed Pharmacy,5.1460047,-1.2811691,Pharmacy,1,25.74,True,MASA
+Unnamed Pharmacy,5.8218406,-2.8237813,Pharmacy,28,54.88,True,Zipline
+Unnamed Pharmacy,5.8299998,-2.8209091,Pharmacy,28,54.0,True,Zipline
+Unnamed Pharmacy,6.5465359,0.6953913,Pharmacy,29,59.22,True,Zipline
+Unnamed Pharmacy,5.7719154,-2.7441694,Pharmacy,28,53.89,True,Zipline
+Unnamed Pharmacy,5.6100278,-2.7341031,Pharmacy,28,69.33,True,Zipline
+Unnamed Pharmacy,6.5270831,0.2242927,Pharmacy,29,8.06,True,Zipline
+Unnamed Pharmacy,5.861134,0.7619456,Pharmacy,-1,-1.0,False,Aucun
+Unnamed Pharmacy,5.5952672,-0.1998648,Pharmacy,25,72.83,True,Zipline
+Unnamed Pharmacy,5.6732006,-0.1094704,Pharmacy,25,69.67,True,Zipline
+Unnamed Pharmacy,5.5903667,-0.1360283,Pharmacy,25,76.24,True,Zipline
+Unnamed Pharmacy,5.5389859,-0.248778,Pharmacy,25,76.96,True,Zipline
+Unnamed Pharmacy,5.1440254,-1.2831078,Pharmacy,1,26.01,True,MASA
+Unnamed Pharmacy,10.7871975,-0.8144192,Pharmacy,27,48.96,True,Zipline
+Unnamed Pharmacy,10.7841309,-0.8014749,Pharmacy,27,48.61,True,Zipline
+Unnamed Pharmacy,5.6775386,-0.0153169,Pharmacy,25,75.37,True,Zipline
+Unnamed Pharmacy,6.6582845,-1.5374715,Pharmacy,26,47.14,True,Zipline
+Unnamed Pharmacy,5.4943964,-0.6895469,Pharmacy,4,12.73,True,MASA
+Unnamed Pharmacy,10.0652295,-2.4997954,Pharmacy,7,4.54,True,MASA
+Unnamed Pharmacy,10.0338061,-2.4739808,Pharmacy,7,7.4,True,MASA
+Unnamed Pharmacy,5.5678337,-2.0117938,Pharmacy,6,23.79,True,MASA
+Unnamed Pharmacy,5.7874001,-0.1628449,Pharmacy,25,55.81,True,Zipline
+Unnamed Pharmacy,5.7912037,-0.157524,Pharmacy,25,55.79,True,Zipline
+Unnamed Pharmacy,5.7904749,-0.158601,Pharmacy,25,55.79,True,Zipline
+Unnamed Pharmacy,5.6763539,-0.1723844,Pharmacy,25,65.9,True,Zipline
+Unnamed Pharmacy,5.2976961,-1.9996254,Pharmacy,6,9.98,True,MASA
+Unnamed Pharmacy,5.6253869,-0.0732856,Pharmacy,25,76.3,True,Zipline
+Unnamed Pharmacy,5.6172532,-0.124579,Pharmacy,25,74.18,True,Zipline
+Unnamed Pharmacy,5.6207789,-0.0708943,Pharmacy,25,76.88,True,Zipline
+Unnamed Pharmacy,5.7688001,-0.1220384,Pharmacy,25,60.11,True,Zipline
+Unnamed Pharmacy,5.6093885,-0.2469702,Pharmacy,25,69.56,True,Zipline
+Unnamed Pharmacy,5.6458414,-0.1368852,Pharmacy,25,70.74,True,Zipline
+Unnamed Pharmacy,4.9291754,-1.7638462,Pharmacy,3,5.56,True,MASA
+Unnamed Pharmacy,4.9957193,-1.6812788,Pharmacy,3,7.69,True,MASA
+Unnamed Pharmacy,7.3301048,-2.3295877,Pharmacy,8,20.7,True,MASA
+Unnamed Pharmacy,6.4531371,-2.3169834,Pharmacy,28,35.38,True,Zipline
+Unnamed Pharmacy,6.4492768,-2.315356,Pharmacy,28,35.11,True,Zipline
+Unnamed Pharmacy,5.5559561,-0.3045522,Pharmacy,25,73.6,True,Zipline
+Unnamed Pharmacy,6.8061066,-1.5431847,Pharmacy,26,32.65,True,Zipline
+Unnamed Pharmacy,6.7021772,-1.7481763,Pharmacy,26,56.02,True,Zipline
+Unnamed Pharmacy,5.7205171,-0.0583524,Pharmacy,25,68.66,True,Zipline
+Unnamed Pharmacy,10.0605771,-2.5306126,Pharmacy,7,1.33,True,MASA
+Unnamed Pharmacy,10.8912898,-1.0878627,Pharmacy,27,68.04,True,Zipline
+Unnamed Pharmacy,9.8712835,-2.4618213,Pharmacy,7,21.79,True,MASA
+Unnamed Pharmacy,9.8673366,-2.4621777,Pharmacy,7,22.18,True,MASA
+Unnamed Pharmacy,5.6164405,-0.0959933,Pharmacy,25,75.83,True,Zipline
+Unnamed Pharmacy,6.6995414,-1.612981,Pharmacy,26,46.78,True,Zipline
+Unnamed Pharmacy,6.7857215,-1.5696456,Pharmacy,26,36.14,True,Zipline
+Unnamed Pharmacy,6.6599097,-1.8423071,Pharmacy,26,66.85,True,Zipline
+Unnamed Pharmacy,5.7140365,-0.1988275,Pharmacy,25,60.84,True,Zipline
+Unnamed Pharmacy,5.7170227,-0.1764734,Pharmacy,25,61.7,True,Zipline
+Unnamed Pharmacy,5.6769512,-0.2391575,Pharmacy,25,62.79,True,Zipline
+Unnamed Pharmacy,5.6677962,-0.2485273,Pharmacy,25,63.37,True,Zipline
+Unnamed Pharmacy,5.672872,-0.2406078,Pharmacy,25,63.15,True,Zipline
+Unnamed Pharmacy,5.6510313,-0.1302357,Pharmacy,25,70.6,True,Zipline
+Unnamed Pharmacy,5.5341273,-0.4294632,Pharmacy,4,29.2,True,MASA
+Unnamed Pharmacy,5.5224359,-0.4779851,Pharmacy,4,24.09,True,MASA
+Unnamed Pharmacy,5.6175359,-0.1149752,Pharmacy,25,74.67,True,Zipline
+Unnamed Pharmacy,5.6158538,-0.1083811,Pharmacy,25,75.19,True,Zipline
+Unnamed Pharmacy,5.1210512,-1.2715589,Pharmacy,1,25.59,True,MASA
+Unnamed Pharmacy,5.7229155,-0.2039876,Pharmacy,25,59.7,True,Zipline
+Unnamed Pharmacy,5.2579046,-1.0218202,Pharmacy,1,7.05,True,MASA
+Unnamed Pharmacy,6.6868009,-1.607033,Pharmacy,26,47.64,True,Zipline
+Unnamed Pharmacy,6.7937465,-1.6446384,Pharmacy,26,40.73,True,Zipline
+Unnamed Pharmacy,6.7787883,-1.6434644,Pharmacy,26,41.84,True,Zipline
+Unnamed Pharmacy,5.5482719,-0.4048959,Pharmacy,25,72.91,True,Zipline
+Unnamed Pharmacy,5.7328258,-0.3128047,Pharmacy,25,54.29,True,Zipline
+Unnamed Pharmacy,6.6881906,-1.5935086,Pharmacy,26,46.76,True,Zipline
+Unnamed Pharmacy,5.6336404,-0.0875989,Pharmacy,25,74.68,True,Zipline
+Unnamed Pharmacy,6.6651728,-1.5269789,Pharmacy,26,46.02,True,Zipline
+Unnamed Pharmacy,6.6871201,-1.581291,Pharmacy,26,46.22,True,Zipline
+Unnamed Pharmacy,6.6726948,-1.5425558,Pharmacy,26,45.86,True,Zipline
+Unnamed Pharmacy,6.6710739,-1.5419279,Pharmacy,26,46.0,True,Zipline
+Unnamed Pharmacy,6.6674425,-1.5403605,Pharmacy,26,46.31,True,Zipline
+Unnamed Pharmacy,5.5947541,-0.4131544,Pharmacy,25,67.7,True,Zipline
+Unnamed Pharmacy,5.5880872,-0.4199641,Pharmacy,25,68.4,True,Zipline
+Unnamed Pharmacy,5.5535837,-0.4198647,Pharmacy,25,72.24,True,Zipline
+Unnamed Pharmacy,5.5815287,-0.2996917,Pharmacy,25,70.95,True,Zipline
+Unnamed Pharmacy,6.7055893,-1.6358383,Pharmacy,26,47.63,True,Zipline
+Unnamed Pharmacy,6.6380621,-1.6212716,Pharmacy,26,53.12,True,Zipline
+Unnamed Pharmacy,6.6580499,-1.6191752,Pharmacy,26,51.08,True,Zipline
+Unnamed Pharmacy,6.6998516,-1.6211143,Pharmacy,26,47.24,True,Zipline
+Unnamed Pharmacy,6.7006145,-1.7174459,Pharmacy,26,53.77,True,Zipline
+Unnamed Pharmacy,5.6233726,-0.234689,Pharmacy,25,68.53,True,Zipline
+Unnamed Pharmacy,4.8888154,-1.9650078,Pharmacy,3,28.27,True,MASA
+Unnamed Pharmacy,5.577008,-0.2985254,Pharmacy,25,71.47,True,Zipline
+Unnamed Pharmacy,5.5929854,-0.1519941,Pharmacy,25,75.2,True,Zipline
+Unnamed Pharmacy,5.6924787,-0.0263216,Pharmacy,25,73.32,True,Zipline
+Unnamed Pharmacy,5.5484121,-0.2093946,Pharmacy,25,77.32,True,Zipline
+Unnamed Pharmacy,5.6811553,-0.3398973,Pharmacy,25,59.17,True,Zipline
+Unnamed Pharmacy,5.6605156,-0.1316733,Pharmacy,25,69.6,True,Zipline
+Unnamed Pharmacy,5.6864326,-0.1166848,Pharmacy,25,68.0,True,Zipline
+Unnamed Pharmacy,5.8210363,-0.1205815,Pharmacy,25,55.66,True,Zipline
+Unnamed Pharmacy,5.6605647,-0.1316649,Pharmacy,25,69.6,True,Zipline
+Unnamed Pharmacy,10.0030408,-2.4374314,Pharmacy,7,12.38,True,MASA
+Unnamed Pharmacy,5.7226573,-0.2231839,Pharmacy,25,58.8,True,Zipline
+Unnamed Pharmacy,9.4108563,-0.8458237,Pharmacy,0,4.55,True,MASA
+Unnamed Pharmacy,9.3912844,-0.8404426,Pharmacy,0,2.96,True,MASA
+Unnamed Pharmacy,5.8640981,0.4330329,Pharmacy,29,75.6,True,Zipline
+Unnamed Pharmacy,5.8635207,0.4333225,Pharmacy,29,75.67,True,Zipline
+Unnamed Pharmacy,10.5343726,-0.3740678,Pharmacy,27,51.37,True,Zipline
+Unnamed Pharmacy,10.5240961,-0.3698731,Pharmacy,27,51.35,True,Zipline
+Unnamed Pharmacy,10.5216273,-0.3672441,Pharmacy,27,51.51,True,Zipline
+Unnamed Pharmacy,10.5261017,-0.3689643,Pharmacy,27,51.52,True,Zipline
+Unnamed Pharmacy,6.477494,-0.6567451,Pharmacy,25,38.41,True,Zipline
+Unnamed Pharmacy,6.7033425,-1.6124471,Pharmacy,26,46.39,True,Zipline
+Unnamed Pharmacy,5.5372664,-0.4061284,Pharmacy,25,74.13,True,Zipline
+Unnamed Pharmacy,5.6146008,-0.2460799,Pharmacy,25,69.04,True,Zipline
+Unnamed Pharmacy,5.6751552,-0.0231366,Pharmacy,25,75.04,True,Zipline
+Unnamed Pharmacy,5.5862745,-0.1970648,Pharmacy,25,73.88,True,Zipline
+Unnamed Pharmacy,10.79159,-0.7925439,Pharmacy,27,49.45,True,Zipline
+Unnamed Pharmacy,8.2011846,-0.1320589,Pharmacy,30,46.71,True,Zipline
+Unnamed Pharmacy,8.2019149,-0.1310091,Pharmacy,30,46.76,True,Zipline
+Unnamed Pharmacy,5.561151,-0.1851506,Pharmacy,25,76.96,True,Zipline
+Unnamed Pharmacy,5.479832,-0.5602604,Pharmacy,4,14.15,True,MASA
+Unnamed Pharmacy,5.5455338,-0.4033586,Pharmacy,25,73.23,True,Zipline
+Unnamed Pharmacy,5.9110144,0.9906233,Pharmacy,9,16.13,True,MASA
+Unnamed Pharmacy,5.7144889,-0.1872516,Pharmacy,25,61.38,True,Zipline
+Unnamed Pharmacy,5.8229134,-0.1218929,Pharmacy,25,55.4,True,Zipline
+Uptown Pharmacy,5.7026628,-0.030382,Pharmacy,25,72.16,True,Zipline
+Verdi Pharmacy,6.1203543,1.1805651,Pharmacy,9,22.0,True,MASA
+Verdi Pharmacy,6.1174636,1.1808043,Pharmacy,9,21.92,True,MASA
+Vero Chemists Limited,6.6986672,-1.707559,Pharmacy,26,53.19,True,Zipline
+Veronica Sasah,5.5091696,-0.3377949,Pharmacy,25,78.04,True,Zipline
+Vicar Pharmacy,5.6221882,-0.0911076,Pharmacy,25,75.56,True,Zipline
+Vicdoris Pharmacy,5.5741404,-0.2308805,Pharmacy,25,73.84,True,Zipline
+Vicdoris Pharmacy,5.5716996,-0.2058184,Pharmacy,25,75.03,True,Zipline
+Vicmag Pharmacy,5.6006489,-0.1037581,Pharmacy,25,76.92,True,Zipline
+Vins Pharmacy,5.2900437,-2.7773217,Pharmacy,11,25.29,True,MASA
+Vir-Tee Pharmacy,6.1551823,0.0607029,Pharmacy,29,38.73,True,Zipline
+Visat Pharmacy,5.6838838,-0.1806008,Pharmacy,25,64.74,True,Zipline
+Vital Pharmacy,6.6477953,-1.6435323,Pharmacy,26,53.45,True,Zipline
+Vivis Pharma,5.528026,-0.452498,Pharmacy,4,26.72,True,MASA
+Voek Pharmacy,5.7617984,0.0519873,Pharmacy,25,73.75,True,Zipline
+Wellmark Pharmacy,5.6812239,-0.1931704,Pharmacy,25,64.39,True,Zipline
+Weseh Chemical Store,5.6154238,-0.2396658,Pharmacy,25,69.18,True,Zipline
+Wesley Pharmacy,6.0879701,-0.2549351,Pharmacy,25,24.7,True,Zipline
+Western Chemicals,4.8965139,-1.7568575,Pharmacy,3,6.37,True,MASA
+Western Pharmacy,6.6997152,-1.6506044,Pharmacy,26,49.12,True,Zipline
+Westlife Pharmacy,5.5289082,-0.2643292,Pharmacy,25,77.58,True,Zipline
+Westlink Chemists Limited,5.3058609,-1.9948473,Pharmacy,6,8.95,True,MASA
+White Tower,5.5611214,-0.2152962,Pharmacy,25,75.77,True,Zipline
+Widama Pharmacy,5.6901826,-0.0304879,Pharmacy,25,73.22,True,Zipline
+Wilhelm Pharmacy,5.3006073,-2.0030463,Pharmacy,6,9.99,True,MASA
+Willidark Chemical,6.8039489,-2.516668,Pharmacy,28,69.25,True,Zipline
+Wilmens Pharmacy,5.3061903,-1.9946284,Pharmacy,6,8.9,True,MASA
+Wilmort Pharmacy,4.9377799,-1.777874,Pharmacy,3,7.09,True,MASA
+Winefred Adjei,6.7959082,-2.5172277,Pharmacy,28,68.36,True,Zipline
+Worldview Pharmacy,5.6057445,-0.1882256,Pharmacy,25,72.25,True,Zipline
+X-Perts Pharmacy,5.652385,-0.0765088,Pharmacy,25,73.6,True,Zipline
+Xerion Chemist,9.4121451,-0.8657708,Pharmacy,0,6.43,True,MASA
+Xornam 360 Pharmacy LTD,6.628161,0.4756567,Pharmacy,29,37.92,True,Zipline
+Yakos Pharmacy,5.7340192,-0.1749534,Pharmacy,25,60.13,True,Zipline
+Yomefa Pharmacy,6.5942676,0.471896,Pharmacy,29,36.15,True,Zipline
+Z. A Herbal Home,5.5823184,-0.2029019,Pharmacy,25,74.05,True,Zipline
+Zagus Chemicals,5.5795963,-0.2027965,Pharmacy,25,74.33,True,Zipline
+Zip Pharmacy,6.5438865,-0.7607826,Pharmacy,25,51.46,True,Zipline
+Zizi's Pharmacy,5.6480879,-0.1330656,Pharmacy,25,70.73,True,Zipline
+Zoe Pharmacy,5.6674763,-0.1856089,Pharmacy,25,66.13,True,Zipline
+pile box,5.766477,0.0614195,Pharmacy,25,74.19,True,Zipline

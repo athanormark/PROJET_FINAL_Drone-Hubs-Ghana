@@ -1,0 +1,31 @@
+# Python et environnement
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Données brutes (reproductibles via ETL)
+data/raw/
+
+# Cartes Folium générées (reproductibles via notebooks)
+*.html
+
+# Notebooks archive et anciennes versions
+notebooks/archive/
+notebooks/archive_*.ipynb
+
+# Fichiers internes (non livrables)
+PRESENTATION_CONTENT.md
+ROADMAP.md
+FICHE_ANTI_QUESTIONS.md
+LECONS_PRESENTATION.txt
+*.pptx
+
+# Dev tools
+.claude/

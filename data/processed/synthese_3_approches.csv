@@ -1,0 +1,4 @@
+Approche,Auteur,Hubs_DHG,Hubs_Zipline,Type_hubs,Rayon_km,Couverture_pct,Drones,CAPEX_USD,OPEX_an_USD,TCO_5ans_USD,Avantage
+1. Standard from scratch,Athanor SAVOUILLAN,11,0,Standard (2M$/hub),80,91.9,110,22000000,3421000,39105000,Référence de dimensionnement classique
+2. Extension Zipline,Semia BEN AMARA,5,6,Standard (2M$/hub),80,93.3,75,10000000,1800000,19000000,Complète le réseau existant à moindre coût
+3. Micro-hubs VTOL (MCLP),Mathieu LE FAOU,25,6,Micro solaire (50K$/hub),30,98.1,79,1252500,632200,4413500,Couverture maximale et coût minimal
