@@ -154,7 +154,7 @@ def extract_healthsites_csv() -> pd.DataFrame:
     print(f"    Lignes brutes : {len(raw)}")
     print(f"    Colonnes : {list(raw.columns)}")
 
-    # Identifier les colonnes de coordonnees
+    # Identifier les colonnes de coordonnées
     lat_col = None
     lon_col = None
     for c in raw.columns:
@@ -172,7 +172,7 @@ def extract_healthsites_csv() -> pd.DataFrame:
         if len(num_cols) >= 2:
             lon_col, lat_col = num_cols[0], num_cols[1]
         else:
-            print("    ECHEC : impossible d'identifier les coordonnees.")
+            print("    ECHEC : impossible d'identifier les coordonnées.")
             return pd.DataFrame()
 
     print(f"    Colonnes detectees : lat={lat_col}, lon={lon_col}")
@@ -477,7 +477,7 @@ def _merge_attributes(base_df, base_idx, new_row, source_name):
     current_name = base_df.at[base_idx, "name"]
     new_name = new_row.get("name", "")
 
-    # Preferer le nom le plus specifique
+    # Préférer le nom le plus spécifique
     if (not current_name or current_name in ("", "Unknown Facility", "Clinic")) and new_name:
         base_df.at[base_idx, "name"] = new_name
 
@@ -606,7 +606,7 @@ def build_facility_dataset(save_intermediates: bool = True) -> pd.DataFrame:
     ]
     print(f"    Apres bbox Ghana : {len(merged)} (supprime {before - len(merged)})")
 
-    # Doublons exacts de coordonnees
+    # Doublons exacts de coordonnées
     before = len(merged)
     merged = merged.drop_duplicates(subset=["latitude", "longitude"], keep="first")
     print(f"    Apres deduplications coords : {len(merged)} (supprime {before - len(merged)})")
@@ -678,7 +678,7 @@ def verify_dataset(df: pd.DataFrame):
 
     # Doublons coords
     dupes = df.duplicated(subset=["Latitude", "Longitude"]).sum()
-    print(f"  Doublons coordonnees : {dupes} {'OK' if dupes == 0 else 'PROBLEME'}")
+    print(f"  Doublons coordonnées : {dupes} {'OK' if dupes == 0 else 'PROBLEME'}")
 
     # Distribution confiance
     print(f"\n  Score de confiance :")
@@ -875,7 +875,7 @@ def validate_village_dataset(
     n_nan = df.isna().sum().sum()
     print(f"  {'NaN total':>30s} : {n_nan}")
     n_dup = df.duplicated(subset=["Latitude", "Longitude"]).sum()
-    print(f"  {'Doublons coordonnees':>30s} : {n_dup}")
+    print(f"  {'Doublons coordonnées':>30s} : {n_dup}")
 
     # Types de facility
     print(f"\n  TYPES DE FACILITY")

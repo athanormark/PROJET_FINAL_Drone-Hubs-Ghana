@@ -11,7 +11,7 @@
 Projet de groupe — certification Jedha Bootcamp (BLOC 6 — Direction de projets de gestion de données)
 Promotion DSFS-FT-39-2026
 
-**Application déployée** : [projetfinaldrone-apps-ghana.streamlit.app](https://projetfinaldrone-apps-ghana.streamlit.app/)
+Application déployée : [projetfinaldrone-apps-ghana.streamlit.app](https://projetfinaldrone-apps-ghana.streamlit.app/)
 
 ---
 
@@ -21,7 +21,7 @@ Les zones rurales du Ghana (44 % de la population, ~14,5 millions de personnes) 
 
 Ce projet utilise le Machine Learning non supervisé (K-Means) pour déterminer où placer des hubs de drones médicaux capables de livrer sang, vaccins et antivenins dans un rayon de 80 km (autonomie drone 160 km aller-retour, distances calculées par formule de Haversine).
 
-Trois approches de modélisation ont été comparées. Le réseau hybride retenu couvre 98 % des établissements de santé du pays.
+Trois approches de modélisation ont été comparées sur les facilities rurales (1 150 sur 2 463). Le réseau hybride retenu couvre 98 % des facilities rurales du pays.
 
 ---
 
@@ -40,7 +40,7 @@ Trois approches de modélisation ont été comparées. Le réseau hybride retenu
 
 Le marché de la livraison médicale par drone est évalué à 294 M$ en 2024, projeté à 2,5 Mds$ d'ici 2034 (CAGR 24,1 %). L'Afrique subsaharienne affiche une croissance supérieure à 40 %.
 
-Au Ghana, l'opérateur dominant Zipline (valorisé 7,6 Mds$) facture ~88 000 $/mois par centre au gouvernement, qui a accumulé ~15 M$ d'impayés en 2025. Les 6 hubs Zipline existants ne couvrent que 73 % des établissements de santé dans un rayon de 80 km.
+Au Ghana, l'opérateur dominant Zipline (valorisé 7,6 Mds$) facture ~88 000 $/mois par centre au gouvernement, qui a accumulé ~15 M$ d'impayés en 2025. Les 6 hubs Zipline existants ne couvrent que 65,6 % des facilities rurales dans un rayon de 80 km.
 
 Pour l'analyse concurrentielle complète, voir le [Cadrage Business](docs/cadrage_business.md).
 
@@ -65,7 +65,7 @@ Les trois sources de facilities sont croisées par `osm_id` puis par proximité 
 |---------|--------|-------------|
 | `data/Final Group/ghana_villages_eda_final.csv` | 8 905 | Villages nettoyés, facility la plus proche |
 | `data/Final Group/ghana_health_eda_final.csv` | 2 463 | Facilities construites par ETL multi-source |
-| `data/processed/hubs_plan_final.csv` | 31 | Hubs optimisés (25 MASA + 6 Zipline) |
+| `data/processed/hubs_plan_final.csv` | 38 | Hubs optimisés (32 VTOL + 6 Zipline) |
 | `data/processed/villages_assigned_final.csv` | 8 905 | Villages assignés aux hubs |
 
 ### Chiffres clés du dataset
@@ -78,7 +78,7 @@ Les trois sources de facilities sont croisées par `osm_id` puis par proximité 
 | Distance maximale | 64,71 km |
 | Villages à plus de 30 km | 313 (3,5 %) |
 | Population isolée (> 30 km) | 423 015 |
-| Couverture Zipline actuelle (80 km) | 73 % (1 798 / 2 463) |
+| Couverture Zipline actuelle (rural, 80 km) | 65,6 % (754 / 1 150) |
 
 ---
 
@@ -88,33 +88,35 @@ Les trois sources de facilities sont croisées par `osm_id` puis par proximité 
 
 | Approche | Auteur | Rayon | Hubs | Couverture | CAPEX | TCO 5 ans |
 |----------|--------|-------|------|------------|-------|-----------|
-| From scratch (K-Means Standard) | Athanor | 80 km | 11 Standard | 91,9 % | 22 M$ | 39,1 M$ |
-| Extension Zipline (K=5 complément) | Semia | 80 km | 5 Standard + 6 Zipline | 93,3 % | 10 M$ | 19 M$ |
-| Micro-hubs VTOL (MCLP) | Mathieu | 30 km | 25 micro + 6 Zipline | 98,1 % | 1,25 M$ | 4,4 M$ |
+| From scratch (K-Means) | Athanor | 80 km | 11 hubs | 93,0 % | 10,3 M$ | 19,3 M$ |
+| Extension Zipline (K=5) | Semia | 80 km | 5 + 6 Zipline | 90,3 % | 10 M$ | 17,8 M$ |
+| Micro-hubs VTOL (MCLP) | Mathieu | 30 km | 32 micro + 6 Zipline | 98,1 % | 1,60 M$ | 5,65 M$ |
+
+Note : l'analyse porte sur les 1 150 facilities rurales (46,7 % des 2 463 totales). Les facilities urbaines sont exclues car elles disposent deja d'un acces routier fonctionnel.
 
 ### Réseau retenu (hybride VTOL)
 
 | Indicateur | Avant (Zipline seul) | Après (hybride) |
 |------------|---------------------|-----------------|
-| Facilities couvertes | 1 798 (73 %) | 2 417 (98,1 %) |
-| CAPEX total | Non chiffré (contrat Zipline) | 1,25 M$ (25 micro-hubs) |
-| OPEX annuel | ~6,3 M$/an (88 K$/centre) | 632 K$/an |
-| TCO 5 ans | ~31,5 M$ | 4,4 M$ |
+| Facilities rurales couvertes | 754 (65,6 %) | 1 128 (98,1 %) |
+| CAPEX total | Non chiffré (contrat Zipline) | 1,60 M$ (32 micro-hubs) |
+| TCO 5 ans | - | 5,65 M$ |
 
 ### Métriques ML
 
 | Indicateur | Valeur |
 |------------|--------|
-| Silhouette Score (K=11, from scratch) | 0,51 |
-| Couverture from scratch (K=11) | 91,9 % |
-| Couverture hybride retenu (25+6 hubs) | 98,1 % |
-| Couverture Zipline avant projet | 73,0 % |
+| Facilities rurales analysées | 1 150 (sur 2 463 totales) |
+| Silhouette Score (K=11, from scratch) | 0,52 |
+| Couverture from scratch (K=11) | 93,0 % |
+| Couverture hybride retenu (32+6 hubs) | 98,1 % |
+| Couverture Zipline seul (sur rural) | 65,6 % |
 
 ---
 
 ## Recommandations
 
-- Déployer le scénario hybride (25 micro-hubs VTOL + 6 hubs Zipline existants) pour maximiser la couverture à moindre coût.
+- Déployer le scénario hybride (32 micro-hubs VTOL + 6 hubs Zipline existants) pour maximiser la couverture à moindre coût.
 - Prioriser les zones Nord et Volta où la couverture Zipline actuelle est la plus faible (< 40 %).
 - Déploiement par phases : 8 micro-hubs prioritaires (zones critiques), puis 17 restants.
 - Partenariat opérateur : DHG fournit l'optimisation, un opérateur local ou international déploie la flotte.
@@ -201,7 +203,7 @@ PROJET_FINAL_Drone-Hubs-Ghana/
 │   │   ├── ghana_villages_eda_final.csv    # 8 905 villages
 │   │   └── ghana_health_eda_final.csv      # 2 463 facilities
 │   └── processed/
-│       ├── hubs_plan_final.csv             # 31 hubs (25 MASA + 6 Zipline)
+│       ├── hubs_plan_final.csv             # 38 hubs (32 VTOL + 6 Zipline)
 │       ├── villages_assigned_final.csv     # Villages assignés
 │       └── scenarios_comparison.csv        # Comparaison 3 scénarios
 ├── notebooks/
