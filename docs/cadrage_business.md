@@ -2,7 +2,7 @@
 
 **Plateforme d'optimisation de réseaux de drones medicaux au Ghana et en Afrique de l'Ouest**
 
-**Projet de certification Jedha Bootcamp — Data Science & Engineering**
+**Projet de certification Jedha Bootcamp, Data Science & Engineering**
 **Promotion : DSFS-FT-39-2026 | Date de soutenance : 27/03/2026**
 
 **Auteurs :**
@@ -34,7 +34,7 @@ Le marché de la livraison medicale par drone, evalue a 294 millions de dollars 
 
 Sur ce segment, Drone Hubs Ghana (DHG) se positionne comme une couche d'intelligence agnostique, comblant un espace technologique vide entre les opérateurs materiels de drones et les systemes de sante publics. Le projet developpe un moteur d'optimisation et un dashboard décisionnel pour concevoir et exploiter des réseaux de hubs de drones medicaux, independamment du materiel et potentiellement multi-opérateurs.
 
-Une fenetre d'opportunité immédiate s'ouvre au Ghana, ou le gouvernement a accumule environ 15 millions de dollars d'impayes envers l'opérateur monopolistique Zipline, entrainant la suspension de trois centrès logistiques. Cette situation cree un besoin urgent de solutions alternatives, moins couteuses et plus flexibles — exactement le positionnement de DHG.
+Une fenetre d'opportunité immédiate s'ouvre au Ghana, ou le gouvernement a accumule environ 15 millions de dollars d'impayes envers l'opérateur monopolistique Zipline, entrainant la suspension de trois centrès logistiques. Cette situation cree un besoin urgent de solutions alternatives, moins couteuses et plus flexibles, exactement le positionnement de DHG.
 
 Les projections économiques du scenario central sont prometteuses : un ratio LTV/CAC de 5,7, un amortissement d'acquisition en 9 a 10 mois et une marge brute superieure a 75 %. Toutefois, le projet est au stade embryonnaire (pre-revenu, en phase de prototypage) avec un moteur algorithmique central (K-Means sous contrainte stricte de 80 km et scoring medical) dont l'industrialisation reste a prouver.
 
@@ -297,7 +297,7 @@ Structure par tier :
 | Starter | 1 800 EUR | 70 % |
 | Pro | 4 500 EUR | 78 % |
 | Enterprise | 11 000 EUR | 81 % |
-| **ARPU blende mensuel** | **4 720 EUR** | — |
+| **ARPU blende mensuel** | **4 720 EUR** |, |
 
 ### 5.2. Coût d'acquisition client (CAC)
 
@@ -390,9 +390,9 @@ Le rayon operationnel de 80 km (autonomie 160 km aller-retour) modifie fondament
 | Temps de livraison max | 24 min | 48 min | +24 min au bord |
 | CAPEX réseau complet Ghana | ~37 M$ | ~15-20 M$ | -50 % coût réseau |
 
-Source technique : Zipline Platform 1 — autonomie documentee 300 km total, limitee operationnellement a 80 km one-way (160 km A/R) pour marge de sécurité batterie. Confirme par IEEE Spectrum et Engineering For Change.
+Source technique : Zipline Platform 1, autonomie documentee 300 km total, limitee operationnellement a 80 km one-way (160 km A/R) pour marge de sécurité batterie. Confirme par IEEE Spectrum et Engineering For Change.
 
-### 6.2. Taxonomie des hubs — référence industrie
+### 6.2. Taxonomie des hubs, référence industrie
 
 | Type | Drones | Vols/j max | Facilities | Zone couverte | Effectif | Surface |
 |---|---|---|---|---|---|---|
@@ -492,7 +492,7 @@ Facteurs de variation :
 - Mix urgences > 50 % : flotte x1,2
 - Operations nocturnes (24/7) : +40 % personnel
 
-### 6.6. Couverture optimale du Ghana — scenario 80 km
+### 6.6. Couverture optimale du Ghana, scenario 80 km
 
 | Parametre | Valeur |
 |---|---|
@@ -516,16 +516,16 @@ Positionnement optimal des 8 hubs :
 | 7 | Ho + est frontiere | Volta, Oti | Faible | Micro |
 | 8 | Wa + nord-ouest | Upper West, North West | Faible/Critique | Micro |
 
-CAPEX réseau 8 hubs — estimation déploiement Ghana :
+CAPEX réseau 8 hubs, estimation déploiement Ghana :
 
 | Type | Nb | CAPEX unitaire (mediane) | Sous-total |
 |---|---|---|---|
 | Large | 2 | 4,5 M$ | 9 M$ |
 | Standard | 4 | 2 M$ | 8 M$ |
 | Micro | 2 | 700 K$ | 1,4 M$ |
-| **TOTAL** | **8** | — | **18,4 M$** |
-| OPEX annuel réseau 8 hubs | — | — | ~6-9 M$/an |
-| Livraisons cibles/j (réseau complet) | — | — | 600-1 200 |
+| **TOTAL** | **8** |, | **18,4 M$** |
+| OPEX annuel réseau 8 hubs |, |, | ~6-9 M$/an |
+| Livraisons cibles/j (réseau complet) |, |, | 600-1 200 |
 
 ### 6.7. Impact sur le modele DHG
 
@@ -579,33 +579,33 @@ Grille de cotation :
 
 ### 7.3. Detail des risques critiques (score >= 16)
 
-**R10 — Reglementation GCAA (Score 20)**
+**R10, Reglementation GCAA (Score 20)**
 
 La Ghana Civil Aviation Authority renforce progressivement la regulation des drones, impose des licences obligatoires et sanctionne les opérateurs non conformes.
 
 - *Mitigation* : concevoir DHG comme un outil explicitement aligne sur le cadre GCAA (parametrès de hauteur de vol, couloirs, no-fly zones). Prevoir une fonctionnalite de conformite.
 - *Contingence* : adapter DHG a des cas d'usage limites géographiquement (zones rurales a faible densite de trafic aérien) ou a des scénarios de planification strategique plutot que d'operations temps reel.
 
-**R4 — Qualite des donnees (Score 20)**
+**R4, Qualite des donnees (Score 20)**
 
 Donnees brutes heterogenes (NaN, doublons, valeurs aberrantes) pouvant entrainer des hubs mal positionnes ou une couverture surestimée.
 
 - *Mitigation* : pipeline ETL robuste avec controles systematiques, documentation claire des hypotheses de nettoyage.
 - *Contingence* : reduire le perimetre du MVP a un sous-ensemble de regions avec donnees plus fiables. Taguer explicitement les "zones grises".
 
-**R13 — Biais percus dans la couverture (Score 16)**
+**R13, Biais percus dans la couverture (Score 16)**
 
 Les choix de hubs peuvent etre percus comme favorisant certaines regions si les donnees d'entree refletent des inegalites historiques.
 
 - *Mitigation* : formaliser le scoring medical comme outil de reduction des inegalites. Proposer des indicateurs d'equite (pourcentage de population vulnerable couverte).
 
-**R2 — Concurrence Zipline (Score 16)**
+**R2, Concurrence Zipline (Score 16)**
 
 Zipline opere déjà plusieurs hubs au Ghana et a developpe ses propres outils d'optimisation internes.
 
 - *Mitigation* : positionnement "vendor-agnostic" ; DHG comme outil neutre utilisable par plusieurs opérateurs ou autorites, avec un focus sur la transparence des critères medicaux.
 
-**R6 — Contrainte 80 km (Score 16)**
+**R6, Contrainte 80 km (Score 16)**
 
 L'algorithme K-Means standard ne garantit pas que tous les points d'un cluster sont dans un rayon de 80 km du centroide (soit 160 km aller-retour, correspondant a l'autonomie maximale des drones).
 
@@ -614,32 +614,32 @@ L'algorithme K-Means standard ne garantit pas que tous les points d'un cluster s
 
 ### 7.4. Detail des risques majeurs (score 12-15)
 
-**R11 — Protection des donnees (Score 15)**
+**R11, Protection des donnees (Score 15)**
 
 Gestion inadequate des donnees de sante ou de vulnerabilite géographique.
 
 - *Mitigation* : limiter les donnees a des agregats non identifiants. Documenter les regles d'anonymisation.
 
-**R14 — Incident operationnel (Score 15)**
+**R14, Incident operationnel (Score 15)**
 
 Un echec de livraison critique pourrait etre mediatiquement attribue a DHG, meme si la cause est operationnelle.
 
 - *Mitigation* : integrer des logs détaillés des décisions de routage. Encadrer l'usage par des disclaimers clairs.
 
-**R1 — Faible adoption (Score 15)**
+**R1, Faible adoption (Score 15)**
 
 Difficulte a convaincre le Ghana Health Service et les ONG d'integrer un nouvel outil.
 
 - *Mitigation* : co-construction precoce avec la logique operationnelle des centrès de sante. Positionner DHG comme outil d'aide a la décision leger et interoperable.
 - *Contingence* : re-cibler vers un usage "outil de conseil / POC analytique" pour bailleurs et consultants.
 
-**R9 — Absence de financement (Score 12)**
+**R9, Absence de financement (Score 12)**
 
 Difficulte a lever des fonds après la phase initiale.
 
 - *Mitigation* : construire un narratif appuye sur les succès documentes des drones medicaux en Afrique. Identifier 2-3 programmes cibles (Gavi, fondations sante mondiale, fonds d'innovation publics).
 
-**R15 — Fuite de donnees (Score 12)**
+**R15, Fuite de donnees (Score 12)**
 
 Publication involontaire de cartes detaillant des sites strategiques.
 
@@ -649,7 +649,7 @@ Publication involontaire de cartes detaillant des sites strategiques.
 
 ## 8. Planification par scénarios
 
-### 8.1. Scenario optimiste — "Reference pedagogique et point d'entree marche"
+### 8.1. Scenario optimiste, "Reference pedagogique et point d'entree marche"
 
 Le MVP est livre dans les delais avec une demonstration fluide. Le projet attire l'attention d'incubateurs et d'ONG. Un ou deux partenaires proposent d'utiliser DHG pour une etude exploratoire.
 
@@ -657,21 +657,21 @@ Le MVP est livre dans les delais avec une demonstration fluide. Le projet attire
 - **ARR fin Y3 : 3 744 000 euros. EBITDA Y3 : +1 580 000 euros.**
 - Reponse strategique : formaliser un plan produit post-certification et un pitch deck oriente sante publique Afrique. Chercher activement des financements d'amorcage.
 
-### 8.2. Scenario central — "Projet solide, maturation lente du marche"
+### 8.2. Scenario central, "Projet solide, maturation lente du marche"
 
 Le MVP est fonctionnel mais avec quelques limitations (meteo simplifiee, UX perfectible). Le projet est reconnu comme techniquement solide, mais les demarches de partenariats avancent lentement.
 
 - **ARR fin Y3 : 1 585 920 euros. EBITDA Y3 : +699 349 euros. Breakeven cumule : Y2-Q2.**
 - Reponse strategique : geler une version stable du code, bien documentee. Entretenir une veille marché (réglementation GCAA, evolutions Zipline, appels a projets drones sante).
 
-### 8.3. Scenario pessimiste — "Difficultes techniques et decalage marche"
+### 8.3. Scenario pessimiste, "Difficultes techniques et decalage marche"
 
 Les etapes ETL / modélisation prennent plus de temps que prevu. Le marché ghaneeen se structure davantage autour d'outils proprietaires.
 
 - **ARR fin Y3 : 460 800 euros. EBITDA Y3 : -89 000 euros. Breakeven : non atteint sans capital additionnel.**
 - Reponse strategique : documenter au maximum l'architecture et les choix algorithmiques. Repositionner l'approche sur d'autrès cas d'usage logistiques.
 
-### 8.4. Scenario "cygne noir" — "Rupture réglementaire ou incident majeur"
+### 8.4. Scenario "cygne noir", "Rupture réglementaire ou incident majeur"
 
 Un incident significatif impliquant un drone medical au Ghana entraine une vague de mefiance publique et un durcissement soudain de la réglementation GCAA. Les autorites reduisent fortement les autorisations de vol.
 

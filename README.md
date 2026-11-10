@@ -8,7 +8,7 @@
 
 # Optimisation de Hubs de Drones Médicaux au Ghana
 
-Projet de groupe — certification Jedha Bootcamp (BLOC 6 — Direction de projets de gestion de données)
+Projet de groupe pour la certification Jedha Bootcamp (BLOC 6 : Direction de projets de gestion de données)
 Promotion DSFS-FT-39-2026
 
 Application déployée : [projetfinaldrone-apps-ghana.streamlit.app](https://projetfinaldrone-apps-ghana.streamlit.app/)
@@ -33,6 +33,8 @@ Trois approches de modélisation ont été comparées sur les facilities rurales
 | Mathieu LE FAOU | Modélisation hybride VTOL (micro-hubs 30 km) |
 | Semia BEN AMARA | Extension du réseau Zipline existant |
 | Athanor SAVOUILLAN | Modélisation from scratch, ETL, application Streamlit |
+
+Travail collectif : chaque contribution individuelle est versionnée dans `notebooks/contributions_EDA/` et `notebooks/contributions_modeling/`.
 
 ---
 
@@ -235,11 +237,11 @@ PROJET_FINAL_Drone-Hubs-Ghana/
 
 ## Auteur
 
-Équipe MASA — Jedha Bootcamp, promotion DSFS-FT-39-2026
+Équipe MASA, Jedha Bootcamp, promotion DSFS-FT-39-2026
 
 | Membre | GitHub |
 |--------|--------|
 | Athanor SAVOUILLAN (lead technique) | [@athanormark](https://github.com/athanormark) |
-| Alicia MARZOUK | — |
-| Mathieu LE FAOU | — |
-| Semia BEN AMARA | — |
+| Alicia MARZOUK | (non renseigné) |
+| Mathieu LE FAOU | (non renseigné) |
+| Semia BEN AMARA | (non renseigné) |
