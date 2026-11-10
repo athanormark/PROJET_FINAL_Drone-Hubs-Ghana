@@ -13,9 +13,7 @@ Promotion DSFS-FT-39-2026
 
 Application déployée : [projetfinaldrone-apps-ghana.streamlit.app](https://projetfinaldrone-apps-ghana.streamlit.app/)
 
----
-
-## À propos
+## Contexte et rôle
 
 Les zones rurales du Ghana (44 % de la population, ~14,5 millions de personnes) souffrent d'un accès limité aux soins d'urgence. Les routes sont dégradées, les délais d'acheminement de fournitures vitales atteignent plusieurs heures. La mortalité maternelle reste élevée (263 pour 100 000 naissances vivantes, OMS).
 
@@ -23,9 +21,7 @@ Ce projet utilise le Machine Learning non supervisé (K-Means) pour déterminer 
 
 Trois approches de modélisation ont été comparées sur les facilities rurales (1 150 sur 2 463). Le réseau hybride retenu couvre 98 % des facilities rurales du pays.
 
----
-
-## Équipe
+### Équipe
 
 | Membre | Contribution |
 |--------|-------------|
@@ -36,15 +32,22 @@ Trois approches de modélisation ont été comparées sur les facilities rurales
 
 Travail collectif : chaque contribution individuelle est versionnée dans `notebooks/contributions_EDA/` et `notebooks/contributions_modeling/`.
 
----
-
-## Contexte
+### Contexte du marché
 
 Le marché de la livraison médicale par drone est évalué à 294 M$ en 2024, projeté à 2,5 Mds$ d'ici 2034 (CAGR 24,1 %). L'Afrique subsaharienne affiche une croissance supérieure à 40 %.
 
 Au Ghana, l'opérateur dominant Zipline (valorisé 7,6 Mds$) facture ~88 000 $/mois par centre au gouvernement, qui a accumulé ~15 M$ d'impayés en 2025. Les 6 hubs Zipline existants ne couvrent que 65,6 % des facilities rurales dans un rayon de 80 km.
 
 Pour l'analyse concurrentielle complète, voir le [Cadrage Business](docs/cadrage_business.md).
+
+---
+
+## Fonctionnalités
+
+- Analyse exploratoire des villages et des facilities de santé du Ghana (notebook `notebooks/01_eda.ipynb`).
+- Comparaison de trois approches de modélisation du réseau de hubs de drones, dont K-Means non supervisé (notebook `notebooks/02_modeling.ipynb`).
+- Application Streamlit de visualisation du réseau retenu (`app/main.py`), déployée en ligne.
+- Contributions individuelles de l'équipe versionnées dans `notebooks/contributions_EDA/` et `notebooks/contributions_modeling/`.
 
 ---
 
@@ -81,6 +84,21 @@ Les trois sources de facilities sont croisées par `osm_id` puis par proximité 
 | Villages à plus de 30 km | 313 (3,5 %) |
 | Population isolée (> 30 km) | 423 015 |
 | Couverture Zipline actuelle (rural, 80 km) | 65,6 % (754 / 1 150) |
+
+---
+
+## Stack
+
+| Composant | Technologie | Version |
+|-----------|-------------|---------|
+| Langage | Python | 3.11 |
+| Manipulation | pandas | 2.3.2 |
+| ML | scikit-learn | 1.7.2 |
+| Géospatial | geopandas | 1.0.1 |
+| Cartographie | folium | 0.19.4 |
+| Dashboard | streamlit | 1.46.0 |
+| Visualisations | plotly | 5.24.1 |
+| API Météo | openmeteo-requests | 1.3.0 |
 
 ---
 
@@ -143,22 +161,7 @@ Note : l'analyse porte sur les 1 150 facilities rurales (46,7 % des 2 463 totale
 
 ---
 
-## Stack technique
-
-| Composant | Technologie | Version |
-|-----------|-------------|---------|
-| Langage | Python | 3.11 |
-| Manipulation | pandas | 2.3.2 |
-| ML | scikit-learn | 1.7.2 |
-| Géospatial | geopandas | 1.0.1 |
-| Cartographie | folium | 0.19.4 |
-| Dashboard | streamlit | 1.46.0 |
-| Visualisations | plotly | 5.24.1 |
-| API Météo | openmeteo-requests | 1.3.0 |
-
----
-
-## Installation
+## Lancer le projet
 
 ### Prérequis
 
@@ -236,6 +239,8 @@ PROJET_FINAL_Drone-Hubs-Ghana/
 ---
 
 ## Auteur
+
+Athanor Savouillan · [Réalisations](https://atelia-conseil.com/realisations/) · [GitHub](https://github.com/athanormark)
 
 Équipe MASA, Jedha Bootcamp, promotion DSFS-FT-39-2026
 
